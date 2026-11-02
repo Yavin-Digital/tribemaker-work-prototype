@@ -1,0 +1,194 @@
+{
+  "projects": [
+    {
+      "number": "01",
+      "slug": "kissee",
+      "shortName": "Kissee",
+      "client": "Kissee Inspections",
+      "category": "home inspections · custom website",
+      "headline": "A Dallas–Fort Worth site for requesting home, new-construction, and specialty inspections, with same-day digital reports.",
+      "url": "https://kisseeinspections.com",
+      "pending": false,
+      "images": {
+        "desktop": {
+          "webp": "assets/shots/kissee-desktop.webp",
+          "fallback": "assets/shots/kissee-desktop.jpg",
+          "width": 1440,
+          "height": 900,
+          "alt": "Homepage of Kissee Inspections, a DFW home inspection site"
+        },
+        "phone": {
+          "webp": "assets/shots/kissee-phone.webp",
+          "fallback": "assets/shots/kissee-phone.jpg",
+          "width": 780,
+          "height": 1688,
+          "alt": "Kissee Inspections homepage on a phone"
+        },
+        "blur": "assets/shots/kissee-blur.webp"
+      }
+    },
+    {
+      "number": "02",
+      "slug": "doorstep",
+      "shortName": "Doorstep",
+      "client": "Doorstep Local",
+      "category": "neighborhood directories · custom website",
+      "headline": "Neighborhood directories where a local business keeps a profile and people in that community can find it.",
+      "url": "https://doorsteplocal.com",
+      "pending": false,
+      "images": {
+        "desktop": {
+          "webp": "assets/shots/doorstep-desktop.webp",
+          "fallback": "assets/shots/doorstep-desktop.jpg",
+          "width": 1440,
+          "height": 900,
+          "alt": "Homepage of Doorstep Local, a neighborhood directory site"
+        },
+        "phone": {
+          "webp": "assets/shots/doorstep-phone.webp",
+          "fallback": "assets/shots/doorstep-phone.jpg",
+          "width": 780,
+          "height": 1688,
+          "alt": "Doorstep Local homepage on a phone"
+        },
+        "blur": "assets/shots/doorstep-blur.webp"
+      }
+    },
+    {
+      "number": "03",
+      "slug": "apex",
+      "shortName": "APEX",
+      "client": "APEX Peptide IQ",
+      "category": "research reference · digital product",
+      "headline": "A research reference for peptide profiles, reconstitution math, cycle planning, and exportable protocols.",
+      "url": "https://apexpeptideiq.com",
+      "pending": false,
+      "images": {
+        "desktop": {
+          "webp": "assets/shots/apex-desktop.webp",
+          "fallback": "assets/shots/apex-desktop.jpg",
+          "width": 1440,
+          "height": 900,
+          "alt": "Homepage of APEX Peptide IQ, a peptide research reference"
+        },
+        "phone": {
+          "webp": "assets/shots/apex-phone.webp",
+          "fallback": "assets/shots/apex-phone.jpg",
+          "width": 780,
+          "height": 1688,
+          "alt": "APEX Peptide IQ homepage on a phone"
+        },
+        "blur": "assets/shots/apex-blur.webp"
+      }
+    },
+    {
+      "number": "04",
+      "slug": "peak",
+      "shortName": "Peak",
+      "client": "Peak Chain Peptides",
+      "category": "research peptides · custom website",
+      "headline": "A research catalog and library for peptide compounds, limited to laboratory use and paired with educational pages.",
+      "url": "https://peakchainpeptides.com",
+      "pending": false,
+      "images": {
+        "desktop": {
+          "webp": "assets/shots/peak-desktop.webp",
+          "fallback": "assets/shots/peak-desktop.jpg",
+          "width": 1440,
+          "height": 900,
+          "alt": "Homepage of Peak Chain Peptides, a research compound catalog"
+        },
+        "phone": {
+          "webp": "assets/shots/peak-phone.webp",
+          "fallback": "assets/shots/peak-phone.jpg",
+          "width": 780,
+          "height": 1688,
+          "alt": "Peak Chain Peptides homepage on a phone"
+        },
+        "blur": "assets/shots/peak-blur.webp"
+      }
+    },
+    {
+      "number": "05",
+      "slug": "medreps",
+      "shortName": "MedReps",
+      "client": "MedRepsRx",
+      "category": "regenerative health · custom website",
+      "headline": "A provider site presenting three regenerative lines: peptides, a 503A compound pharmacy, and human MSC stem cell exosomes.",
+      "url": "https://medrepsrx.com",
+      "pending": false,
+      "images": {
+        "desktop": {
+          "webp": "assets/shots/medreps-desktop.webp",
+          "fallback": "assets/shots/medreps-desktop.jpg",
+          "width": 1440,
+          "height": 680,
+          "alt": "Homepage of MedRepsRx, the MedReps Medical Solutions site"
+        },
+        "phone": {
+          "webp": "assets/shots/medreps-phone.webp",
+          "fallback": "assets/shots/medreps-phone.jpg",
+          "width": 780,
+          "height": 1560,
+          "alt": "MedRepsRx homepage on a phone"
+        },
+        "blur": "assets/shots/medreps-blur.webp"
+      }
+    },
+    {
+      "number": "06",
+      "slug": "drinkfre",
+      "shortName": "DrinkFre",
+      "client": "DrinkFre",
+      "category": "product website · holographic card",
+      "headline": "A product site for a reusable holographic card that sits under a glass for a place, pause, and sip ritual.",
+      "url": "https://drinkfre.com",
+      "pending": false,
+      "images": {
+        "desktop": {
+          "webp": "assets/shots/drinkfre-desktop.webp",
+          "fallback": "assets/shots/drinkfre-desktop.jpg",
+          "width": 1440,
+          "height": 900,
+          "alt": "Homepage of DrinkFrē, a holographic card product site"
+        },
+        "phone": {
+          "webp": "assets/shots/drinkfre-phone.webp",
+          "fallback": "assets/shots/drinkfre-phone.jpg",
+          "width": 780,
+          "height": 1688,
+          "alt": "DrinkFrē homepage on a phone"
+        },
+        "blur": "assets/shots/drinkfre-blur.webp"
+      }
+    },
+    {
+      "number": "07",
+      "slug": "threads",
+      "shortName": "Threads",
+      "client": "Texas Threads",
+      "category": "texas apparel · custom shop",
+      "venture": "a Tribe Maker venture",
+      "headline": "An online shop for tees, hats, and collections, owned and operated in Texas.",
+      "url": "https://weartexasthreads.com",
+      "pending": false,
+      "images": {
+        "desktop": {
+          "webp": "assets/shots/threads-desktop.webp",
+          "fallback": "assets/shots/threads-desktop.jpg",
+          "width": 1440,
+          "height": 900,
+          "alt": "Homepage of Texas Threads, a Texas apparel shop"
+        },
+        "phone": {
+          "webp": "assets/shots/threads-phone.webp",
+          "fallback": "assets/shots/threads-phone.jpg",
+          "width": 780,
+          "height": 1688,
+          "alt": "Texas Threads homepage on a phone"
+        },
+        "blur": "assets/shots/threads-blur.webp"
+      }
+    }
+  ]
+}
