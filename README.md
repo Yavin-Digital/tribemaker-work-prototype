@@ -2,7 +2,7 @@
 
 A static prototype of The Tribe Maker work page. It lists live client sites in numbered, full-width sections. Copy stays with what each site actually is. There are no invented metrics, quotes, or testimonials.
 
-The page is published with GitHub Pages from `main`. The custom domain is `tribemakerwork.clientreview.co` (`CNAME` at the repo root).
+The page is meant to be published with GitHub Pages from the `main` branch, root folder. `CNAME` sets the custom domain to `tribemakerwork.clientreview.co`. Turning the site on is a repository admin step: Settings → Pages → Deploy from a branch → `main` → `/ (root)`. The GitHub App token used for this prototype cannot create a Pages site (`pages: write` and `administration: write` are required).
 
 ## Run it locally
 
