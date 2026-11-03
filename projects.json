@@ -437,7 +437,7 @@
       "number": "17",
       "slug": "allplay",
       "shortName": "All Play",
-      "client": "All Play Inc. \u2014 Commercial Playground Equipment",
+      "client": "All Play Inc.",
       "category": "houston, tx",
       "headline": "All Play Inc. designs, supplies, installs, and maintains commercial playground equipment for schools, municipalities, HOAs, churches, and parks across Greater Houston \u2014 CPSI-certified, ADA-compliant, and built right the ",
       "url": "https://allplay.clientreview.co/",
@@ -448,14 +448,14 @@
           "fallback": "assets/shots/allplay-desktop.jpg",
           "width": 1440,
           "height": 900,
-          "alt": "Homepage of All Play Inc. \u2014 Commercial Playground Equipment"
+          "alt": "Homepage of All Play Inc."
         },
         "phone": {
           "webp": "assets/shots/allplay-phone.webp",
           "fallback": "assets/shots/allplay-phone.jpg",
           "width": 390,
           "height": 844,
-          "alt": "All Play Inc. \u2014 Commercial Playground Equipment homepage on a phone"
+          "alt": "All Play Inc. homepage on a phone"
         },
         "blur": "assets/shots/allplay-blur.webp"
       }
@@ -544,8 +544,8 @@
     {
       "number": "21",
       "slug": "kdcollegeprep",
-      "shortName": "SAT, ACT",
-      "client": "SAT, ACT and College Counseling in DFW",
+      "shortName": "KD Prep",
+      "client": "KD College Prep",
       "category": "kd college prep",
       "headline": "KD College Prep helps 7th to 12th graders in Coppell, Frisco, Plano and online prepare for the PSAT, SAT and ACT tests and apply to college. Schedule a free consultation.",
       "url": "https://kdcollegeprep.clientreview.co/",
@@ -556,14 +556,14 @@
           "fallback": "assets/shots/kdcollegeprep-desktop.jpg",
           "width": 1440,
           "height": 900,
-          "alt": "Homepage of SAT, ACT and College Counseling in DFW"
+          "alt": "Homepage of KD College Prep"
         },
         "phone": {
           "webp": "assets/shots/kdcollegeprep-phone.webp",
           "fallback": "assets/shots/kdcollegeprep-phone.jpg",
           "width": 390,
           "height": 844,
-          "alt": "SAT, ACT and College Counseling in DFW homepage on a phone"
+          "alt": "KD College Prep homepage on a phone"
         },
         "blur": "assets/shots/kdcollegeprep-blur.webp"
       }
@@ -598,8 +598,8 @@
     {
       "number": "23",
       "slug": "monteslaw",
-      "shortName": "Personal Injury",
-      "client": "Personal Injury Trial Lawyer, Colleyville TX",
+      "shortName": "Montes Law",
+      "client": "Montes Law",
       "category": "montes law",
       "headline": "Seriously hurt in Texas? Montes Law PLLC works with injured people and families in English and Spanish. Call (817) 801-9400.",
       "url": "https://monteslaw.clientreview.co/",
@@ -610,14 +610,14 @@
           "fallback": "assets/shots/monteslaw-desktop.jpg",
           "width": 1440,
           "height": 900,
-          "alt": "Homepage of Personal Injury Trial Lawyer, Colleyville TX"
+          "alt": "Homepage of Montes Law"
         },
         "phone": {
           "webp": "assets/shots/monteslaw-phone.webp",
           "fallback": "assets/shots/monteslaw-phone.jpg",
           "width": 390,
           "height": 844,
-          "alt": "Personal Injury Trial Lawyer, Colleyville TX homepage on a phone"
+          "alt": "Montes Law homepage on a phone"
         },
         "blur": "assets/shots/monteslaw-blur.webp"
       }
@@ -679,8 +679,8 @@
     {
       "number": "26",
       "slug": "ncutility",
-      "shortName": "Trailer Sales,",
-      "client": "Trailer Sales, Service & Parts",
+      "shortName": "NC Utility",
+      "client": "North Central Utility",
       "category": "north central utility",
       "headline": "Semi-trailer sales, parts, service and rentals across Wisconsin, Minnesota and North Dakota. 10 locations and 40+ years keeping fleets moving.",
       "url": "https://ncutility.clientreview.co/",
@@ -691,14 +691,14 @@
           "fallback": "assets/shots/ncutility-desktop.jpg",
           "width": 1440,
           "height": 900,
-          "alt": "Homepage of Trailer Sales, Service & Parts"
+          "alt": "Homepage of North Central Utility"
         },
         "phone": {
           "webp": "assets/shots/ncutility-phone.webp",
           "fallback": "assets/shots/ncutility-phone.jpg",
           "width": 390,
           "height": 844,
-          "alt": "Trailer Sales, Service & Parts homepage on a phone"
+          "alt": "North Central Utility homepage on a phone"
         },
         "blur": "assets/shots/ncutility-blur.webp"
       }
@@ -706,8 +706,8 @@
     {
       "number": "27",
       "slug": "ufixit",
-      "shortName": "Appliance Parts",
-      "client": "Appliance Parts Store Texas \u2014 Shop Online",
+      "shortName": "U-FIX-IT",
+      "client": "U-FIX-IT Appliance Parts",
       "category": "u-fix-it appliance parts",
       "headline": "Shop appliance parts online from U-FIX-IT: refrigerator, washer, dryer, range and dishwasher parts. Free diagnosis help, same-day shipping on in-stock parts, 4 Texas stores.",
       "url": "https://ufixit.clientreview.co/",
@@ -718,14 +718,14 @@
           "fallback": "assets/shots/ufixit-desktop.jpg",
           "width": 1440,
           "height": 900,
-          "alt": "Homepage of Appliance Parts Store Texas \u2014 Shop Online"
+          "alt": "Homepage of U-FIX-IT Appliance Parts"
         },
         "phone": {
           "webp": "assets/shots/ufixit-phone.webp",
           "fallback": "assets/shots/ufixit-phone.jpg",
           "width": 390,
           "height": 844,
-          "alt": "Appliance Parts Store Texas \u2014 Shop Online homepage on a phone"
+          "alt": "U-FIX-IT Appliance Parts homepage on a phone"
         },
         "blur": "assets/shots/ufixit-blur.webp"
       }
@@ -733,8 +733,8 @@
     {
       "number": "28",
       "slug": "valorem",
-      "shortName": "Social casino",
-      "client": "Social casino and webinars",
+      "shortName": "Valorem",
+      "client": "Valorem",
       "category": "review prototype",
       "headline": "Social casino games and live webinars. Play with Valorem. Reserve a numbered seat with Ips.",
       "url": "https://valorem.clientreview.co/",
@@ -745,14 +745,14 @@
           "fallback": "assets/shots/valorem-desktop.jpg",
           "width": 1440,
           "height": 900,
-          "alt": "Homepage of Social casino and webinars"
+          "alt": "Homepage of Valorem"
         },
         "phone": {
           "webp": "assets/shots/valorem-phone.webp",
           "fallback": "assets/shots/valorem-phone.jpg",
           "width": 390,
           "height": 844,
-          "alt": "Social casino and webinars homepage on a phone"
+          "alt": "Valorem homepage on a phone"
         },
         "blur": "assets/shots/valorem-blur.webp"
       }
@@ -787,8 +787,8 @@
     {
       "number": "30",
       "slug": "harvestdirectory",
-      "shortName": "Harvest Business",
-      "client": "Harvest Business Directory - Argyle & Northlake Texas",
+      "shortName": "Harvest",
+      "client": "Harvest Directory",
       "category": "doorstep local",
       "headline": "Harvest Directory is your local hub for trusted businesses, important contacts, neighborhood updates, events, offers, and resources serving our community.",
       "url": "https://harvestdirectory.com/",
@@ -799,14 +799,14 @@
           "fallback": "assets/shots/harvestdirectory-desktop.jpg",
           "width": 1440,
           "height": 900,
-          "alt": "Homepage of Harvest Business Directory - Argyle & Northlake Texas"
+          "alt": "Homepage of Harvest Directory"
         },
         "phone": {
           "webp": "assets/shots/harvestdirectory-phone.webp",
           "fallback": "assets/shots/harvestdirectory-phone.jpg",
           "width": 390,
           "height": 844,
-          "alt": "Harvest Business Directory - Argyle & Northlake Texas homepage on a phone"
+          "alt": "Harvest Directory homepage on a phone"
         },
         "blur": "assets/shots/harvestdirectory-blur.webp"
       }
@@ -949,8 +949,8 @@
     {
       "number": "36",
       "slug": "alltex",
-      "shortName": "Plumbing Services",
-      "client": "Plumbing Services in Houston TX",
+      "shortName": "All-Tex",
+      "client": "All-Tex Plumbing",
       "category": "all-tex plumbing",
       "headline": "Looking for reliable plumbing services in Houston TX? All-Tex Plumbing offers residential and commercial repairs, installations and 24/7 emergency support.",
       "url": "https://alltex.clientreview.co/",
@@ -961,14 +961,14 @@
           "fallback": "assets/shots/alltex-desktop.jpg",
           "width": 1440,
           "height": 900,
-          "alt": "Homepage of Plumbing Services in Houston TX"
+          "alt": "Homepage of All-Tex Plumbing"
         },
         "phone": {
           "webp": "assets/shots/alltex-phone.webp",
           "fallback": "assets/shots/alltex-phone.jpg",
           "width": 390,
           "height": 844,
-          "alt": "Plumbing Services in Houston TX homepage on a phone"
+          "alt": "All-Tex Plumbing homepage on a phone"
         },
         "blur": "assets/shots/alltex-blur.webp"
       }
@@ -1111,8 +1111,8 @@
     {
       "number": "42",
       "slug": "chiltonautobody",
-      "shortName": "Trusted Auto",
-      "client": "Trusted Auto Body Experts for 50+ Years.",
+      "shortName": "Chilton",
+      "client": "Chilton Auto Body",
       "category": "chilton auto body",
       "headline": "Proudly serving communities across Northern and Southern California with expert repairs, friendly service, and a commitment to quality.",
       "url": "https://chiltonautobody.clientreview.co/",
@@ -1123,14 +1123,14 @@
           "fallback": "assets/shots/chiltonautobody-desktop.jpg",
           "width": 1440,
           "height": 900,
-          "alt": "Homepage of Trusted Auto Body Experts for 50+ Years."
+          "alt": "Homepage of Chilton Auto Body"
         },
         "phone": {
           "webp": "assets/shots/chiltonautobody-phone.webp",
           "fallback": "assets/shots/chiltonautobody-phone.jpg",
           "width": 390,
           "height": 844,
-          "alt": "Trusted Auto Body Experts for 50+ Years. homepage on a phone"
+          "alt": "Chilton Auto Body homepage on a phone"
         },
         "blur": "assets/shots/chiltonautobody-blur.webp"
       }
@@ -1166,7 +1166,7 @@
       "number": "44",
       "slug": "yourpoolrepairguy",
       "shortName": "Pool Repair",
-      "client": "Pool Repair & Maintenance in Lakeway, TX",
+      "client": "Your Pool Repair Guy",
       "category": "your pool repair guy",
       "headline": "Stress-free pool, hot tub, and outdoor living services for homeowners across Lakeway and the Lake Travis area. Call Now.",
       "url": "https://yourpoolrepairguy.clientreview.co/",
@@ -1177,14 +1177,14 @@
           "fallback": "assets/shots/yourpoolrepairguy-desktop.jpg",
           "width": 1440,
           "height": 900,
-          "alt": "Homepage of Pool Repair & Maintenance in Lakeway, TX"
+          "alt": "Homepage of Your Pool Repair Guy"
         },
         "phone": {
           "webp": "assets/shots/yourpoolrepairguy-phone.webp",
           "fallback": "assets/shots/yourpoolrepairguy-phone.jpg",
           "width": 390,
           "height": 844,
-          "alt": "Pool Repair & Maintenance in Lakeway, TX homepage on a phone"
+          "alt": "Your Pool Repair Guy homepage on a phone"
         },
         "blur": "assets/shots/yourpoolrepairguy-blur.webp"
       }
@@ -1273,8 +1273,8 @@
     {
       "number": "48",
       "slug": "lonestararms",
-      "shortName": "Saiga 12,",
-      "client": "Saiga 12, Vepr 12 & KS-12 Rebuilds",
+      "shortName": "Lone Star",
+      "client": "Lone Star Arms",
       "category": "lone star arms",
       "headline": "High-performance rebuilds for Saiga 12, Vepr 12, and Kalashnikov USA KS-12 shotguns, and Komrad and KHAOS firearms. Rebuilds are $1,500. Call (505) 263-8822.",
       "url": "https://lonestararms.com/",
@@ -1285,14 +1285,14 @@
           "fallback": "assets/shots/lonestararms-desktop.jpg",
           "width": 1440,
           "height": 900,
-          "alt": "Homepage of Saiga 12, Vepr 12 & KS-12 Rebuilds"
+          "alt": "Homepage of Lone Star Arms"
         },
         "phone": {
           "webp": "assets/shots/lonestararms-phone.webp",
           "fallback": "assets/shots/lonestararms-phone.jpg",
           "width": 390,
           "height": 844,
-          "alt": "Saiga 12, Vepr 12 & KS-12 Rebuilds homepage on a phone"
+          "alt": "Lone Star Arms homepage on a phone"
         },
         "blur": "assets/shots/lonestararms-blur.webp"
       }
