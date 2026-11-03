@@ -49,6 +49,15 @@
   padding: 2rem 0 1.5rem;
 }
 
+.cs-kicker,
+.browser-url,
+.cs-meta dd,
+.case h1,
+.case h2,
+.detail-card h3 {
+  overflow-wrap: anywhere;
+}
+
 .cs-kicker {
   display: flex;
   align-items: center;

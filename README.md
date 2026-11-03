@@ -95,7 +95,7 @@ Paths must start with `assets/` and must not contain `..`. The renderer ignores 
 
 ## Case study pages
 
-Each project in the grid links to `/work/{slug}/`. The pages follow the section order of the Hive study on thetribemaker.com: cover, brief, identity, mobile, detail, quote, long scroll, credits. Copy is taken from the live site, a review prototype when one is up, or this repo. Missing proof is a gap block. The log is `content-gaps.md`.
+Each project in the grid links to `/work/{slug}/`. Later clients were added from review prototypes at `{slug}.clientreview.co`, or from the live site when that host did not answer. Clients with neither are listed under Skipped in `content-gaps.md`. Custom Fit Coverage stays off the grid. The pages follow the section order of the Hive study on thetribemaker.com: cover, brief, identity, mobile, detail, quote, long scroll, credits. Copy is taken from the live site, a review prototype when one is up, or this repo. Missing proof is a gap block. The log is `content-gaps.md`.
 
 Regenerate the pages after editing `scripts/build_cases.py`:
 
