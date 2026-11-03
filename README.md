@@ -93,6 +93,16 @@ Paths must start with `assets/` and must not contain `..`. The renderer ignores 
 }
 ```
 
+## Case study pages
+
+Each project in the grid links to `/work/{slug}/`. The pages follow the section order of the Hive study on thetribemaker.com: cover, brief, identity, mobile, detail, quote, long scroll, credits. Copy is taken from the live site, a review prototype when one is up, or this repo. Missing proof is a gap block. The log is `content-gaps.md`.
+
+Regenerate the pages after editing `scripts/build_cases.py`:
+
+```bash
+python3 scripts/build_cases.py
+```
+
 ## Layout
 
 Mobile first. Breakpoints are 640px and 1024px. Content sits on a 12-column grid and is centered when it does not fill the row. Body text is at least 16px. Type is Fraunces and Sora. Color comes from The Tribe Maker: ink `#131419`, blue `#0729aa`, honey `#ffaf00`, cream `#faf6ee`.
