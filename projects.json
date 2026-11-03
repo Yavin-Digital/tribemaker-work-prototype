@@ -5,8 +5,8 @@
       "slug": "kissee",
       "shortName": "Kissee",
       "client": "Kissee Inspections",
-      "category": "home inspections · custom website",
-      "headline": "A Dallas–Fort Worth site for requesting home, new-construction, and specialty inspections, with same-day digital reports.",
+      "category": "home inspections \u00b7 custom website",
+      "headline": "A Dallas\u2013Fort Worth site for requesting home, new-construction, and specialty inspections, with same-day digital reports.",
       "url": "https://kisseeinspections.com",
       "pending": false,
       "images": {
@@ -32,7 +32,7 @@
       "slug": "doorstep",
       "shortName": "Doorstep",
       "client": "Doorstep Local",
-      "category": "neighborhood directories · custom website",
+      "category": "neighborhood directories \u00b7 custom website",
       "headline": "Neighborhood directories where a local business keeps a profile and people in that community can find it.",
       "url": "https://doorsteplocal.com",
       "pending": false,
@@ -59,7 +59,7 @@
       "slug": "apex",
       "shortName": "APEX",
       "client": "APEX Peptide IQ",
-      "category": "research reference · digital product",
+      "category": "research reference \u00b7 digital product",
       "headline": "A research reference for peptide profiles, reconstitution math, cycle planning, and exportable protocols.",
       "url": "https://apexpeptideiq.com",
       "pending": false,
@@ -86,7 +86,7 @@
       "slug": "peak",
       "shortName": "Peak",
       "client": "Peak Chain Peptides",
-      "category": "research peptides · custom website",
+      "category": "research peptides \u00b7 custom website",
       "headline": "A research catalog and library for peptide compounds, limited to laboratory use and paired with educational pages.",
       "url": "https://peakchainpeptides.com",
       "pending": false,
@@ -113,7 +113,7 @@
       "slug": "medreps",
       "shortName": "MedReps",
       "client": "MedRepsRx",
-      "category": "regenerative health · custom website",
+      "category": "regenerative health \u00b7 custom website",
       "headline": "A provider site presenting three regenerative lines: peptides, a 503A compound pharmacy, and human MSC stem cell exosomes.",
       "url": "https://medrepsrx.com",
       "pending": false,
@@ -140,7 +140,7 @@
       "slug": "drinkfre",
       "shortName": "DrinkFre",
       "client": "DrinkFre",
-      "category": "product website · holographic card",
+      "category": "product website \u00b7 holographic card",
       "headline": "A product site for a reusable holographic card that sits under a glass for a place, pause, and sip ritual.",
       "url": "https://drinkfre.com",
       "pending": false,
@@ -150,14 +150,14 @@
           "fallback": "assets/shots/drinkfre-desktop.jpg",
           "width": 1440,
           "height": 900,
-          "alt": "Homepage of DrinkFrē, a holographic card product site"
+          "alt": "Homepage of DrinkFr\u0113, a holographic card product site"
         },
         "phone": {
           "webp": "assets/shots/drinkfre-phone.webp",
           "fallback": "assets/shots/drinkfre-phone.jpg",
           "width": 780,
           "height": 1688,
-          "alt": "DrinkFrē homepage on a phone"
+          "alt": "DrinkFr\u0113 homepage on a phone"
         },
         "blur": "assets/shots/drinkfre-blur.webp"
       }
@@ -167,7 +167,7 @@
       "slug": "threads",
       "shortName": "Threads",
       "client": "Texas Threads",
-      "category": "texas apparel · custom shop",
+      "category": "texas apparel \u00b7 custom shop",
       "venture": "a Tribe Maker venture",
       "headline": "An online shop for tees, hats, and collections, owned and operated in Texas.",
       "url": "https://weartexasthreads.com",
@@ -188,6 +188,1140 @@
           "alt": "Texas Threads homepage on a phone"
         },
         "blur": "assets/shots/threads-blur.webp"
+      }
+    },
+    {
+      "number": "08",
+      "slug": "time2shine",
+      "shortName": "Time To",
+      "client": "Time To Shine Performing Arts",
+      "category": "where every child gets to shine",
+      "headline": "Time To Shine Performing Arts offers acting, dance, voice, summer camps, and private lessons for children and teens in Keller, TX.",
+      "url": "https://time2shine.clientreview.co/",
+      "pending": false,
+      "images": {
+        "desktop": {
+          "webp": "assets/shots/time2shine-desktop.webp",
+          "fallback": "assets/shots/time2shine-desktop.jpg",
+          "width": 1440,
+          "height": 900,
+          "alt": "Homepage of Time To Shine Performing Arts"
+        },
+        "phone": {
+          "webp": "assets/shots/time2shine-phone.webp",
+          "fallback": "assets/shots/time2shine-phone.jpg",
+          "width": 390,
+          "height": 844,
+          "alt": "Time To Shine Performing Arts homepage on a phone"
+        },
+        "blur": "assets/shots/time2shine-blur.webp"
+      }
+    },
+    {
+      "number": "09",
+      "slug": "safespacefl",
+      "shortName": "SafeSpace Florida",
+      "client": "SafeSpace Florida",
+      "category": "confidential help on the treasure coast",
+      "headline": "SafeSpace is the Treasure Coast\u2019s only state-certified domestic violence center, providing 24-hour safety, shelter, advocacy and support in Martin, St. Lucie and Indian River counties.",
+      "url": "https://safespacefl.clientreview.co/",
+      "pending": false,
+      "images": {
+        "desktop": {
+          "webp": "assets/shots/safespacefl-desktop.webp",
+          "fallback": "assets/shots/safespacefl-desktop.jpg",
+          "width": 1440,
+          "height": 900,
+          "alt": "Homepage of SafeSpace Florida"
+        },
+        "phone": {
+          "webp": "assets/shots/safespacefl-phone.webp",
+          "fallback": "assets/shots/safespacefl-phone.jpg",
+          "width": 390,
+          "height": 844,
+          "alt": "SafeSpace Florida homepage on a phone"
+        },
+        "blur": "assets/shots/safespacefl-blur.webp"
+      }
+    },
+    {
+      "number": "10",
+      "slug": "leadfoundation",
+      "shortName": "LEAD Foundation",
+      "client": "LEAD Foundation",
+      "category": "christian missions, trophy club tx",
+      "headline": "LEAD Foundation International, Inc. is an approved non-profit 501(c)(3) Organization focused on God and Giving back - enabling victory through Christ.",
+      "url": "https://leadfoundation.clientreview.co/",
+      "pending": false,
+      "images": {
+        "desktop": {
+          "webp": "assets/shots/leadfoundation-desktop.webp",
+          "fallback": "assets/shots/leadfoundation-desktop.jpg",
+          "width": 1440,
+          "height": 900,
+          "alt": "Homepage of LEAD Foundation"
+        },
+        "phone": {
+          "webp": "assets/shots/leadfoundation-phone.webp",
+          "fallback": "assets/shots/leadfoundation-phone.jpg",
+          "width": 390,
+          "height": 844,
+          "alt": "LEAD Foundation homepage on a phone"
+        },
+        "blur": "assets/shots/leadfoundation-blur.webp"
+      }
+    },
+    {
+      "number": "11",
+      "slug": "saltandlight",
+      "shortName": "Salt and",
+      "client": "Salt and Light Council",
+      "category": "monthly meetings and prayer, lewisville tx",
+      "headline": "Monthly meetings in Lewisville: special speakers, educational movies, forums and trainings. Mountain Movers Prayer Meeting 1st and 3rd Sundays, 7 PM.",
+      "url": "https://saltandlight.clientreview.co/",
+      "pending": false,
+      "images": {
+        "desktop": {
+          "webp": "assets/shots/saltandlight-desktop.webp",
+          "fallback": "assets/shots/saltandlight-desktop.jpg",
+          "width": 1440,
+          "height": 900,
+          "alt": "Homepage of Salt and Light Council"
+        },
+        "phone": {
+          "webp": "assets/shots/saltandlight-phone.webp",
+          "fallback": "assets/shots/saltandlight-phone.jpg",
+          "width": 390,
+          "height": 844,
+          "alt": "Salt and Light Council homepage on a phone"
+        },
+        "blur": "assets/shots/saltandlight-blur.webp"
+      }
+    },
+    {
+      "number": "12",
+      "slug": "citylife",
+      "shortName": "City Lifestyle",
+      "client": "City Lifestyle",
+      "category": "review prototype",
+      "headline": "We are not pay to play.",
+      "url": "https://citylife.clientreview.co/",
+      "pending": false,
+      "images": {
+        "desktop": {
+          "webp": "assets/shots/citylife-desktop.webp",
+          "fallback": "assets/shots/citylife-desktop.jpg",
+          "width": 1440,
+          "height": 900,
+          "alt": "Homepage of City Lifestyle"
+        },
+        "phone": {
+          "webp": "assets/shots/citylife-phone.webp",
+          "fallback": "assets/shots/citylife-phone.jpg",
+          "width": 390,
+          "height": 844,
+          "alt": "City Lifestyle homepage on a phone"
+        },
+        "blur": "assets/shots/citylife-blur.webp"
+      }
+    },
+    {
+      "number": "13",
+      "slug": "tribeschurch",
+      "shortName": "Tribes Church",
+      "client": "Tribes Church",
+      "category": "church in argyle, tx",
+      "headline": "Tribes Church is a church in Argyle, TX. Sundays 9:00 AM or 10:30 AM at Argyle West Elementary, 1741 Old Justin Rd. Find your Tribe or plan your visit.",
+      "url": "https://tribeschurch.clientreview.co/",
+      "pending": false,
+      "images": {
+        "desktop": {
+          "webp": "assets/shots/tribeschurch-desktop.webp",
+          "fallback": "assets/shots/tribeschurch-desktop.jpg",
+          "width": 1440,
+          "height": 900,
+          "alt": "Homepage of Tribes Church"
+        },
+        "phone": {
+          "webp": "assets/shots/tribeschurch-phone.webp",
+          "fallback": "assets/shots/tribeschurch-phone.jpg",
+          "width": 390,
+          "height": 844,
+          "alt": "Tribes Church homepage on a phone"
+        },
+        "blur": "assets/shots/tribeschurch-blur.webp"
+      }
+    },
+    {
+      "number": "14",
+      "slug": "boomerjacks",
+      "shortName": "BoomerJack's Grill",
+      "client": "BoomerJack's Grill & Bar",
+      "category": "sports bar & restaurant in dallas-fort worth & houston",
+      "headline": "Your neighborhood sports bar in Dallas-Fort Worth and Houston, patio restaurant, and all-around hang-out central. Find your location now.",
+      "url": "https://boomerjacks.clientreview.co/",
+      "pending": false,
+      "images": {
+        "desktop": {
+          "webp": "assets/shots/boomerjacks-desktop.webp",
+          "fallback": "assets/shots/boomerjacks-desktop.jpg",
+          "width": 1440,
+          "height": 900,
+          "alt": "Homepage of BoomerJack's Grill & Bar"
+        },
+        "phone": {
+          "webp": "assets/shots/boomerjacks-phone.webp",
+          "fallback": "assets/shots/boomerjacks-phone.jpg",
+          "width": 390,
+          "height": 844,
+          "alt": "BoomerJack's Grill & Bar homepage on a phone"
+        },
+        "blur": "assets/shots/boomerjacks-blur.webp"
+      }
+    },
+    {
+      "number": "15",
+      "slug": "rtrtexas",
+      "shortName": "Restore the",
+      "client": "Restore the Republic",
+      "category": "north texas patriots in little elm",
+      "headline": "RTR Texas meets every Friday 8:00 a.m. at Towers Tap House in Little Elm. Educate. Empower We the People. Hold our elected officials accountable.",
+      "url": "https://rtrtexas.clientreview.co/",
+      "pending": false,
+      "images": {
+        "desktop": {
+          "webp": "assets/shots/rtrtexas-desktop.webp",
+          "fallback": "assets/shots/rtrtexas-desktop.jpg",
+          "width": 1440,
+          "height": 900,
+          "alt": "Homepage of Restore the Republic"
+        },
+        "phone": {
+          "webp": "assets/shots/rtrtexas-phone.webp",
+          "fallback": "assets/shots/rtrtexas-phone.jpg",
+          "width": 390,
+          "height": 844,
+          "alt": "Restore the Republic homepage on a phone"
+        },
+        "blur": "assets/shots/rtrtexas-blur.webp"
+      }
+    },
+    {
+      "number": "16",
+      "slug": "aumakuadefense",
+      "shortName": "Aumakua Defense",
+      "client": "Aumakua Defense",
+      "category": "review prototype",
+      "headline": "Aumakua Defense. Where Ancient Protection Meets Modern Precision. Prototype storefront. Product names and prices have not been supplied. Photographs are labeled examples.",
+      "url": "https://aumakuadefense.clientreview.co/",
+      "pending": false,
+      "images": {
+        "desktop": {
+          "webp": "assets/shots/aumakuadefense-desktop.webp",
+          "fallback": "assets/shots/aumakuadefense-desktop.jpg",
+          "width": 1440,
+          "height": 900,
+          "alt": "Homepage of Aumakua Defense"
+        },
+        "phone": {
+          "webp": "assets/shots/aumakuadefense-phone.webp",
+          "fallback": "assets/shots/aumakuadefense-phone.jpg",
+          "width": 390,
+          "height": 844,
+          "alt": "Aumakua Defense homepage on a phone"
+        },
+        "blur": "assets/shots/aumakuadefense-blur.webp"
+      }
+    },
+    {
+      "number": "17",
+      "slug": "allplay",
+      "shortName": "All Play",
+      "client": "All Play Inc. \u2014 Commercial Playground Equipment",
+      "category": "houston, tx",
+      "headline": "All Play Inc. designs, supplies, installs, and maintains commercial playground equipment for schools, municipalities, HOAs, churches, and parks across Greater Houston \u2014 CPSI-certified, ADA-compliant, and built right the ",
+      "url": "https://allplay.clientreview.co/",
+      "pending": false,
+      "images": {
+        "desktop": {
+          "webp": "assets/shots/allplay-desktop.webp",
+          "fallback": "assets/shots/allplay-desktop.jpg",
+          "width": 1440,
+          "height": 900,
+          "alt": "Homepage of All Play Inc. \u2014 Commercial Playground Equipment"
+        },
+        "phone": {
+          "webp": "assets/shots/allplay-phone.webp",
+          "fallback": "assets/shots/allplay-phone.jpg",
+          "width": 390,
+          "height": 844,
+          "alt": "All Play Inc. \u2014 Commercial Playground Equipment homepage on a phone"
+        },
+        "blur": "assets/shots/allplay-blur.webp"
+      }
+    },
+    {
+      "number": "18",
+      "slug": "assistedlivingfinder",
+      "shortName": "Assisted Living",
+      "client": "Assisted Living Finder",
+      "category": "free help in tupelo & amory, ms",
+      "headline": "Ronald Duke is a free senior care advisor helping families find assisted living or a retirement village in Tupelo, Amory, and northeast Mississippi.",
+      "url": "https://assistedlivingfinder.clientreview.co/",
+      "pending": false,
+      "images": {
+        "desktop": {
+          "webp": "assets/shots/assistedlivingfinder-desktop.webp",
+          "fallback": "assets/shots/assistedlivingfinder-desktop.jpg",
+          "width": 1440,
+          "height": 900,
+          "alt": "Homepage of Assisted Living Finder"
+        },
+        "phone": {
+          "webp": "assets/shots/assistedlivingfinder-phone.webp",
+          "fallback": "assets/shots/assistedlivingfinder-phone.jpg",
+          "width": 390,
+          "height": 844,
+          "alt": "Assisted Living Finder homepage on a phone"
+        },
+        "blur": "assets/shots/assistedlivingfinder-blur.webp"
+      }
+    },
+    {
+      "number": "19",
+      "slug": "brakingnews",
+      "shortName": "Braking News",
+      "client": "Braking News",
+      "category": "automotive service news",
+      "headline": "Braking News is a video-first automotive industry show covering the people, technology, products, and ideas shaping dealership fixed operations and automotive service.",
+      "url": "https://brakingnews.clientreview.co/",
+      "pending": false,
+      "images": {
+        "desktop": {
+          "webp": "assets/shots/brakingnews-desktop.webp",
+          "fallback": "assets/shots/brakingnews-desktop.jpg",
+          "width": 1440,
+          "height": 900,
+          "alt": "Homepage of Braking News"
+        },
+        "phone": {
+          "webp": "assets/shots/brakingnews-phone.webp",
+          "fallback": "assets/shots/brakingnews-phone.jpg",
+          "width": 390,
+          "height": 844,
+          "alt": "Braking News homepage on a phone"
+        },
+        "blur": "assets/shots/brakingnews-blur.webp"
+      }
+    },
+    {
+      "number": "20",
+      "slug": "igy6armory",
+      "shortName": "I GOT YOUR 6",
+      "client": "I GOT YOUR 6",
+      "category": "review prototype",
+      "headline": "Sample rez operator site: live webinars, seats booked with Marks, free entry available.",
+      "url": "https://igy6armory.clientreview.co/",
+      "pending": false,
+      "images": {
+        "desktop": {
+          "webp": "assets/shots/igy6armory-desktop.webp",
+          "fallback": "assets/shots/igy6armory-desktop.jpg",
+          "width": 1440,
+          "height": 900,
+          "alt": "Homepage of I GOT YOUR 6"
+        },
+        "phone": {
+          "webp": "assets/shots/igy6armory-phone.webp",
+          "fallback": "assets/shots/igy6armory-phone.jpg",
+          "width": 390,
+          "height": 844,
+          "alt": "I GOT YOUR 6 homepage on a phone"
+        },
+        "blur": "assets/shots/igy6armory-blur.webp"
+      }
+    },
+    {
+      "number": "21",
+      "slug": "kdcollegeprep",
+      "shortName": "SAT, ACT",
+      "client": "SAT, ACT and College Counseling in DFW",
+      "category": "kd college prep",
+      "headline": "KD College Prep helps 7th to 12th graders in Coppell, Frisco, Plano and online prepare for the PSAT, SAT and ACT tests and apply to college. Schedule a free consultation.",
+      "url": "https://kdcollegeprep.clientreview.co/",
+      "pending": false,
+      "images": {
+        "desktop": {
+          "webp": "assets/shots/kdcollegeprep-desktop.webp",
+          "fallback": "assets/shots/kdcollegeprep-desktop.jpg",
+          "width": 1440,
+          "height": 900,
+          "alt": "Homepage of SAT, ACT and College Counseling in DFW"
+        },
+        "phone": {
+          "webp": "assets/shots/kdcollegeprep-phone.webp",
+          "fallback": "assets/shots/kdcollegeprep-phone.jpg",
+          "width": 390,
+          "height": 844,
+          "alt": "SAT, ACT and College Counseling in DFW homepage on a phone"
+        },
+        "blur": "assets/shots/kdcollegeprep-blur.webp"
+      }
+    },
+    {
+      "number": "22",
+      "slug": "onehop",
+      "shortName": "One Hop Golf",
+      "client": "One Hop Golf",
+      "category": "know your gear. own your game.",
+      "headline": "Expert-led live and on-demand golf webinars with in-depth product breakdowns. PLAY \u00b7 LEARN \u00b7 BELONG.",
+      "url": "https://onehop.clientreview.co/",
+      "pending": false,
+      "images": {
+        "desktop": {
+          "webp": "assets/shots/onehop-desktop.webp",
+          "fallback": "assets/shots/onehop-desktop.jpg",
+          "width": 1440,
+          "height": 900,
+          "alt": "Homepage of One Hop Golf"
+        },
+        "phone": {
+          "webp": "assets/shots/onehop-phone.webp",
+          "fallback": "assets/shots/onehop-phone.jpg",
+          "width": 390,
+          "height": 844,
+          "alt": "One Hop Golf homepage on a phone"
+        },
+        "blur": "assets/shots/onehop-blur.webp"
+      }
+    },
+    {
+      "number": "23",
+      "slug": "monteslaw",
+      "shortName": "Personal Injury",
+      "client": "Personal Injury Trial Lawyer, Colleyville TX",
+      "category": "montes law",
+      "headline": "Seriously hurt in Texas? Montes Law PLLC works with injured people and families in English and Spanish. Call (817) 801-9400.",
+      "url": "https://monteslaw.clientreview.co/",
+      "pending": false,
+      "images": {
+        "desktop": {
+          "webp": "assets/shots/monteslaw-desktop.webp",
+          "fallback": "assets/shots/monteslaw-desktop.jpg",
+          "width": 1440,
+          "height": 900,
+          "alt": "Homepage of Personal Injury Trial Lawyer, Colleyville TX"
+        },
+        "phone": {
+          "webp": "assets/shots/monteslaw-phone.webp",
+          "fallback": "assets/shots/monteslaw-phone.jpg",
+          "width": 390,
+          "height": 844,
+          "alt": "Personal Injury Trial Lawyer, Colleyville TX homepage on a phone"
+        },
+        "blur": "assets/shots/monteslaw-blur.webp"
+      }
+    },
+    {
+      "number": "24",
+      "slug": "thegundrop",
+      "shortName": "US Drop Zone",
+      "client": "US Drop Zone",
+      "category": "webinar seat storefront",
+      "headline": "Welcome to US Drop Zone. Browse active webinars, register free as a member, secure your seat, and join the review.",
+      "url": "https://thegundrop.clientreview.co/",
+      "pending": false,
+      "images": {
+        "desktop": {
+          "webp": "assets/shots/thegundrop-desktop.webp",
+          "fallback": "assets/shots/thegundrop-desktop.jpg",
+          "width": 1440,
+          "height": 900,
+          "alt": "Homepage of US Drop Zone"
+        },
+        "phone": {
+          "webp": "assets/shots/thegundrop-phone.webp",
+          "fallback": "assets/shots/thegundrop-phone.jpg",
+          "width": 390,
+          "height": 844,
+          "alt": "US Drop Zone homepage on a phone"
+        },
+        "blur": "assets/shots/thegundrop-blur.webp"
+      }
+    },
+    {
+      "number": "25",
+      "slug": "thedreamersland",
+      "shortName": "Dreamers' Land",
+      "client": "The Dreamers' Land",
+      "category": "review prototype",
+      "headline": "A growing library of interactive, bilingual digital books designed to engage minds, spark imagination, and empower the next generation.",
+      "url": "https://thedreamersland.clientreview.co/",
+      "pending": false,
+      "images": {
+        "desktop": {
+          "webp": "assets/shots/thedreamersland-desktop.webp",
+          "fallback": "assets/shots/thedreamersland-desktop.jpg",
+          "width": 1440,
+          "height": 900,
+          "alt": "Homepage of The Dreamers' Land"
+        },
+        "phone": {
+          "webp": "assets/shots/thedreamersland-phone.webp",
+          "fallback": "assets/shots/thedreamersland-phone.jpg",
+          "width": 390,
+          "height": 844,
+          "alt": "The Dreamers' Land homepage on a phone"
+        },
+        "blur": "assets/shots/thedreamersland-blur.webp"
+      }
+    },
+    {
+      "number": "26",
+      "slug": "ncutility",
+      "shortName": "Trailer Sales,",
+      "client": "Trailer Sales, Service & Parts",
+      "category": "north central utility",
+      "headline": "Semi-trailer sales, parts, service and rentals across Wisconsin, Minnesota and North Dakota. 10 locations and 40+ years keeping fleets moving.",
+      "url": "https://ncutility.clientreview.co/",
+      "pending": false,
+      "images": {
+        "desktop": {
+          "webp": "assets/shots/ncutility-desktop.webp",
+          "fallback": "assets/shots/ncutility-desktop.jpg",
+          "width": 1440,
+          "height": 900,
+          "alt": "Homepage of Trailer Sales, Service & Parts"
+        },
+        "phone": {
+          "webp": "assets/shots/ncutility-phone.webp",
+          "fallback": "assets/shots/ncutility-phone.jpg",
+          "width": 390,
+          "height": 844,
+          "alt": "Trailer Sales, Service & Parts homepage on a phone"
+        },
+        "blur": "assets/shots/ncutility-blur.webp"
+      }
+    },
+    {
+      "number": "27",
+      "slug": "ufixit",
+      "shortName": "Appliance Parts",
+      "client": "Appliance Parts Store Texas \u2014 Shop Online",
+      "category": "u-fix-it appliance parts",
+      "headline": "Shop appliance parts online from U-FIX-IT: refrigerator, washer, dryer, range and dishwasher parts. Free diagnosis help, same-day shipping on in-stock parts, 4 Texas stores.",
+      "url": "https://ufixit.clientreview.co/",
+      "pending": false,
+      "images": {
+        "desktop": {
+          "webp": "assets/shots/ufixit-desktop.webp",
+          "fallback": "assets/shots/ufixit-desktop.jpg",
+          "width": 1440,
+          "height": 900,
+          "alt": "Homepage of Appliance Parts Store Texas \u2014 Shop Online"
+        },
+        "phone": {
+          "webp": "assets/shots/ufixit-phone.webp",
+          "fallback": "assets/shots/ufixit-phone.jpg",
+          "width": 390,
+          "height": 844,
+          "alt": "Appliance Parts Store Texas \u2014 Shop Online homepage on a phone"
+        },
+        "blur": "assets/shots/ufixit-blur.webp"
+      }
+    },
+    {
+      "number": "28",
+      "slug": "valorem",
+      "shortName": "Social casino",
+      "client": "Social casino and webinars",
+      "category": "review prototype",
+      "headline": "Social casino games and live webinars. Play with Valorem. Reserve a numbered seat with Ips.",
+      "url": "https://valorem.clientreview.co/",
+      "pending": false,
+      "images": {
+        "desktop": {
+          "webp": "assets/shots/valorem-desktop.webp",
+          "fallback": "assets/shots/valorem-desktop.jpg",
+          "width": 1440,
+          "height": 900,
+          "alt": "Homepage of Social casino and webinars"
+        },
+        "phone": {
+          "webp": "assets/shots/valorem-phone.webp",
+          "fallback": "assets/shots/valorem-phone.jpg",
+          "width": 390,
+          "height": 844,
+          "alt": "Social casino and webinars homepage on a phone"
+        },
+        "blur": "assets/shots/valorem-blur.webp"
+      }
+    },
+    {
+      "number": "29",
+      "slug": "autobuilders",
+      "shortName": "AutoBuilders General",
+      "client": "AutoBuilders General Contracting Services",
+      "category": "live site",
+      "headline": "AutoBuilders is the nation\u2019s specialist in constructing and renovating automotive dealerships and facilities. Through regional offices in Florida, California, New York and Texas, AutoBuilders serves dealers nationwide.",
+      "url": "https://autobuilders.com/",
+      "pending": false,
+      "images": {
+        "desktop": {
+          "webp": "assets/shots/autobuilders-desktop.webp",
+          "fallback": "assets/shots/autobuilders-desktop.jpg",
+          "width": 1440,
+          "height": 900,
+          "alt": "Homepage of AutoBuilders General Contracting Services"
+        },
+        "phone": {
+          "webp": "assets/shots/autobuilders-phone.webp",
+          "fallback": "assets/shots/autobuilders-phone.jpg",
+          "width": 390,
+          "height": 844,
+          "alt": "AutoBuilders General Contracting Services homepage on a phone"
+        },
+        "blur": "assets/shots/autobuilders-blur.webp"
+      }
+    },
+    {
+      "number": "30",
+      "slug": "harvestdirectory",
+      "shortName": "Harvest Business",
+      "client": "Harvest Business Directory - Argyle & Northlake Texas",
+      "category": "doorstep local",
+      "headline": "Harvest Directory is your local hub for trusted businesses, important contacts, neighborhood updates, events, offers, and resources serving our community.",
+      "url": "https://harvestdirectory.com/",
+      "pending": false,
+      "images": {
+        "desktop": {
+          "webp": "assets/shots/harvestdirectory-desktop.webp",
+          "fallback": "assets/shots/harvestdirectory-desktop.jpg",
+          "width": 1440,
+          "height": 900,
+          "alt": "Homepage of Harvest Business Directory - Argyle & Northlake Texas"
+        },
+        "phone": {
+          "webp": "assets/shots/harvestdirectory-phone.webp",
+          "fallback": "assets/shots/harvestdirectory-phone.jpg",
+          "width": 390,
+          "height": 844,
+          "alt": "Harvest Business Directory - Argyle & Northlake Texas homepage on a phone"
+        },
+        "blur": "assets/shots/harvestdirectory-blur.webp"
+      }
+    },
+    {
+      "number": "31",
+      "slug": "texasreconditioning",
+      "shortName": "Texas Reconditioning",
+      "client": "Texas Reconditioning",
+      "category": "paint restoration & interior reconditioning dfw",
+      "headline": "White glove paint restoration and interior reconditioning for dealership pre-owned inventory across DFW. On your lot, on your schedule. (817) 947-5747",
+      "url": "https://texasreconditioning.clientreview.co/",
+      "pending": false,
+      "images": {
+        "desktop": {
+          "webp": "assets/shots/texasreconditioning-desktop.webp",
+          "fallback": "assets/shots/texasreconditioning-desktop.jpg",
+          "width": 1440,
+          "height": 900,
+          "alt": "Homepage of Texas Reconditioning"
+        },
+        "phone": {
+          "webp": "assets/shots/texasreconditioning-phone.webp",
+          "fallback": "assets/shots/texasreconditioning-phone.jpg",
+          "width": 390,
+          "height": 844,
+          "alt": "Texas Reconditioning homepage on a phone"
+        },
+        "blur": "assets/shots/texasreconditioning-blur.webp"
+      }
+    },
+    {
+      "number": "32",
+      "slug": "meetthebishop",
+      "shortName": "Bishop Dr.",
+      "client": "Bishop Dr. Jeffrey W. Larson, Founder of Start Again Ministries",
+      "category": "review prototype",
+      "headline": "Bishop Dr. Jeffrey W. Larson is the founder and chairman of Start Again Ministries in the Fort Worth area. Invite him to speak, preach, or appear.",
+      "url": "https://meetthebishop.clientreview.co/",
+      "pending": false,
+      "images": {
+        "desktop": {
+          "webp": "assets/shots/meetthebishop-desktop.webp",
+          "fallback": "assets/shots/meetthebishop-desktop.jpg",
+          "width": 1440,
+          "height": 900,
+          "alt": "Homepage of Bishop Dr. Jeffrey W. Larson, Founder of Start Again Ministries"
+        },
+        "phone": {
+          "webp": "assets/shots/meetthebishop-phone.webp",
+          "fallback": "assets/shots/meetthebishop-phone.jpg",
+          "width": 390,
+          "height": 844,
+          "alt": "Bishop Dr. Jeffrey W. Larson, Founder of Start Again Ministries homepage on a phone"
+        },
+        "blur": "assets/shots/meetthebishop-blur.webp"
+      }
+    },
+    {
+      "number": "33",
+      "slug": "startagainministries",
+      "shortName": "Start Again",
+      "client": "Start Again Ministries",
+      "category": "helping people start again from fort worth",
+      "headline": "Start Again Ministries helps people start again \u2014 with the gospel and with food \u2014 from Fort Worth. Founded 1994.",
+      "url": "https://startagainministries.clientreview.co/",
+      "pending": false,
+      "images": {
+        "desktop": {
+          "webp": "assets/shots/startagainministries-desktop.webp",
+          "fallback": "assets/shots/startagainministries-desktop.jpg",
+          "width": 1440,
+          "height": 900,
+          "alt": "Homepage of Start Again Ministries"
+        },
+        "phone": {
+          "webp": "assets/shots/startagainministries-phone.webp",
+          "fallback": "assets/shots/startagainministries-phone.jpg",
+          "width": 390,
+          "height": 844,
+          "alt": "Start Again Ministries homepage on a phone"
+        },
+        "blur": "assets/shots/startagainministries-blur.webp"
+      }
+    },
+    {
+      "number": "34",
+      "slug": "dentongopgrassroots",
+      "shortName": "Denton GOP",
+      "client": "Denton GOP Grassroots",
+      "category": "republican principles. clear convictions.",
+      "headline": "An independent grassroots platform supporting Republican principles and Ken Paxton, with Denton County voting resources for November 3, 2026.",
+      "url": "https://dentongopgrassroots.clientreview.co/",
+      "pending": false,
+      "images": {
+        "desktop": {
+          "webp": "assets/shots/dentongopgrassroots-desktop.webp",
+          "fallback": "assets/shots/dentongopgrassroots-desktop.jpg",
+          "width": 1440,
+          "height": 900,
+          "alt": "Homepage of Denton GOP Grassroots"
+        },
+        "phone": {
+          "webp": "assets/shots/dentongopgrassroots-phone.webp",
+          "fallback": "assets/shots/dentongopgrassroots-phone.jpg",
+          "width": 390,
+          "height": 844,
+          "alt": "Denton GOP Grassroots homepage on a phone"
+        },
+        "blur": "assets/shots/dentongopgrassroots-blur.webp"
+      }
+    },
+    {
+      "number": "35",
+      "slug": "freeformchiropractic",
+      "shortName": "FreeForm Chiropractic",
+      "client": "FreeForm Chiropractic",
+      "category": "corrective chiropractic & lifestyle care in texas",
+      "headline": "At FreeForm Chiropractic, we believe in the innate healing powers your body possesses. Through expert analysis and a series of highly advanced yet...",
+      "url": "https://freeformchiropractic.clientreview.co/",
+      "pending": false,
+      "images": {
+        "desktop": {
+          "webp": "assets/shots/freeformchiropractic-desktop.webp",
+          "fallback": "assets/shots/freeformchiropractic-desktop.jpg",
+          "width": 1440,
+          "height": 900,
+          "alt": "Homepage of FreeForm Chiropractic"
+        },
+        "phone": {
+          "webp": "assets/shots/freeformchiropractic-phone.webp",
+          "fallback": "assets/shots/freeformchiropractic-phone.jpg",
+          "width": 390,
+          "height": 844,
+          "alt": "FreeForm Chiropractic homepage on a phone"
+        },
+        "blur": "assets/shots/freeformchiropractic-blur.webp"
+      }
+    },
+    {
+      "number": "36",
+      "slug": "alltex",
+      "shortName": "Plumbing Services",
+      "client": "Plumbing Services in Houston TX",
+      "category": "all-tex plumbing",
+      "headline": "Looking for reliable plumbing services in Houston TX? All-Tex Plumbing offers residential and commercial repairs, installations and 24/7 emergency support.",
+      "url": "https://alltex.clientreview.co/",
+      "pending": false,
+      "images": {
+        "desktop": {
+          "webp": "assets/shots/alltex-desktop.webp",
+          "fallback": "assets/shots/alltex-desktop.jpg",
+          "width": 1440,
+          "height": 900,
+          "alt": "Homepage of Plumbing Services in Houston TX"
+        },
+        "phone": {
+          "webp": "assets/shots/alltex-phone.webp",
+          "fallback": "assets/shots/alltex-phone.jpg",
+          "width": 390,
+          "height": 844,
+          "alt": "Plumbing Services in Houston TX homepage on a phone"
+        },
+        "blur": "assets/shots/alltex-blur.webp"
+      }
+    },
+    {
+      "number": "37",
+      "slug": "thejuicebardallas",
+      "shortName": "Juice Bar Dallas",
+      "client": "The Juice Bar Dallas",
+      "category": "cold-pressed juice, smoothies & bowls",
+      "headline": "Cold-pressed juices, smoothies, acai bowls, shots and juice cleanses made fresh daily at 3 Dallas locations: NorthPark, Highland Park Village and Inwood.",
+      "url": "https://thejuicebardallas.clientreview.co/",
+      "pending": false,
+      "images": {
+        "desktop": {
+          "webp": "assets/shots/thejuicebardallas-desktop.webp",
+          "fallback": "assets/shots/thejuicebardallas-desktop.jpg",
+          "width": 1440,
+          "height": 900,
+          "alt": "Homepage of The Juice Bar Dallas"
+        },
+        "phone": {
+          "webp": "assets/shots/thejuicebardallas-phone.webp",
+          "fallback": "assets/shots/thejuicebardallas-phone.jpg",
+          "width": 390,
+          "height": 844,
+          "alt": "The Juice Bar Dallas homepage on a phone"
+        },
+        "blur": "assets/shots/thejuicebardallas-blur.webp"
+      }
+    },
+    {
+      "number": "38",
+      "slug": "theamericanquiz",
+      "shortName": "American Quiz",
+      "client": "The American Quiz",
+      "category": "2025 u.s. citizenship test prep",
+      "headline": "Study for the 2025 U.S. citizenship test with civics questions, English reading and writing practice, and interview-style questions. Prepare for your naturalization interview with TheAmericanQuiz.com.",
+      "url": "https://theamericanquiz.clientreview.co/",
+      "pending": false,
+      "images": {
+        "desktop": {
+          "webp": "assets/shots/theamericanquiz-desktop.webp",
+          "fallback": "assets/shots/theamericanquiz-desktop.jpg",
+          "width": 1440,
+          "height": 900,
+          "alt": "Homepage of The American Quiz"
+        },
+        "phone": {
+          "webp": "assets/shots/theamericanquiz-phone.webp",
+          "fallback": "assets/shots/theamericanquiz-phone.jpg",
+          "width": 390,
+          "height": 844,
+          "alt": "The American Quiz homepage on a phone"
+        },
+        "blur": "assets/shots/theamericanquiz-blur.webp"
+      }
+    },
+    {
+      "number": "39",
+      "slug": "catalystmktgagency",
+      "shortName": "Catalyst Agency",
+      "client": "Catalyst Agency",
+      "category": "merch, made meaningful",
+      "headline": "Catalyst Agency builds branded merchandise, campaign programs, and stores from idea to delivery.",
+      "url": "https://catalystmktgagency.clientreview.co/",
+      "pending": false,
+      "images": {
+        "desktop": {
+          "webp": "assets/shots/catalystmktgagency-desktop.webp",
+          "fallback": "assets/shots/catalystmktgagency-desktop.jpg",
+          "width": 1440,
+          "height": 900,
+          "alt": "Homepage of Catalyst Agency"
+        },
+        "phone": {
+          "webp": "assets/shots/catalystmktgagency-phone.webp",
+          "fallback": "assets/shots/catalystmktgagency-phone.jpg",
+          "width": 390,
+          "height": 844,
+          "alt": "Catalyst Agency homepage on a phone"
+        },
+        "blur": "assets/shots/catalystmktgagency-blur.webp"
+      }
+    },
+    {
+      "number": "40",
+      "slug": "radiant-nutrition",
+      "shortName": "Radiant Nutrition",
+      "client": "Radiant Nutrition",
+      "category": "personalized dietitian services in argyle, tx",
+      "headline": "Get personalized dietitian services in Argyle, TX from Radiant Nutrition. Insurance accepted, telehealth available\u2014schedule now!",
+      "url": "https://radiantnutrition.clientreview.co/",
+      "pending": false,
+      "images": {
+        "desktop": {
+          "webp": "assets/shots/radiant-nutrition-desktop.webp",
+          "fallback": "assets/shots/radiant-nutrition-desktop.jpg",
+          "width": 1440,
+          "height": 900,
+          "alt": "Homepage of Radiant Nutrition"
+        },
+        "phone": {
+          "webp": "assets/shots/radiant-nutrition-phone.webp",
+          "fallback": "assets/shots/radiant-nutrition-phone.jpg",
+          "width": 390,
+          "height": 844,
+          "alt": "Radiant Nutrition homepage on a phone"
+        },
+        "blur": "assets/shots/radiant-nutrition-blur.webp"
+      }
+    },
+    {
+      "number": "41",
+      "slug": "ascendconsulting",
+      "shortName": "Ascend Consulting",
+      "client": "Ascend Consulting",
+      "category": "move the mission forward",
+      "headline": "Supporting non-profit leaders and government agencies to identify and implement strategies that increase visibility, capacity, revenue, and sustainability. Ascend Consulting MN \u2014 founded 2009 \u2014 grants, development, commu",
+      "url": "https://ascendconsulting.clientreview.co/",
+      "pending": false,
+      "images": {
+        "desktop": {
+          "webp": "assets/shots/ascendconsulting-desktop.webp",
+          "fallback": "assets/shots/ascendconsulting-desktop.jpg",
+          "width": 1440,
+          "height": 900,
+          "alt": "Homepage of Ascend Consulting"
+        },
+        "phone": {
+          "webp": "assets/shots/ascendconsulting-phone.webp",
+          "fallback": "assets/shots/ascendconsulting-phone.jpg",
+          "width": 390,
+          "height": 844,
+          "alt": "Ascend Consulting homepage on a phone"
+        },
+        "blur": "assets/shots/ascendconsulting-blur.webp"
+      }
+    },
+    {
+      "number": "42",
+      "slug": "chiltonautobody",
+      "shortName": "Trusted Auto",
+      "client": "Trusted Auto Body Experts for 50+ Years.",
+      "category": "chilton auto body",
+      "headline": "Proudly serving communities across Northern and Southern California with expert repairs, friendly service, and a commitment to quality.",
+      "url": "https://chiltonautobody.clientreview.co/",
+      "pending": false,
+      "images": {
+        "desktop": {
+          "webp": "assets/shots/chiltonautobody-desktop.webp",
+          "fallback": "assets/shots/chiltonautobody-desktop.jpg",
+          "width": 1440,
+          "height": 900,
+          "alt": "Homepage of Trusted Auto Body Experts for 50+ Years."
+        },
+        "phone": {
+          "webp": "assets/shots/chiltonautobody-phone.webp",
+          "fallback": "assets/shots/chiltonautobody-phone.jpg",
+          "width": 390,
+          "height": 844,
+          "alt": "Trusted Auto Body Experts for 50+ Years. homepage on a phone"
+        },
+        "blur": "assets/shots/chiltonautobody-blur.webp"
+      }
+    },
+    {
+      "number": "43",
+      "slug": "bobthompsonhomes",
+      "shortName": "Bob Thompson Homes",
+      "client": "Bob Thompson Homes",
+      "category": "our masterpiece your home",
+      "headline": "Forty years of custom houses in North Texas. One name on the door. Call Bob at 214.535.9977.",
+      "url": "https://bobthompsonhomes.clientreview.co/",
+      "pending": false,
+      "images": {
+        "desktop": {
+          "webp": "assets/shots/bobthompsonhomes-desktop.webp",
+          "fallback": "assets/shots/bobthompsonhomes-desktop.jpg",
+          "width": 1440,
+          "height": 900,
+          "alt": "Homepage of Bob Thompson Homes"
+        },
+        "phone": {
+          "webp": "assets/shots/bobthompsonhomes-phone.webp",
+          "fallback": "assets/shots/bobthompsonhomes-phone.jpg",
+          "width": 390,
+          "height": 844,
+          "alt": "Bob Thompson Homes homepage on a phone"
+        },
+        "blur": "assets/shots/bobthompsonhomes-blur.webp"
+      }
+    },
+    {
+      "number": "44",
+      "slug": "yourpoolrepairguy",
+      "shortName": "Pool Repair",
+      "client": "Pool Repair & Maintenance in Lakeway, TX",
+      "category": "your pool repair guy",
+      "headline": "Stress-free pool, hot tub, and outdoor living services for homeowners across Lakeway and the Lake Travis area. Call Now.",
+      "url": "https://yourpoolrepairguy.clientreview.co/",
+      "pending": false,
+      "images": {
+        "desktop": {
+          "webp": "assets/shots/yourpoolrepairguy-desktop.webp",
+          "fallback": "assets/shots/yourpoolrepairguy-desktop.jpg",
+          "width": 1440,
+          "height": 900,
+          "alt": "Homepage of Pool Repair & Maintenance in Lakeway, TX"
+        },
+        "phone": {
+          "webp": "assets/shots/yourpoolrepairguy-phone.webp",
+          "fallback": "assets/shots/yourpoolrepairguy-phone.jpg",
+          "width": 390,
+          "height": 844,
+          "alt": "Pool Repair & Maintenance in Lakeway, TX homepage on a phone"
+        },
+        "blur": "assets/shots/yourpoolrepairguy-blur.webp"
+      }
+    },
+    {
+      "number": "45",
+      "slug": "michaelrowanministries",
+      "shortName": "Michael Rowan",
+      "client": "Michael Rowan Ministries",
+      "category": "real. raw. powerful.",
+      "headline": "Spirit-filled ministry carried by fire across the nation. Revivals, healing, and the unapologetic Gospel with Michael Rowan.",
+      "url": "https://michaelrowanministries.clientreview.co/",
+      "pending": false,
+      "images": {
+        "desktop": {
+          "webp": "assets/shots/michaelrowanministries-desktop.webp",
+          "fallback": "assets/shots/michaelrowanministries-desktop.jpg",
+          "width": 1440,
+          "height": 900,
+          "alt": "Homepage of Michael Rowan Ministries"
+        },
+        "phone": {
+          "webp": "assets/shots/michaelrowanministries-phone.webp",
+          "fallback": "assets/shots/michaelrowanministries-phone.jpg",
+          "width": 390,
+          "height": 844,
+          "alt": "Michael Rowan Ministries homepage on a phone"
+        },
+        "blur": "assets/shots/michaelrowanministries-blur.webp"
+      }
+    },
+    {
+      "number": "46",
+      "slug": "kpxofficial",
+      "shortName": "KPX Official",
+      "client": "KPX Official",
+      "category": "build the body you came here for",
+      "headline": "Stop guessing and start building. KPX gives driven men one clear plan, real accountability, and a way to track that it",
+      "url": "https://kpxofficial.clientreview.co/",
+      "pending": false,
+      "images": {
+        "desktop": {
+          "webp": "assets/shots/kpxofficial-desktop.webp",
+          "fallback": "assets/shots/kpxofficial-desktop.jpg",
+          "width": 1440,
+          "height": 900,
+          "alt": "Homepage of KPX Official"
+        },
+        "phone": {
+          "webp": "assets/shots/kpxofficial-phone.webp",
+          "fallback": "assets/shots/kpxofficial-phone.jpg",
+          "width": 390,
+          "height": 844,
+          "alt": "KPX Official homepage on a phone"
+        },
+        "blur": "assets/shots/kpxofficial-blur.webp"
+      }
+    },
+    {
+      "number": "47",
+      "slug": "eddieinservice",
+      "shortName": "Eddie In Service",
+      "client": "Eddie In Service",
+      "category": "honest car advice",
+      "headline": "50 years of automotive expertise. Eddie Campbell helps drivers navigate dealership service with confidence. Articles, videos, preferred dealers, and more.",
+      "url": "https://eddieinservice.com/",
+      "pending": false,
+      "images": {
+        "desktop": {
+          "webp": "assets/shots/eddieinservice-desktop.webp",
+          "fallback": "assets/shots/eddieinservice-desktop.jpg",
+          "width": 1440,
+          "height": 900,
+          "alt": "Homepage of Eddie In Service"
+        },
+        "phone": {
+          "webp": "assets/shots/eddieinservice-phone.webp",
+          "fallback": "assets/shots/eddieinservice-phone.jpg",
+          "width": 390,
+          "height": 844,
+          "alt": "Eddie In Service homepage on a phone"
+        },
+        "blur": "assets/shots/eddieinservice-blur.webp"
+      }
+    },
+    {
+      "number": "48",
+      "slug": "lonestararms",
+      "shortName": "Saiga 12,",
+      "client": "Saiga 12, Vepr 12 & KS-12 Rebuilds",
+      "category": "lone star arms",
+      "headline": "High-performance rebuilds for Saiga 12, Vepr 12, and Kalashnikov USA KS-12 shotguns, and Komrad and KHAOS firearms. Rebuilds are $1,500. Call (505) 263-8822.",
+      "url": "https://lonestararms.com/",
+      "pending": false,
+      "images": {
+        "desktop": {
+          "webp": "assets/shots/lonestararms-desktop.webp",
+          "fallback": "assets/shots/lonestararms-desktop.jpg",
+          "width": 1440,
+          "height": 900,
+          "alt": "Homepage of Saiga 12, Vepr 12 & KS-12 Rebuilds"
+        },
+        "phone": {
+          "webp": "assets/shots/lonestararms-phone.webp",
+          "fallback": "assets/shots/lonestararms-phone.jpg",
+          "width": 390,
+          "height": 844,
+          "alt": "Saiga 12, Vepr 12 & KS-12 Rebuilds homepage on a phone"
+        },
+        "blur": "assets/shots/lonestararms-blur.webp"
+      }
+    },
+    {
+      "number": "49",
+      "slug": "playatthehive",
+      "shortName": "The Hive",
+      "client": "The Hive",
+      "category": "drop-in childcare where kids want to bee",
+      "headline": "Flexible, as-needed drop-in childcare for ages 6 weeks to 10 years. Screen-free, safe, and fun \u2014 billed by the minute. Northlake, TX.",
+      "url": "https://playatthehive.clientreview.co/",
+      "pending": false,
+      "images": {
+        "desktop": {
+          "webp": "assets/shots/playatthehive-desktop.webp",
+          "fallback": "assets/shots/playatthehive-desktop.jpg",
+          "width": 1440,
+          "height": 900,
+          "alt": "Homepage of The Hive"
+        },
+        "phone": {
+          "webp": "assets/shots/playatthehive-phone.webp",
+          "fallback": "assets/shots/playatthehive-phone.jpg",
+          "width": 390,
+          "height": 844,
+          "alt": "The Hive homepage on a phone"
+        },
+        "blur": "assets/shots/playatthehive-blur.webp"
       }
     }
   ]

@@ -8,17 +8,13 @@ Custom Fit Coverage (Marcelo Campon & Associates) has a prototype at https://cus
 
 Should Custom Fit Coverage be on tribemakerwork.clientreview.co at all? If it should, where does a DPA Branding-only credit go so the Tribe Maker chrome does not apply? The prototype HTML fetched on 3 Nov 2026 does not contain the strings DPA, Yavin, or Tribe.
 
-## Not given a page
+## Skipped
 
-These Yavin-Digital prototypes exist, and this work repo does not reference them, so they are not in the grid and do not have case pages:
+Custom Fit Coverage stays off this site. A DPA Branding-only credit conflicts with the Tribe Maker chrome. See the question above.
+- **fbrn** — Review host fbrn.clientreview.co has no certificate for that name. Yavin-Digital/fbrn-prototype was not readable (HTTP 404). fbrn.org is a parking lander, not a client site.
+- **trialteamprep** — Review host trialteamprep.clientreview.co has no certificate for that name. Yavin-Digital/trialteamprep-prototype was not readable (HTTP 404). trialteamprep.com did not return a page.
+- **gildedage** — Review host gildedage.clientreview.co has no certificate for that name. Yavin-Digital/gildedage-prototype was not readable (HTTP 404). No live site on that name could be read.
 
-- Aumakua Defense — https://aumakuadefense.clientreview.co
-- Michael Rowan Ministries — https://michaelrowanministries.clientreview.co
-- U-FIX-IT Appliance Parts — https://ufixit.clientreview.co
-- Radiant Nutrition — https://radiantnutrition.clientreview.co
-- Harvest Directory — repo Yavin-Digital/harvestdirectory-prototype (review host did not present that site)
-- Valorem — https://valorem.clientreview.co (its README calls it a Yavin Digital sample operator)
-- The Hive, Pirates Cove, and Jellystone appear on https://thetribemaker.com/work and are not in this repo's project list
 
 ## Pages
 
@@ -72,4 +68,265 @@ These Yavin-Digital prototypes exist, and this work repo does not reference them
 - The only venture label in this repo is the project-list line, a Tribe Maker venture. Role credits beyond that are not documented.
 - Homepage policy lines ($75 shipping, 30-day returns) are quoted, not independently checked.
 - No named testimonial copied. No second phone screen. No full-page scroll. No project year.
+
+### Time To Shine Performing Arts — /work/time2shine/
+
+- Yavin-Digital/time2shine-prototype was not readable from this account (HTTP 404), so PROJECT_GUIDE.md and SCOPE.md were not read.
+- No project year, measured result, named quote, second phone screen, section crop, full-page scroll, or role credit was in the sources used here.
+- No named color tokens were found in the stylesheet.
+
+### SafeSpace Florida — /work/safespacefl/
+
+- Yavin-Digital/safespacefl-prototype was not readable from this account (HTTP 404), so PROJECT_GUIDE.md and SCOPE.md were not read.
+- No project year, measured result, named quote, second phone screen, section crop, full-page scroll, or role credit was in the sources used here.
+
+### LEAD Foundation — /work/leadfoundation/
+
+- Yavin-Digital/leadfoundation-prototype was not readable from this account (HTTP 404), so PROJECT_GUIDE.md and SCOPE.md were not read.
+- No project year, measured result, named quote, second phone screen, section crop, full-page scroll, or role credit was in the sources used here.
+- The prototype banner says content and images are not final.
+
+### Salt and Light Council — /work/saltandlight/
+
+- Yavin-Digital/saltandlight-prototype was not readable from this account (HTTP 404), so PROJECT_GUIDE.md and SCOPE.md were not read.
+- No project year, measured result, named quote, second phone screen, section crop, full-page scroll, or role credit was in the sources used here.
+- The review prototype title is the placeholder [MINISTRY NAME]. The page links to saltandlightcouncil.org and the Lewisville chapter page.
+
+### City Lifestyle — /work/citylife/
+
+- Yavin-Digital/citylife-prototype was not readable from this account (HTTP 404), so PROJECT_GUIDE.md and SCOPE.md were not read.
+- No project year, measured result, named quote, second phone screen, section crop, full-page scroll, or role credit was in the sources used here.
+- The prototype prints a Bennett Eye Institute campaign with impression and click counts. Those figures are not repeated as results.
+
+### Tribes Church — /work/tribeschurch/
+
+- Yavin-Digital/tribeschurch-prototype was not readable from this account (HTTP 404), so PROJECT_GUIDE.md and SCOPE.md were not read.
+- No project year, measured result, named quote, second phone screen, section crop, full-page scroll, or role credit was in the sources used here.
+
+### BoomerJack's Grill & Bar — /work/boomerjacks/
+
+- Yavin-Digital/boomerjacks-prototype was not readable from this account (HTTP 404), so PROJECT_GUIDE.md and SCOPE.md were not read.
+- No project year, measured result, named quote, second phone screen, section crop, full-page scroll, or role credit was in the sources used here.
+
+### Restore the Republic — /work/rtrtexas/
+
+- Yavin-Digital/rtrtexas-prototype was not readable from this account (HTTP 404), so PROJECT_GUIDE.md and SCOPE.md were not read.
+- No project year, measured result, named quote, second phone screen, section crop, full-page scroll, or role credit was in the sources used here.
+
+### Aumakua Defense — /work/aumakuadefense/
+
+- Repo Yavin-Digital/aumakuadefense-prototype was readable. SCOPE.md and PROJECT_GUIDE.md were read.
+- No project year, measured result, named quote, second phone screen, section crop, full-page scroll, or role credit was in the sources used here.
+- SCOPE.md says aumakuadefense.com was a coming-soon page on 13 Oct 2026. The prototype says product names and prices have not been supplied.
+
+### All Play Inc. — Commercial Playground Equipment — /work/allplay/
+
+- Yavin-Digital/allplay-prototype was not readable from this account (HTTP 404), so PROJECT_GUIDE.md and SCOPE.md were not read.
+- No project year, measured result, named quote, second phone screen, section crop, full-page scroll, or role credit was in the sources used here.
+- No named color tokens were found in the stylesheet.
+- No logo file was saved from the page.
+
+### Assisted Living Finder — /work/assistedlivingfinder/
+
+- Yavin-Digital/assistedlivingfinder-prototype was not readable from this account (HTTP 404), so PROJECT_GUIDE.md and SCOPE.md were not read.
+- No project year, measured result, named quote, second phone screen, section crop, full-page scroll, or role credit was in the sources used here.
+- No named color tokens were found in the stylesheet.
+- No logo file was saved from the page.
+
+### Braking News — /work/brakingnews/
+
+- Yavin-Digital/brakingnews-prototype was not readable from this account (HTTP 404), so PROJECT_GUIDE.md and SCOPE.md were not read.
+- No project year, measured result, named quote, second phone screen, section crop, full-page scroll, or role credit was in the sources used here.
+- No logo file was saved from the page.
+
+### I GOT YOUR 6 — /work/igy6armory/
+
+- Yavin-Digital/igy6armory-prototype was not readable from this account (HTTP 404), so PROJECT_GUIDE.md and SCOPE.md were not read.
+- No project year, measured result, named quote, second phone screen, section crop, full-page scroll, or role credit was in the sources used here.
+- No logo file was saved from the page.
+- The review page calls itself a demo site and a sample rez operator.
+
+### SAT, ACT and College Counseling in DFW — /work/kdcollegeprep/
+
+- Yavin-Digital/kdcollegeprep-prototype was not readable from this account (HTTP 404), so PROJECT_GUIDE.md and SCOPE.md were not read.
+- No project year, measured result, named quote, second phone screen, section crop, full-page scroll, or role credit was in the sources used here.
+
+### One Hop Golf — /work/onehop/
+
+- Yavin-Digital/onehop-prototype was not readable from this account (HTTP 404), so PROJECT_GUIDE.md and SCOPE.md were not read.
+- No project year, measured result, named quote, second phone screen, section crop, full-page scroll, or role credit was in the sources used here.
+- No logo file was saved from the page.
+
+### Personal Injury Trial Lawyer, Colleyville TX — /work/monteslaw/
+
+- Yavin-Digital/monteslaw-prototype was not readable from this account (HTTP 404), so PROJECT_GUIDE.md and SCOPE.md were not read.
+- No project year, measured result, named quote, second phone screen, section crop, full-page scroll, or role credit was in the sources used here.
+- The prototype banner says content and images are not final.
+
+### US Drop Zone — /work/thegundrop/
+
+- Yavin-Digital/thegundrop-prototype was not readable from this account (HTTP 404), so PROJECT_GUIDE.md and SCOPE.md were not read.
+- No project year, measured result, named quote, second phone screen, section crop, full-page scroll, or role credit was in the sources used here.
+- No logo file was saved from the page.
+
+### The Dreamers' Land — /work/thedreamersland/
+
+- Yavin-Digital/thedreamersland-prototype was not readable from this account (HTTP 404), so PROJECT_GUIDE.md and SCOPE.md were not read.
+- No project year, measured result, named quote, second phone screen, section crop, full-page scroll, or role credit was in the sources used here.
+- The prototype banner says all content and images are not final and are only there to show what is possible.
+
+### Trailer Sales, Service & Parts — /work/ncutility/
+
+- Yavin-Digital/ncutility-prototype was not readable from this account (HTTP 404), so PROJECT_GUIDE.md and SCOPE.md were not read.
+- No project year, measured result, named quote, second phone screen, section crop, full-page scroll, or role credit was in the sources used here.
+- The prototype banner says content and images are not final.
+
+### Appliance Parts Store Texas — Shop Online — /work/ufixit/
+
+- Repo Yavin-Digital/ufixit-prototype was readable. SCOPE.md and PROJECT_GUIDE.md were read.
+- No project year, measured result, named quote, second phone screen, section crop, full-page scroll, or role credit was in the sources used here.
+- The prototype banner says content and images are not final.
+
+### Social casino and webinars — /work/valorem/
+
+- Repo Yavin-Digital/valorem-prototype was readable. SCOPE.md and PROJECT_GUIDE.md were read.
+- No project year, measured result, named quote, second phone screen, section crop, full-page scroll, or role credit was in the sources used here.
+- No logo file was saved from the page.
+- The prototype README calls Valorem a sample operator on The Rez. Coin names in the repo are Valorem and Ips.
+
+### AutoBuilders General Contracting Services — /work/autobuilders/
+
+- Yavin-Digital/autobuilders-prototype was not readable from this account (HTTP 404), so PROJECT_GUIDE.md and SCOPE.md were not read.
+- No project year, measured result, named quote, second phone screen, section crop, full-page scroll, or role credit was in the sources used here.
+- No named color tokens were found in the stylesheet.
+- No logo file was saved from the page.
+- The review host and the prototype repo were not reachable. This page uses the live site on the matching domain.
+
+### Harvest Business Directory - Argyle & Northlake Texas — /work/harvestdirectory/
+
+- Repo Yavin-Digital/harvestdirectory-prototype was readable. The repo has a README only.
+- No project year, measured result, named quote, second phone screen, section crop, full-page scroll, or role credit was in the sources used here.
+- No named color tokens were found in the stylesheet.
+- No logo file was saved from the page.
+- The review host and the prototype repo were not reachable. This page uses the live site on the matching domain.
+- Yavin-Digital/harvestdirectory-prototype contains only a one-line README. The review host did not answer. Copy is from harvestdirectory.com.
+
+### Texas Reconditioning — /work/texasreconditioning/
+
+- Yavin-Digital/texasreconditioning-prototype was not readable from this account (HTTP 404), so PROJECT_GUIDE.md and SCOPE.md were not read.
+- No project year, measured result, named quote, second phone screen, section crop, full-page scroll, or role credit was in the sources used here.
+
+### Bishop Dr. Jeffrey W. Larson, Founder of Start Again Ministries — /work/meetthebishop/
+
+- Yavin-Digital/meetthebishop-prototype was not readable from this account (HTTP 404), so PROJECT_GUIDE.md and SCOPE.md were not read.
+- No project year, measured result, named quote, second phone screen, section crop, full-page scroll, or role credit was in the sources used here.
+- No logo file was saved from the page.
+- The prototype banner says content and images are not final.
+
+### Start Again Ministries — /work/startagainministries/
+
+- Yavin-Digital/startagainministries-prototype was not readable from this account (HTTP 404), so PROJECT_GUIDE.md and SCOPE.md were not read.
+- No project year, measured result, named quote, second phone screen, section crop, full-page scroll, or role credit was in the sources used here.
+- No logo file was saved from the page.
+
+### Denton GOP Grassroots — /work/dentongopgrassroots/
+
+- Yavin-Digital/dentongopgrassroots-prototype was not readable from this account (HTTP 404), so PROJECT_GUIDE.md and SCOPE.md were not read.
+- No project year, measured result, named quote, second phone screen, section crop, full-page scroll, or role credit was in the sources used here.
+- No logo file was saved from the page.
+
+### FreeForm Chiropractic — /work/freeformchiropractic/
+
+- Yavin-Digital/freeformchiropractic-prototype was not readable from this account (HTTP 404), so PROJECT_GUIDE.md and SCOPE.md were not read.
+- No project year, measured result, named quote, second phone screen, section crop, full-page scroll, or role credit was in the sources used here.
+- The prototype banner says content and images are not final.
+
+### Plumbing Services in Houston TX — /work/alltex/
+
+- Yavin-Digital/alltex-prototype was not readable from this account (HTTP 404), so PROJECT_GUIDE.md and SCOPE.md were not read.
+- No project year, measured result, named quote, second phone screen, section crop, full-page scroll, or role credit was in the sources used here.
+- No named color tokens were found in the stylesheet.
+- No logo file was saved from the page.
+
+### The Juice Bar Dallas — /work/thejuicebardallas/
+
+- Yavin-Digital/thejuicebardallas-prototype was not readable from this account (HTTP 404), so PROJECT_GUIDE.md and SCOPE.md were not read.
+- No project year, measured result, named quote, second phone screen, section crop, full-page scroll, or role credit was in the sources used here.
+- The prototype banner says content and images are not final.
+
+### The American Quiz — /work/theamericanquiz/
+
+- Yavin-Digital/theamericanquiz-prototype was not readable from this account (HTTP 404), so PROJECT_GUIDE.md and SCOPE.md were not read.
+- No project year, measured result, named quote, second phone screen, section crop, full-page scroll, or role credit was in the sources used here.
+
+### Catalyst Agency — /work/catalystmktgagency/
+
+- Yavin-Digital/catalystmktgagency-prototype was not readable from this account (HTTP 404), so PROJECT_GUIDE.md and SCOPE.md were not read.
+- No project year, measured result, named quote, second phone screen, section crop, full-page scroll, or role credit was in the sources used here.
+- No logo file was saved from the page.
+
+### Radiant Nutrition — /work/radiant-nutrition/
+
+- Repo Yavin-Digital/radiant-nutrition-prototype was readable. SCOPE.md and PROJECT_GUIDE.md were read.
+- No project year, measured result, named quote, second phone screen, section crop, full-page scroll, or role credit was in the sources used here.
+- SCOPE.md names the production domain radiantnutrition.com. The review host that answered is radiantnutrition.clientreview.co.
+
+### Ascend Consulting — /work/ascendconsulting/
+
+- Yavin-Digital/ascendconsulting-prototype was not readable from this account (HTTP 404), so PROJECT_GUIDE.md and SCOPE.md were not read.
+- No project year, measured result, named quote, second phone screen, section crop, full-page scroll, or role credit was in the sources used here.
+- No logo file was saved from the page.
+
+### Trusted Auto Body Experts for 50+ Years. — /work/chiltonautobody/
+
+- Yavin-Digital/chiltonautobody-prototype was not readable from this account (HTTP 404), so PROJECT_GUIDE.md and SCOPE.md were not read.
+- No project year, measured result, named quote, second phone screen, section crop, full-page scroll, or role credit was in the sources used here.
+
+### Bob Thompson Homes — /work/bobthompsonhomes/
+
+- Yavin-Digital/bobthompsonhomes-prototype was not readable from this account (HTTP 404), so PROJECT_GUIDE.md and SCOPE.md were not read.
+- No project year, measured result, named quote, second phone screen, section crop, full-page scroll, or role credit was in the sources used here.
+- No logo file was saved from the page.
+
+### Pool Repair & Maintenance in Lakeway, TX — /work/yourpoolrepairguy/
+
+- Yavin-Digital/yourpoolrepairguy-prototype was not readable from this account (HTTP 404), so PROJECT_GUIDE.md and SCOPE.md were not read.
+- No project year, measured result, named quote, second phone screen, section crop, full-page scroll, or role credit was in the sources used here.
+- No named color tokens were found in the stylesheet.
+- No logo file was saved from the page.
+- The prototype banner says content and images are not final.
+
+### Michael Rowan Ministries — /work/michaelrowanministries/
+
+- Repo Yavin-Digital/michaelrowanministries-prototype was readable. SCOPE.md and PROJECT_GUIDE.md were read.
+- No project year, measured result, named quote, second phone screen, section crop, full-page scroll, or role credit was in the sources used here.
+- No logo file was saved from the page.
+
+### KPX Official — /work/kpxofficial/
+
+- Yavin-Digital/kpxofficial-prototype was not readable from this account (HTTP 404), so PROJECT_GUIDE.md and SCOPE.md were not read.
+- No project year, measured result, named quote, second phone screen, section crop, full-page scroll, or role credit was in the sources used here.
+
+### Eddie In Service — /work/eddieinservice/
+
+- Yavin-Digital/eddieinservice-prototype was not readable from this account (HTTP 404), so PROJECT_GUIDE.md and SCOPE.md were not read.
+- No project year, measured result, named quote, second phone screen, section crop, full-page scroll, or role credit was in the sources used here.
+- No named color tokens were found in the stylesheet.
+- No logo file was saved from the page.
+- The review host and the prototype repo were not reachable. This page uses the live site on the matching domain.
+
+### Saiga 12, Vepr 12 & KS-12 Rebuilds — /work/lonestararms/
+
+- Yavin-Digital/lonestararms-prototype was not readable from this account (HTTP 404), so PROJECT_GUIDE.md and SCOPE.md were not read.
+- No project year, measured result, named quote, second phone screen, section crop, full-page scroll, or role credit was in the sources used here.
+- No named color tokens were found in the stylesheet.
+- No logo file was saved from the page.
+- The review host and the prototype repo were not reachable. This page uses the live site on the matching domain.
+
+### The Hive — /work/playatthehive/
+
+- Yavin-Digital/playatthehive and playatthehive-prototype were not readable from this account (HTTP 404).
+- No project year, measured result, named quote, second phone screen, section crop, full-page scroll, or role credit was in the sources used here.
+- No named color tokens were found in the stylesheet.
+- playatthehive.com returned HTTP 403. Figures and the founder quote on thetribemaker.com/work/the-hive were not copied.
 

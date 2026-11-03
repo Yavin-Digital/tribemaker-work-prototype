@@ -20,22 +20,14 @@ Custom Fit Coverage (Marcelo Campon & Associates) has a prototype at https://cus
 
 Should Custom Fit Coverage be on tribemakerwork.clientreview.co at all? If it should, where does a DPA Branding-only credit go so the Tribe Maker chrome does not apply? The prototype HTML fetched on {checked} does not contain the strings DPA, Yavin, or Tribe.
 
-## Not given a page
+## Skipped
 
-These Yavin-Digital prototypes exist, and this work repo does not reference them, so they are not in the grid and do not have case pages:
-
-- Aumakua Defense — https://aumakuadefense.clientreview.co
-- Michael Rowan Ministries — https://michaelrowanministries.clientreview.co
-- U-FIX-IT Appliance Parts — https://ufixit.clientreview.co
-- Radiant Nutrition — https://radiantnutrition.clientreview.co
-- Harvest Directory — repo Yavin-Digital/harvestdirectory-prototype (review host did not present that site)
-- Valorem — https://valorem.clientreview.co (its README calls it a Yavin Digital sample operator)
-- The Hive, Pirates Cove, and Jellystone appear on https://thetribemaker.com/work and are not in this repo's project list
+{skipped}
 
 ## Pages
 
 {pages}
-""".format(checked=CHECKED, pages="{pages}")
+""".format(checked=CHECKED, pages="{pages}", skipped="{skipped}")
 
 
 def esc(value):
@@ -73,6 +65,11 @@ def picture(shot, alt):
 
 
 def swatches(items):
+    if not items:
+        return gap(
+            "Color pending — content needed",
+            "No named color tokens were found in a stylesheet this page could read.",
+        )
     cards = []
     for item in items:
         line = " is-line" if item.get("line") else ""
@@ -93,6 +90,11 @@ def swatches(items):
 
 
 def fonts_block(fonts):
+    if not fonts:
+        return gap(
+            "Type pending — content needed",
+            "No font family was named in a stylesheet this page could read.",
+        )
     blocks = []
     for font in fonts:
         family = esc(font["css"])
@@ -154,7 +156,7 @@ def footer():
         <img src="../../assets/logo.svg" alt="" width="28" height="28">
         <span>The Tribe Maker</span>
       </a>
-      <p class="fine">A work-page prototype. Live sites only. No added results, quotes, or testimonials.</p>
+      <p class="fine">A work-page prototype. Live sites and review prototypes. No added results, quotes, or testimonials.</p>
       <p class="fine"><a href="https://thetribemaker.com">thetribemaker.com</a></p>
     </div>
   </footer>"""
@@ -1005,8 +1007,14 @@ def page_log(case):
 
 
 def main():
-    for index, case in enumerate(CASES):
-        nxt = CASES[(index + 1) % len(CASES)]
+    cases = list(CASES)
+    extra_path = ROOT / "data" / "more-cases.json"
+    if extra_path.exists():
+        import json
+        extra = json.loads(extra_path.read_text(encoding="utf-8"))
+        cases.extend(extra)
+    for index, case in enumerate(cases):
+        nxt = cases[(index + 1) % len(cases)]
         folder = ROOT / "work" / case["slug"]
         folder.mkdir(parents=True, exist_ok=True)
         html = render(case, nxt)
@@ -1014,12 +1022,14 @@ def main():
         for needle in ("+62%", "Lighthouse", "Kelsey"):
             if needle in html:
                 raise SystemExit(f"unexpected invented string {needle} in {case['slug']}")
-    pages = "\n".join(page_log(case) for case in CASES)
+    pages = "\n".join(page_log(case) for case in cases)
+    skipped_path = ROOT / "data" / "skipped.md"
+    skipped = skipped_path.read_text(encoding="utf-8") if skipped_path.exists() else "None.\n"
     (ROOT / "content-gaps.md").write_text(
-        GAPS_ONLY.format(pages=pages),
+        GAPS_ONLY.format(pages=pages, skipped=skipped),
         encoding="utf-8",
     )
-    print(f"wrote {len(CASES)} pages")
+    print(f"wrote {len(cases)} pages")
 
 
 if __name__ == "__main__":

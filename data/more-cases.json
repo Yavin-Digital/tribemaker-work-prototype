@@ -1,0 +1,4153 @@
+[
+  {
+    "slug": "time2shine",
+    "number": "08",
+    "client": "Time To Shine Performing Arts",
+    "title": "Time To Shine Performing Arts \u2014 Case Study | The Tribe Maker",
+    "description": "Case study for Time To Shine Performing Arts. Copy is from the review prototype read on 3 Nov 2026.",
+    "category": "where every child gets to shine",
+    "kicker": "Time To Shine Performing Arts \u00b7 time2shine.clientreview.co",
+    "h1": "Time To Shine Performing Arts",
+    "lede": "Time To Shine Performing Arts offers acting, dance, voice, summer camps, and private lessons for children and teens in Keller, TX.",
+    "industry": "Where Every Child Gets to Shine",
+    "scope": "Review prototype",
+    "year_gap": "No project year is written in a project guide or scope file this account could read.",
+    "url": "https://time2shine.clientreview.co/",
+    "host": "time2shine.clientreview.co",
+    "brief": "#0729aa",
+    "brief_ink": "#faf6ee",
+    "brief_kicker": "#ffaf00",
+    "band": "#ffaf00",
+    "band_ink": "#131419",
+    "brief_h": "Where Talent Meets Opportunity",
+    "brief_p": "Time To Shine Performing Arts offers acting, dance, voice, summer camps, and private lessons for children and teens in Keller, TX.",
+    "identity": "A written identity story and named color tokens were not in the sources read for this page.",
+    "colors": [],
+    "fonts_href": "https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,500;0,9..144,560&family=Sora:wght@400;500;600&family=Poppins:wght@400;600;700&family=Roboto:wght@400;500;700&display=swap",
+    "fonts": [
+      {
+        "css": "\"Poppins\", sans-serif",
+        "note": "Poppins \u00b7 named in the stylesheet"
+      },
+      {
+        "css": "\"Roboto\", sans-serif",
+        "note": "Roboto \u00b7 named in the stylesheet"
+      }
+    ],
+    "mobile_h": "Homepage on a phone",
+    "mobile_p": "The phone frame is a screenshot of the same page, captured at phone width. It is not enlarged.",
+    "results_gap": "No load time or before-and-after figure is in a project guide or scope file. Numbers printed on the source page are not repeated here as results.",
+    "details": [
+      {
+        "label": "Review prototype",
+        "title": "Where Talent Meets Opportunity",
+        "text": "Time To Shine Performing Arts offers acting, dance, voice, summer camps, and private lessons for children and teens in Keller, TX."
+      }
+    ],
+    "shots": {
+      "desktop": [
+        1440,
+        900
+      ],
+      "phone": [
+        390,
+        844
+      ],
+      "desktop_alt": "Homepage of Time To Shine Performing Arts",
+      "phone_alt": "Time To Shine Performing Arts homepage on a phone"
+    },
+    "sources": [
+      {
+        "href": "https://time2shine.clientreview.co/",
+        "text": "Review prototype, fetched 3 Nov 2026"
+      },
+      {
+        "text": "Yavin-Digital/time2shine-prototype was not readable from this account (HTTP 404), so PROJECT_GUIDE.md and SCOPE.md were not read."
+      }
+    ],
+    "log": [
+      "Yavin-Digital/time2shine-prototype was not readable from this account (HTTP 404), so PROJECT_GUIDE.md and SCOPE.md were not read.",
+      "No project year, measured result, named quote, second phone screen, section crop, full-page scroll, or role credit was in the sources used here.",
+      "No named color tokens were found in the stylesheet."
+    ],
+    "shortName": "Time To",
+    "headline": "Time To Shine Performing Arts offers acting, dance, voice, summer camps, and private lessons for children and teens in Keller, TX.",
+    "logo": {
+      "src": "../../assets/cases/time2shine/logo.png",
+      "alt": "Time To Shine Performing Arts",
+      "width": 1280,
+      "height": 640,
+      "note": "Logo file from the source page. Shown smaller than the file."
+    },
+    "logo_plate": "#fffcf7",
+    "logo_ink": "#131419"
+  },
+  {
+    "slug": "safespacefl",
+    "number": "09",
+    "client": "SafeSpace Florida",
+    "title": "SafeSpace Florida \u2014 Case Study | The Tribe Maker",
+    "description": "Case study for SafeSpace Florida. Copy is from the review prototype read on 3 Nov 2026.",
+    "category": "confidential help on the treasure coast",
+    "kicker": "SafeSpace Florida \u00b7 safespacefl.clientreview.co",
+    "h1": "No one should ever face domestic violence alone.",
+    "lede": "SafeSpace is the Treasure Coast\u2019s only state-certified domestic violence center, providing 24-hour safety, shelter, advocacy and support in Martin, St. Lucie and Indian River counties.",
+    "industry": "Confidential help on the Treasure Coast",
+    "scope": "Review prototype",
+    "year_gap": "No project year is written in a project guide or scope file this account could read.",
+    "url": "https://safespacefl.clientreview.co/",
+    "host": "safespacefl.clientreview.co",
+    "brief": "#E8A020",
+    "brief_ink": "#131419",
+    "brief_kicker": "#131419",
+    "band": "#E8A020",
+    "band_ink": "#131419",
+    "brief_h": "Get Help",
+    "brief_p": "SafeSpace is the Treasure Coast\u2019s only state-certified domestic violence center, providing 24-hour safety, shelter, advocacy and support in Martin, St. Lucie and Indian River counties.",
+    "identity": "Swatches are named tokens from the stylesheet.",
+    "colors": [
+      {
+        "role": "gold",
+        "token": "--gold",
+        "hex": "#E8A020",
+        "fg": "#131419",
+        "line": false
+      }
+    ],
+    "fonts_href": "https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,500;0,9..144,560&family=Sora:wght@400;500;600&family=Poppins:wght@400;600;700&family=Montserrat:wght@400;600;700&display=swap",
+    "fonts": [
+      {
+        "css": "\"Poppins\", sans-serif",
+        "note": "Poppins \u00b7 named in the stylesheet"
+      },
+      {
+        "css": "\"Montserrat\", sans-serif",
+        "note": "Montserrat \u00b7 named in the stylesheet"
+      }
+    ],
+    "mobile_h": "Homepage on a phone",
+    "mobile_p": "The phone frame is a screenshot of the same page, captured at phone width. It is not enlarged.",
+    "results_gap": "No load time or before-and-after figure is in a project guide or scope file. Numbers printed on the source page are not repeated here as results.",
+    "details": [
+      {
+        "label": "Review prototype",
+        "title": "Get Help",
+        "text": "SafeSpace is the Treasure Coast\u2019s only state-certified domestic violence center, providing 24-hour safety, shelter, advocacy and support in Martin, St. Lucie and Indian River counties."
+      }
+    ],
+    "shots": {
+      "desktop": [
+        1440,
+        900
+      ],
+      "phone": [
+        390,
+        844
+      ],
+      "desktop_alt": "Homepage of SafeSpace Florida",
+      "phone_alt": "SafeSpace Florida homepage on a phone"
+    },
+    "sources": [
+      {
+        "href": "https://safespacefl.clientreview.co/",
+        "text": "Review prototype, fetched 3 Nov 2026"
+      },
+      {
+        "text": "Yavin-Digital/safespacefl-prototype was not readable from this account (HTTP 404), so PROJECT_GUIDE.md and SCOPE.md were not read."
+      }
+    ],
+    "log": [
+      "Yavin-Digital/safespacefl-prototype was not readable from this account (HTTP 404), so PROJECT_GUIDE.md and SCOPE.md were not read.",
+      "No project year, measured result, named quote, second phone screen, section crop, full-page scroll, or role credit was in the sources used here."
+    ],
+    "shortName": "SafeSpace Florida",
+    "headline": "SafeSpace is the Treasure Coast\u2019s only state-certified domestic violence center, providing 24-hour safety, shelter, advocacy and support in Martin, St. Lucie and Indian River counties.",
+    "logo": {
+      "src": "../../assets/cases/safespacefl/logo.png",
+      "alt": "SafeSpace Florida",
+      "width": 1500,
+      "height": 750,
+      "note": "Logo file from the source page. Shown smaller than the file."
+    },
+    "logo_plate": "#fffcf7",
+    "logo_ink": "#131419"
+  },
+  {
+    "slug": "leadfoundation",
+    "number": "10",
+    "client": "LEAD Foundation",
+    "title": "LEAD Foundation \u2014 Case Study | The Tribe Maker",
+    "description": "Case study for LEAD Foundation. Copy is from the review prototype read on 3 Nov 2026.",
+    "category": "christian missions, trophy club tx",
+    "kicker": "LEAD Foundation \u00b7 leadfoundation.clientreview.co",
+    "h1": "LEAD Foundation International: a Christian missions ministry based in Trophy Club, Texas",
+    "lede": "LEAD Foundation International, Inc. is an approved non-profit 501(c)(3) Organization focused on God and Giving back - enabling victory through Christ.",
+    "industry": "Christian Missions, Trophy Club TX",
+    "scope": "Review prototype",
+    "year_gap": "No project year is written in a project guide or scope file this account could read.",
+    "url": "https://leadfoundation.clientreview.co/",
+    "host": "leadfoundation.clientreview.co",
+    "brief": "#002860",
+    "brief_ink": "#faf6ee",
+    "brief_kicker": "#ffaf00",
+    "band": "#F8C838",
+    "band_ink": "#131419",
+    "brief_h": "To lead people to Christ by walking consistently, working cooperatively and holistic love - to bring the light and the breath of God!",
+    "brief_p": "LEAD Foundation International, Inc. is an approved non-profit 501(c)(3) Organization focused on God and Giving back - enabling victory through Christ.",
+    "identity": "Swatches are named tokens from the stylesheet.",
+    "colors": [
+      {
+        "role": "navy",
+        "token": "--navy",
+        "hex": "#002860",
+        "fg": "#faf6ee",
+        "line": false
+      },
+      {
+        "role": "gold",
+        "token": "--gold",
+        "hex": "#F8C838",
+        "fg": "#131419",
+        "line": false
+      },
+      {
+        "role": "paper",
+        "token": "--paper",
+        "hex": "#F6F4EE",
+        "fg": "#131419",
+        "line": true
+      },
+      {
+        "role": "ink",
+        "token": "--ink",
+        "hex": "#1B2433",
+        "fg": "#faf6ee",
+        "line": false
+      }
+    ],
+    "fonts_href": "https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,500;0,9..144,560&family=Sora:wght@400;500;600&family=Montserrat:wght@400;600;700&display=swap",
+    "fonts": [
+      {
+        "css": "\"Montserrat\", sans-serif",
+        "note": "Montserrat \u00b7 named in the stylesheet"
+      }
+    ],
+    "mobile_h": "Homepage on a phone",
+    "mobile_p": "The phone frame is a screenshot of the same page, captured at phone width. It is not enlarged.",
+    "results_gap": "No load time or before-and-after figure is in a project guide or scope file. Numbers printed on the source page are not repeated here as results.",
+    "details": [
+      {
+        "label": "Review prototype",
+        "title": "To lead people to Christ by walking consistently, working cooperatively and holi",
+        "text": "LEAD Foundation International, Inc. is an approved non-profit 501(c)(3) Organization focused on God and Giving back - enabling victory through Christ."
+      }
+    ],
+    "shots": {
+      "desktop": [
+        1440,
+        900
+      ],
+      "phone": [
+        390,
+        844
+      ],
+      "desktop_alt": "Homepage of LEAD Foundation",
+      "phone_alt": "LEAD Foundation homepage on a phone"
+    },
+    "sources": [
+      {
+        "href": "https://leadfoundation.clientreview.co/",
+        "text": "Review prototype, fetched 3 Nov 2026"
+      },
+      {
+        "text": "Yavin-Digital/leadfoundation-prototype was not readable from this account (HTTP 404), so PROJECT_GUIDE.md and SCOPE.md were not read."
+      }
+    ],
+    "log": [
+      "Yavin-Digital/leadfoundation-prototype was not readable from this account (HTTP 404), so PROJECT_GUIDE.md and SCOPE.md were not read.",
+      "No project year, measured result, named quote, second phone screen, section crop, full-page scroll, or role credit was in the sources used here.",
+      "The prototype banner says content and images are not final."
+    ],
+    "shortName": "LEAD Foundation",
+    "headline": "LEAD Foundation International, Inc. is an approved non-profit 501(c)(3) Organization focused on God and Giving back - enabling victory through Christ.",
+    "logo": {
+      "src": "../../assets/cases/leadfoundation/logo.png",
+      "alt": "LEAD Foundation",
+      "width": 238,
+      "height": 104,
+      "note": "Logo file from the source page."
+    },
+    "logo_plate": "#fffcf7",
+    "logo_ink": "#131419",
+    "note": "The prototype banner says content and images are not final."
+  },
+  {
+    "slug": "saltandlight",
+    "number": "11",
+    "client": "Salt and Light Council",
+    "title": "Salt and Light Council \u2014 Case Study | The Tribe Maker",
+    "description": "Case study for Salt and Light Council. Copy is from the review prototype read on 3 Nov 2026.",
+    "category": "monthly meetings and prayer, lewisville tx",
+    "kicker": "Salt and Light Council \u00b7 saltandlight.clientreview.co",
+    "h1": "Monthly Meetings in Lewisville",
+    "lede": "Monthly meetings in Lewisville: special speakers, educational movies, forums and trainings. Mountain Movers Prayer Meeting 1st and 3rd Sundays, 7 PM.",
+    "industry": "Monthly Meetings and Prayer, Lewisville TX",
+    "scope": "Review prototype",
+    "year_gap": "No project year is written in a project guide or scope file this account could read.",
+    "url": "https://saltandlight.clientreview.co/",
+    "host": "saltandlight.clientreview.co",
+    "brief": "#7A5A14",
+    "brief_ink": "#faf6ee",
+    "brief_kicker": "#ffaf00",
+    "band": "#C89B3C",
+    "band_ink": "#faf6ee",
+    "brief_h": "The Last Stand",
+    "brief_p": "Monthly Meetings in Lewisville Special speakers, educational movies, forums and training classes.",
+    "identity": "Swatches are named tokens from the stylesheet.",
+    "colors": [
+      {
+        "role": "gold",
+        "token": "--gold",
+        "hex": "#C89B3C",
+        "fg": "#faf6ee",
+        "line": false
+      },
+      {
+        "role": "gold-2",
+        "token": "--gold-2",
+        "hex": "#D9AE52",
+        "fg": "#131419",
+        "line": false
+      },
+      {
+        "role": "gold-ink",
+        "token": "--gold-ink",
+        "hex": "#7A5A14",
+        "fg": "#faf6ee",
+        "line": false
+      }
+    ],
+    "fonts_href": "https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,500;0,9..144,560&family=Sora:wght@400;500;600&family=Oswald:wght@500;600&family=Public+Sans:wght@400;600&display=swap",
+    "fonts": [
+      {
+        "css": "\"Oswald\", sans-serif",
+        "note": "Oswald \u00b7 named in the stylesheet"
+      },
+      {
+        "css": "\"Public Sans\", sans-serif",
+        "note": "Public Sans \u00b7 named in the stylesheet"
+      }
+    ],
+    "mobile_h": "Homepage on a phone",
+    "mobile_p": "The phone frame is a screenshot of the same page, captured at phone width. It is not enlarged.",
+    "results_gap": "No load time or before-and-after figure is in a project guide or scope file. Numbers printed on the source page are not repeated here as results.",
+    "details": [
+      {
+        "label": "Review prototype",
+        "title": "The Last Stand",
+        "text": "Monthly Meetings in Lewisville Special speakers, educational movies, forums and training classes."
+      },
+      {
+        "label": "Review prototype",
+        "title": "On the page",
+        "text": "By Dawn's Early Light Documentary film \u00b7 Friday, October 16, 2026 Monumental Movie \u00b7 Friday, September 25 Protecting North Texas From Hamas and Marxist Special guest speaker Krista Schild \u00b7 June 20 We the Parents Movie and panel \u00b7 Friday, Feb."
+      },
+      {
+        "label": "Review prototype",
+        "title": "On the page",
+        "text": "9 Robert's Rules of Order Class Training class \u00b7 Saturday, September 21 State Fair Evangelism Outreach Outreach \u00b7 Saturday, Oct."
+      }
+    ],
+    "shots": {
+      "desktop": [
+        1440,
+        900
+      ],
+      "phone": [
+        390,
+        844
+      ],
+      "desktop_alt": "Homepage of Salt and Light Council",
+      "phone_alt": "Salt and Light Council homepage on a phone"
+    },
+    "sources": [
+      {
+        "href": "https://saltandlight.clientreview.co/",
+        "text": "Review prototype, fetched 3 Nov 2026"
+      },
+      {
+        "text": "Yavin-Digital/saltandlight-prototype was not readable from this account (HTTP 404), so PROJECT_GUIDE.md and SCOPE.md were not read."
+      }
+    ],
+    "log": [
+      "Yavin-Digital/saltandlight-prototype was not readable from this account (HTTP 404), so PROJECT_GUIDE.md and SCOPE.md were not read.",
+      "No project year, measured result, named quote, second phone screen, section crop, full-page scroll, or role credit was in the sources used here.",
+      "The review prototype title is the placeholder [MINISTRY NAME]. The page links to saltandlightcouncil.org and the Lewisville chapter page."
+    ],
+    "shortName": "Salt and",
+    "headline": "Monthly meetings in Lewisville: special speakers, educational movies, forums and trainings. Mountain Movers Prayer Meeting 1st and 3rd Sundays, 7 PM.",
+    "note": "The review prototype title is the placeholder [MINISTRY NAME]. The page links to saltandlightcouncil.org and the Lewisville chapter page.",
+    "logo": {
+      "src": "../../assets/cases/saltandlight/logo.jpg",
+      "alt": "Salt and Light Council",
+      "width": 566,
+      "height": 198,
+      "note": "Logo file from the source page. Shown smaller than the file."
+    },
+    "logo_plate": "#131419",
+    "logo_ink": "#faf6ee"
+  },
+  {
+    "slug": "citylife",
+    "number": "12",
+    "client": "City Lifestyle",
+    "title": "City Lifestyle \u2014 Case Study | The Tribe Maker",
+    "description": "Case study for City Lifestyle. Copy is from the review prototype read on 3 Nov 2026.",
+    "category": "review prototype",
+    "kicker": "City Lifestyle \u00b7 citylife.clientreview.co",
+    "h1": "More than a magazine.",
+    "lede": "We are not pay to play.",
+    "industry": "Review prototype",
+    "scope": "Review prototype",
+    "year_gap": "No project year is written in a project guide or scope file this account could read.",
+    "url": "https://citylife.clientreview.co/",
+    "host": "citylife.clientreview.co",
+    "brief": "#0B0A08",
+    "brief_ink": "#faf6ee",
+    "brief_kicker": "#ffaf00",
+    "band": "#D4B06A",
+    "band_ink": "#131419",
+    "brief_h": "Who?",
+    "brief_p": "We are not pay to play.",
+    "identity": "Swatches are named tokens from the stylesheet.",
+    "colors": [
+      {
+        "role": "ink",
+        "token": "--ink",
+        "hex": "#0B0A08",
+        "fg": "#faf6ee",
+        "line": false
+      },
+      {
+        "role": "gold",
+        "token": "--gold",
+        "hex": "#D4B06A",
+        "fg": "#131419",
+        "line": false
+      },
+      {
+        "role": "gold-deep",
+        "token": "--gold-deep",
+        "hex": "#8D6A32",
+        "fg": "#faf6ee",
+        "line": false
+      }
+    ],
+    "fonts_href": "https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,500;0,9..144,560&family=Sora:wght@400;500;600&family=Cormorant+Garamond:wght@500;600&family=Playfair+Display:wght@500;600&display=swap",
+    "fonts": [
+      {
+        "css": "\"Cormorant Garamond\", serif",
+        "note": "Cormorant Garamond \u00b7 named in the stylesheet"
+      },
+      {
+        "css": "\"Playfair Display\", serif",
+        "note": "Playfair Display \u00b7 named in the stylesheet"
+      }
+    ],
+    "mobile_h": "Homepage on a phone",
+    "mobile_p": "The phone frame is a screenshot of the same page, captured at phone width. It is not enlarged.",
+    "results_gap": "No load time or before-and-after figure is in a project guide or scope file. Numbers printed on the source page are not repeated here as results.",
+    "details": [
+      {
+        "label": "Review prototype",
+        "title": "Who?",
+        "text": "We are not pay to play."
+      }
+    ],
+    "shots": {
+      "desktop": [
+        1440,
+        900
+      ],
+      "phone": [
+        390,
+        844
+      ],
+      "desktop_alt": "Homepage of City Lifestyle",
+      "phone_alt": "City Lifestyle homepage on a phone"
+    },
+    "sources": [
+      {
+        "href": "https://citylife.clientreview.co/",
+        "text": "Review prototype, fetched 3 Nov 2026"
+      },
+      {
+        "text": "Yavin-Digital/citylife-prototype was not readable from this account (HTTP 404), so PROJECT_GUIDE.md and SCOPE.md were not read."
+      }
+    ],
+    "log": [
+      "Yavin-Digital/citylife-prototype was not readable from this account (HTTP 404), so PROJECT_GUIDE.md and SCOPE.md were not read.",
+      "No project year, measured result, named quote, second phone screen, section crop, full-page scroll, or role credit was in the sources used here.",
+      "The prototype prints a Bennett Eye Institute campaign with impression and click counts. Those figures are not repeated as results."
+    ],
+    "shortName": "City Lifestyle",
+    "headline": "We are not pay to play.",
+    "note": "The prototype prints a Bennett Eye Institute campaign with impression and click counts. Those figures are not repeated as results.",
+    "logo": {
+      "src": "../../assets/cases/citylife/logo.png",
+      "alt": "City Lifestyle",
+      "width": 782,
+      "height": 179,
+      "note": "Logo file from the source page. Shown smaller than the file."
+    },
+    "logo_plate": "#131419",
+    "logo_ink": "#faf6ee"
+  },
+  {
+    "slug": "tribeschurch",
+    "number": "13",
+    "client": "Tribes Church",
+    "title": "Tribes Church \u2014 Case Study | The Tribe Maker",
+    "description": "Case study for Tribes Church. Copy is from the review prototype read on 3 Nov 2026.",
+    "category": "church in argyle, tx",
+    "kicker": "Tribes Church \u00b7 tribeschurch.clientreview.co",
+    "h1": "A church in Argyle, TX. Sundays at 9:00 AM or 10:30 AM.",
+    "lede": "Tribes Church is a church in Argyle, TX. Sundays 9:00 AM or 10:30 AM at Argyle West Elementary, 1741 Old Justin Rd. Find your Tribe or plan your visit.",
+    "industry": "Church in Argyle, TX",
+    "scope": "Review prototype",
+    "year_gap": "No project year is written in a project guide or scope file this account could read.",
+    "url": "https://tribeschurch.clientreview.co/",
+    "host": "tribeschurch.clientreview.co",
+    "brief": "#111111",
+    "brief_ink": "#faf6ee",
+    "brief_kicker": "#ffaf00",
+    "band": "#C8A96A",
+    "band_ink": "#faf6ee",
+    "brief_h": "Tribes Church exists to help people find and follow Jesus by doing three things: Gather - Scatter - Multiply.",
+    "brief_p": "Argyle West Elementary, 1741 Old Justin Rd., Argyle, TX 76226 No matter your background, faith experience, or life journey, you are welcome here and invited to find your Tribe.",
+    "identity": "Swatches are named tokens from the stylesheet.",
+    "colors": [
+      {
+        "role": "ink",
+        "token": "--ink",
+        "hex": "#111111",
+        "fg": "#faf6ee",
+        "line": false
+      },
+      {
+        "role": "paper",
+        "token": "--paper",
+        "hex": "#F2F2F2",
+        "fg": "#131419",
+        "line": true
+      },
+      {
+        "role": "accent",
+        "token": "--accent",
+        "hex": "#C8A96A",
+        "fg": "#faf6ee",
+        "line": false
+      }
+    ],
+    "fonts_href": "https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,500;0,9..144,560&family=Sora:wght@400;500;600&family=Barlow+Condensed:wght@500;700&display=swap",
+    "fonts": [
+      {
+        "css": "\"Barlow Condensed\", serif",
+        "note": "Barlow Condensed \u00b7 named in the stylesheet"
+      }
+    ],
+    "mobile_h": "Homepage on a phone",
+    "mobile_p": "The phone frame is a screenshot of the same page, captured at phone width. It is not enlarged.",
+    "results_gap": "No load time or before-and-after figure is in a project guide or scope file. Numbers printed on the source page are not repeated here as results.",
+    "details": [
+      {
+        "label": "Review prototype",
+        "title": "Tribes Church exists to help people find and follow Jesus by doing three things:",
+        "text": "Argyle West Elementary, 1741 Old Justin Rd., Argyle, TX 76226 No matter your background, faith experience, or life journey, you are welcome here and invited to find your Tribe."
+      },
+      {
+        "label": "Review prototype",
+        "title": "On the page",
+        "text": "Plan Your Visit Watch Find and follow Jesus Tribes Church exists to help people find and follow Jesus by doing three things: Gather - Scatter - Multiply."
+      },
+      {
+        "label": "Review prototype",
+        "title": "On the page",
+        "text": "When you find your Tribe you find people to connect to, friends to support you through all life throws your way, and a community to belong to."
+      }
+    ],
+    "shots": {
+      "desktop": [
+        1440,
+        900
+      ],
+      "phone": [
+        390,
+        844
+      ],
+      "desktop_alt": "Homepage of Tribes Church",
+      "phone_alt": "Tribes Church homepage on a phone"
+    },
+    "sources": [
+      {
+        "href": "https://tribeschurch.clientreview.co/",
+        "text": "Review prototype, fetched 3 Nov 2026"
+      },
+      {
+        "text": "Yavin-Digital/tribeschurch-prototype was not readable from this account (HTTP 404), so PROJECT_GUIDE.md and SCOPE.md were not read."
+      }
+    ],
+    "log": [
+      "Yavin-Digital/tribeschurch-prototype was not readable from this account (HTTP 404), so PROJECT_GUIDE.md and SCOPE.md were not read.",
+      "No project year, measured result, named quote, second phone screen, section crop, full-page scroll, or role credit was in the sources used here."
+    ],
+    "shortName": "Tribes Church",
+    "headline": "Tribes Church is a church in Argyle, TX. Sundays 9:00 AM or 10:30 AM at Argyle West Elementary, 1741 Old Justin Rd. Find your Tribe or plan your visit.",
+    "logo": {
+      "src": "../../assets/cases/tribeschurch/logo.png",
+      "alt": "Tribes Church",
+      "width": 300,
+      "height": 223,
+      "note": "Logo file from the source page. Shown smaller than the file."
+    },
+    "logo_plate": "#131419",
+    "logo_ink": "#faf6ee"
+  },
+  {
+    "slug": "boomerjacks",
+    "number": "14",
+    "client": "BoomerJack's Grill & Bar",
+    "title": "BoomerJack's Grill & Bar \u2014 Case Study | The Tribe Maker",
+    "description": "Case study for BoomerJack's Grill & Bar. Copy is from the review prototype read on 3 Nov 2026.",
+    "category": "sports bar & restaurant in dallas-fort worth & houston",
+    "kicker": "BoomerJack's Grill & Bar \u00b7 boomerjacks.clientreview.co",
+    "h1": "Big Screens. Big Bites. Big Sports Energy.",
+    "lede": "Your neighborhood sports bar in Dallas-Fort Worth and Houston, patio restaurant, and all-around hang-out central. Find your location now.",
+    "industry": "Sports Bar & Restaurant in Dallas-Fort Worth & Houston",
+    "scope": "Review prototype",
+    "year_gap": "No project year is written in a project guide or scope file this account could read.",
+    "url": "https://boomerjacks.clientreview.co/",
+    "host": "boomerjacks.clientreview.co",
+    "brief": "#131C33",
+    "brief_ink": "#faf6ee",
+    "brief_kicker": "#ffaf00",
+    "band": "#EEA43B",
+    "band_ink": "#131419",
+    "brief_h": "Today's specials",
+    "brief_p": "Your neighborhood sports bar in Dallas-Fort Worth and Houston, patio restaurant, and all-around hang-out central. Find your location now.",
+    "identity": "Swatches are named tokens from the stylesheet.",
+    "colors": [
+      {
+        "role": "ink",
+        "token": "--ink",
+        "hex": "#131C33",
+        "fg": "#faf6ee",
+        "line": false
+      },
+      {
+        "role": "navy",
+        "token": "--navy",
+        "hex": "#002B60",
+        "fg": "#faf6ee",
+        "line": false
+      },
+      {
+        "role": "navy-2",
+        "token": "--navy-2",
+        "hex": "#0A3A78",
+        "fg": "#faf6ee",
+        "line": false
+      },
+      {
+        "role": "gold",
+        "token": "--gold",
+        "hex": "#EEA43B",
+        "fg": "#131419",
+        "line": false
+      },
+      {
+        "role": "gold-light",
+        "token": "--gold-light",
+        "hex": "#FFDBA2",
+        "fg": "#131419",
+        "line": true
+      },
+      {
+        "role": "paper",
+        "token": "--paper",
+        "hex": "#F7F2E8",
+        "fg": "#131419",
+        "line": true
+      }
+    ],
+    "fonts_href": "https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,500;0,9..144,560&family=Sora:wght@400;500;600&family=Inter:wght@400;600&display=swap",
+    "fonts": [
+      {
+        "css": "\"Inter\", sans-serif",
+        "note": "Inter \u00b7 named in the stylesheet"
+      }
+    ],
+    "mobile_h": "Homepage on a phone",
+    "mobile_p": "The phone frame is a screenshot of the same page, captured at phone width. It is not enlarged.",
+    "results_gap": "No load time or before-and-after figure is in a project guide or scope file. Numbers printed on the source page are not repeated here as results.",
+    "details": [
+      {
+        "label": "Review prototype",
+        "title": "Today's specials",
+        "text": "Your neighborhood sports bar in Dallas-Fort Worth and Houston, patio restaurant, and all-around hang-out central. Find your location now."
+      }
+    ],
+    "shots": {
+      "desktop": [
+        1440,
+        900
+      ],
+      "phone": [
+        390,
+        844
+      ],
+      "desktop_alt": "Homepage of BoomerJack's Grill & Bar",
+      "phone_alt": "BoomerJack's Grill & Bar homepage on a phone"
+    },
+    "sources": [
+      {
+        "href": "https://boomerjacks.clientreview.co/",
+        "text": "Review prototype, fetched 3 Nov 2026"
+      },
+      {
+        "text": "Yavin-Digital/boomerjacks-prototype was not readable from this account (HTTP 404), so PROJECT_GUIDE.md and SCOPE.md were not read."
+      }
+    ],
+    "log": [
+      "Yavin-Digital/boomerjacks-prototype was not readable from this account (HTTP 404), so PROJECT_GUIDE.md and SCOPE.md were not read.",
+      "No project year, measured result, named quote, second phone screen, section crop, full-page scroll, or role credit was in the sources used here."
+    ],
+    "shortName": "BoomerJack's Grill",
+    "headline": "Your neighborhood sports bar in Dallas-Fort Worth and Houston, patio restaurant, and all-around hang-out central. Find your location now.",
+    "logo": {
+      "src": "../../assets/cases/boomerjacks/logo.webp",
+      "alt": "BoomerJack's Grill & Bar",
+      "width": 383,
+      "height": 112,
+      "note": "Logo file from the source page. Shown smaller than the file."
+    },
+    "logo_plate": "#fffcf7",
+    "logo_ink": "#131419"
+  },
+  {
+    "slug": "rtrtexas",
+    "number": "15",
+    "client": "Restore the Republic",
+    "title": "Restore the Republic \u2014 Case Study | The Tribe Maker",
+    "description": "Case study for Restore the Republic. Copy is from the review prototype read on 3 Nov 2026.",
+    "category": "north texas patriots in little elm",
+    "kicker": "Restore the Republic \u00b7 rtrtexas.clientreview.co",
+    "h1": "Join us Fridays at 8:00 a.m. in Little Elm",
+    "lede": "RTR Texas meets every Friday 8:00 a.m. at Towers Tap House in Little Elm. Educate. Empower We the People. Hold our elected officials accountable.",
+    "industry": "North Texas Patriots in Little Elm",
+    "scope": "Review prototype",
+    "year_gap": "No project year is written in a project guide or scope file this account could read.",
+    "url": "https://rtrtexas.clientreview.co/",
+    "host": "rtrtexas.clientreview.co",
+    "brief": "#282F68",
+    "brief_ink": "#faf6ee",
+    "brief_kicker": "#ffaf00",
+    "band": "#141834",
+    "band_ink": "#faf6ee",
+    "brief_h": "This Friday",
+    "brief_p": "RTR Texas meets every Friday 8:00 a.m. at Towers Tap House in Little Elm. Educate. Empower We the People. Hold our elected officials accountable.",
+    "identity": "Swatches are named tokens from the stylesheet.",
+    "colors": [
+      {
+        "role": "navy",
+        "token": "--navy",
+        "hex": "#282F68",
+        "fg": "#faf6ee",
+        "line": false
+      },
+      {
+        "role": "ink",
+        "token": "--ink",
+        "hex": "#141834",
+        "fg": "#faf6ee",
+        "line": false
+      },
+      {
+        "role": "paper",
+        "token": "--paper",
+        "hex": "#F6F6F6",
+        "fg": "#131419",
+        "line": true
+      }
+    ],
+    "fonts_href": "https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,500;0,9..144,560&family=Sora:wght@400;500;600&display=swap",
+    "fonts": [],
+    "mobile_h": "Homepage on a phone",
+    "mobile_p": "The phone frame is a screenshot of the same page, captured at phone width. It is not enlarged.",
+    "results_gap": "No load time or before-and-after figure is in a project guide or scope file. Numbers printed on the source page are not repeated here as results.",
+    "details": [
+      {
+        "label": "Review prototype",
+        "title": "This Friday",
+        "text": "RTR Texas meets every Friday 8:00 a.m. at Towers Tap House in Little Elm. Educate. Empower We the People. Hold our elected officials accountable."
+      }
+    ],
+    "shots": {
+      "desktop": [
+        1440,
+        900
+      ],
+      "phone": [
+        390,
+        844
+      ],
+      "desktop_alt": "Homepage of Restore the Republic",
+      "phone_alt": "Restore the Republic homepage on a phone"
+    },
+    "sources": [
+      {
+        "href": "https://rtrtexas.clientreview.co/",
+        "text": "Review prototype, fetched 3 Nov 2026"
+      },
+      {
+        "text": "Yavin-Digital/rtrtexas-prototype was not readable from this account (HTTP 404), so PROJECT_GUIDE.md and SCOPE.md were not read."
+      }
+    ],
+    "log": [
+      "Yavin-Digital/rtrtexas-prototype was not readable from this account (HTTP 404), so PROJECT_GUIDE.md and SCOPE.md were not read.",
+      "No project year, measured result, named quote, second phone screen, section crop, full-page scroll, or role credit was in the sources used here."
+    ],
+    "shortName": "Restore the",
+    "headline": "RTR Texas meets every Friday 8:00 a.m. at Towers Tap House in Little Elm. Educate. Empower We the People. Hold our elected officials accountable.",
+    "logo": {
+      "src": "../../assets/cases/rtrtexas/logo.png",
+      "alt": "Restore the Republic",
+      "width": 240,
+      "height": 120,
+      "note": "Logo file from the source page."
+    },
+    "logo_plate": "#fffcf7",
+    "logo_ink": "#131419"
+  },
+  {
+    "slug": "aumakuadefense",
+    "number": "16",
+    "client": "Aumakua Defense",
+    "title": "Aumakua Defense \u2014 Case Study | The Tribe Maker",
+    "description": "Case study for Aumakua Defense. Copy is from the review prototype read on 3 Nov 2026.",
+    "category": "review prototype",
+    "kicker": "Aumakua Defense \u00b7 aumakuadefense.clientreview.co",
+    "h1": "Where Ancient Protection Meets Modern Precision",
+    "lede": "Aumakua Defense. Where Ancient Protection Meets Modern Precision. Prototype storefront. Product names and prices have not been supplied. Photographs are labeled examples.",
+    "industry": "Review prototype",
+    "scope": "Review prototype",
+    "year_gap": "No project year is written in a project guide or scope file this account could read.",
+    "url": "https://aumakuadefense.clientreview.co/",
+    "host": "aumakuadefense.clientreview.co",
+    "brief": "#C07A5A",
+    "brief_ink": "#faf6ee",
+    "brief_kicker": "#ffaf00",
+    "band": "#2C3324",
+    "band_ink": "#faf6ee",
+    "brief_h": "Range, field, carry",
+    "brief_p": "Aumakua Defense Where Ancient Protection Meets Modern Precision Draft: The hero photograph is licensed stock, not a client photo.",
+    "identity": "Swatches are named tokens from the stylesheet.",
+    "colors": [
+      {
+        "role": "accent",
+        "token": "--accent",
+        "hex": "#C07A5A",
+        "fg": "#faf6ee",
+        "line": false
+      },
+      {
+        "role": "brand",
+        "token": "--brand",
+        "hex": "#2C3324",
+        "fg": "#faf6ee",
+        "line": false
+      },
+      {
+        "role": "ink",
+        "token": "--ink",
+        "hex": "#1A1916",
+        "fg": "#faf6ee",
+        "line": false
+      },
+      {
+        "role": "paper",
+        "token": "--paper",
+        "hex": "#F4F0E8",
+        "fg": "#131419",
+        "line": true
+      }
+    ],
+    "fonts_href": "https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,500;0,9..144,560&family=Sora:wght@400;500;600&display=swap",
+    "fonts": [],
+    "mobile_h": "Homepage on a phone",
+    "mobile_p": "The phone frame is a screenshot of the same page, captured at phone width. It is not enlarged.",
+    "results_gap": "No load time or before-and-after figure is in a project guide or scope file. Numbers printed on the source page are not repeated here as results.",
+    "details": [
+      {
+        "label": "Review prototype",
+        "title": "Range, field, carry",
+        "text": "Aumakua Defense Where Ancient Protection Meets Modern Precision Draft: The hero photograph is licensed stock, not a client photo."
+      },
+      {
+        "label": "Review prototype",
+        "title": "On the page",
+        "text": "View the shop Our story Example image Built for Range, field, carry Range Example image Field Example image Everyday Carry Example image Shop Accessories Draft: These are the only products the public sitemap lists."
+      },
+      {
+        "label": "Review prototype",
+        "title": "On the page",
+        "text": "View this piece The name Where ancient protection meets modern precision In Hawaiian tradition, an aumakua is a guardian spirit."
+      }
+    ],
+    "shots": {
+      "desktop": [
+        1440,
+        900
+      ],
+      "phone": [
+        390,
+        844
+      ],
+      "desktop_alt": "Homepage of Aumakua Defense",
+      "phone_alt": "Aumakua Defense homepage on a phone"
+    },
+    "sources": [
+      {
+        "href": "https://aumakuadefense.clientreview.co/",
+        "text": "Review prototype, fetched 3 Nov 2026"
+      },
+      {
+        "text": "Repo Yavin-Digital/aumakuadefense-prototype was readable. SCOPE.md and PROJECT_GUIDE.md were read."
+      }
+    ],
+    "log": [
+      "Repo Yavin-Digital/aumakuadefense-prototype was readable. SCOPE.md and PROJECT_GUIDE.md were read.",
+      "No project year, measured result, named quote, second phone screen, section crop, full-page scroll, or role credit was in the sources used here.",
+      "SCOPE.md says aumakuadefense.com was a coming-soon page on 13 Oct 2026. The prototype says product names and prices have not been supplied."
+    ],
+    "shortName": "Aumakua Defense",
+    "headline": "Aumakua Defense. Where Ancient Protection Meets Modern Precision. Prototype storefront. Product names and prices have not been supplied. Photographs are labeled examples.",
+    "note": "SCOPE.md says aumakuadefense.com was a coming-soon page on 13 Oct 2026. The prototype says product names and prices have not been supplied.",
+    "logo": {
+      "src": "../../assets/cases/aumakuadefense/logo.webp",
+      "alt": "Aumakua Defense",
+      "width": 1932,
+      "height": 1220,
+      "note": "Logo file from the source page. Shown smaller than the file."
+    },
+    "logo_plate": "#fffcf7",
+    "logo_ink": "#131419"
+  },
+  {
+    "slug": "allplay",
+    "number": "17",
+    "client": "All Play Inc. \u2014 Commercial Playground Equipment",
+    "title": "All Play Inc. \u2014 Commercial Playground Equipment \u2014 Case Study | The Tribe Maker",
+    "description": "Case study for All Play Inc. \u2014 Commercial Playground Equipment. Copy is from the review prototype read on 3 Nov 2026.",
+    "category": "houston, tx",
+    "kicker": "All Play Inc. \u2014 Commercial Playground Equipment \u00b7 allplay.clientreview.co",
+    "h1": "Safe Playgrounds. Built to Last. Built for Texas.",
+    "lede": "All Play Inc. designs, supplies, installs, and maintains commercial playground equipment for schools, municipalities, HOAs, churches, and parks across Greater Houston \u2014 CPSI-certified, ADA-compliant, and built right the first time.",
+    "industry": "Houston, TX",
+    "scope": "Review prototype",
+    "year_gap": "No project year is written in a project guide or scope file this account could read.",
+    "url": "https://allplay.clientreview.co/",
+    "host": "allplay.clientreview.co",
+    "brief": "#0729aa",
+    "brief_ink": "#faf6ee",
+    "brief_kicker": "#ffaf00",
+    "band": "#ffaf00",
+    "band_ink": "#131419",
+    "brief_h": "Full-Service Playground Solutions",
+    "brief_p": "All Play Inc. designs, supplies, installs, and maintains commercial playground equipment for schools, municipalities, HOAs, churches, and parks across Greater Houston \u2014 CPSI-certified, ADA-compliant, and built right the first time.",
+    "identity": "A written identity story and named color tokens were not in the sources read for this page.",
+    "colors": [],
+    "fonts_href": "https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,500;0,9..144,560&family=Sora:wght@400;500;600&family=Poppins:wght@400;600;700&display=swap",
+    "fonts": [
+      {
+        "css": "\"Poppins\", sans-serif",
+        "note": "Poppins \u00b7 named in the stylesheet"
+      }
+    ],
+    "mobile_h": "Homepage on a phone",
+    "mobile_p": "The phone frame is a screenshot of the same page, captured at phone width. It is not enlarged.",
+    "results_gap": "No load time or before-and-after figure is in a project guide or scope file. Numbers printed on the source page are not repeated here as results.",
+    "details": [
+      {
+        "label": "Review prototype",
+        "title": "Full-Service Playground Solutions",
+        "text": "All Play Inc. designs, supplies, installs, and maintains commercial playground equipment for schools, municipalities, HOAs, churches, and parks across Greater Houston \u2014 CPSI-certified, ADA-compliant, and built right the first time."
+      }
+    ],
+    "shots": {
+      "desktop": [
+        1440,
+        900
+      ],
+      "phone": [
+        390,
+        844
+      ],
+      "desktop_alt": "Homepage of All Play Inc. \u2014 Commercial Playground Equipment",
+      "phone_alt": "All Play Inc. \u2014 Commercial Playground Equipment homepage on a phone"
+    },
+    "sources": [
+      {
+        "href": "https://allplay.clientreview.co/",
+        "text": "Review prototype, fetched 3 Nov 2026"
+      },
+      {
+        "text": "Yavin-Digital/allplay-prototype was not readable from this account (HTTP 404), so PROJECT_GUIDE.md and SCOPE.md were not read."
+      }
+    ],
+    "log": [
+      "Yavin-Digital/allplay-prototype was not readable from this account (HTTP 404), so PROJECT_GUIDE.md and SCOPE.md were not read.",
+      "No project year, measured result, named quote, second phone screen, section crop, full-page scroll, or role credit was in the sources used here.",
+      "No named color tokens were found in the stylesheet.",
+      "No logo file was saved from the page."
+    ],
+    "shortName": "All Play",
+    "headline": "All Play Inc. designs, supplies, installs, and maintains commercial playground equipment for schools, municipalities, HOAs, churches, and parks across Greater Houston \u2014 CPSI-certified, ADA-compliant, and built right the "
+  },
+  {
+    "slug": "assistedlivingfinder",
+    "number": "18",
+    "client": "Assisted Living Finder",
+    "title": "Assisted Living Finder \u2014 Case Study | The Tribe Maker",
+    "description": "Case study for Assisted Living Finder. Copy is from the review prototype read on 3 Nov 2026.",
+    "category": "free help in tupelo & amory, ms",
+    "kicker": "Assisted Living Finder \u00b7 assistedlivingfinder.clientreview.co",
+    "h1": "Free, personal help finding assisted living or a retirement village near you",
+    "lede": "Ronald Duke is a free senior care advisor helping families find assisted living or a retirement village in Tupelo, Amory, and northeast Mississippi.",
+    "industry": "Free Help in Tupelo & Amory, MS",
+    "scope": "Review prototype",
+    "year_gap": "No project year is written in a project guide or scope file this account could read.",
+    "url": "https://assistedlivingfinder.clientreview.co/",
+    "host": "assistedlivingfinder.clientreview.co",
+    "brief": "#0729aa",
+    "brief_ink": "#faf6ee",
+    "brief_kicker": "#ffaf00",
+    "band": "#ffaf00",
+    "band_ink": "#131419",
+    "brief_h": "Three things, always",
+    "brief_p": "Ronald Duke is a free senior care advisor helping families find assisted living or a retirement village in Tupelo, Amory, and northeast Mississippi.",
+    "identity": "A written identity story and named color tokens were not in the sources read for this page.",
+    "colors": [],
+    "fonts_href": "https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,500;0,9..144,560&family=Sora:wght@400;500;600&display=swap",
+    "fonts": [],
+    "mobile_h": "Homepage on a phone",
+    "mobile_p": "The phone frame is a screenshot of the same page, captured at phone width. It is not enlarged.",
+    "results_gap": "No load time or before-and-after figure is in a project guide or scope file. Numbers printed on the source page are not repeated here as results.",
+    "details": [
+      {
+        "label": "Review prototype",
+        "title": "Three things, always",
+        "text": "Ronald Duke is a free senior care advisor helping families find assisted living or a retirement village in Tupelo, Amory, and northeast Mississippi."
+      }
+    ],
+    "shots": {
+      "desktop": [
+        1440,
+        900
+      ],
+      "phone": [
+        390,
+        844
+      ],
+      "desktop_alt": "Homepage of Assisted Living Finder",
+      "phone_alt": "Assisted Living Finder homepage on a phone"
+    },
+    "sources": [
+      {
+        "href": "https://assistedlivingfinder.clientreview.co/",
+        "text": "Review prototype, fetched 3 Nov 2026"
+      },
+      {
+        "text": "Yavin-Digital/assistedlivingfinder-prototype was not readable from this account (HTTP 404), so PROJECT_GUIDE.md and SCOPE.md were not read."
+      }
+    ],
+    "log": [
+      "Yavin-Digital/assistedlivingfinder-prototype was not readable from this account (HTTP 404), so PROJECT_GUIDE.md and SCOPE.md were not read.",
+      "No project year, measured result, named quote, second phone screen, section crop, full-page scroll, or role credit was in the sources used here.",
+      "No named color tokens were found in the stylesheet.",
+      "No logo file was saved from the page."
+    ],
+    "shortName": "Assisted Living",
+    "headline": "Ronald Duke is a free senior care advisor helping families find assisted living or a retirement village in Tupelo, Amory, and northeast Mississippi."
+  },
+  {
+    "slug": "brakingnews",
+    "number": "19",
+    "client": "Braking News",
+    "title": "Braking News \u2014 Case Study | The Tribe Maker",
+    "description": "Case study for Braking News. Copy is from the review prototype read on 3 Nov 2026.",
+    "category": "automotive service news",
+    "kicker": "Braking News \u00b7 brakingnews.clientreview.co",
+    "h1": "Real people. Real conversations. A stronger service industry.",
+    "lede": "Braking News is a video-first automotive industry show covering the people, technology, products, and ideas shaping dealership fixed operations and automotive service.",
+    "industry": "Automotive Service News",
+    "scope": "Review prototype",
+    "year_gap": "No project year is written in a project guide or scope file this account could read.",
+    "url": "https://brakingnews.clientreview.co/",
+    "host": "brakingnews.clientreview.co",
+    "brief": "#002070",
+    "brief_ink": "#faf6ee",
+    "brief_kicker": "#ffaf00",
+    "band": "#001050",
+    "band_ink": "#faf6ee",
+    "brief_h": "Industry Leaders",
+    "brief_p": "Braking News \u2014 Automotive Service News Automotive Service News Real people.",
+    "identity": "Swatches are named tokens from the stylesheet.",
+    "colors": [
+      {
+        "role": "brand",
+        "token": "--brand",
+        "hex": "#002070",
+        "fg": "#faf6ee",
+        "line": false
+      },
+      {
+        "role": "brand-deep",
+        "token": "--brand-deep",
+        "hex": "#001050",
+        "fg": "#faf6ee",
+        "line": false
+      },
+      {
+        "role": "brand-bright",
+        "token": "--brand-bright",
+        "hex": "#1A3A9A",
+        "fg": "#faf6ee",
+        "line": false
+      },
+      {
+        "role": "accent",
+        "token": "--accent",
+        "hex": "#A01020",
+        "fg": "#faf6ee",
+        "line": false
+      },
+      {
+        "role": "accent-deep",
+        "token": "--accent-deep",
+        "hex": "#7A0C18",
+        "fg": "#faf6ee",
+        "line": false
+      },
+      {
+        "role": "accent-bright",
+        "token": "--accent-bright",
+        "hex": "#C4182C",
+        "fg": "#faf6ee",
+        "line": false
+      }
+    ],
+    "fonts_href": "https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,500;0,9..144,560&family=Sora:wght@400;500;600&display=swap",
+    "fonts": [],
+    "mobile_h": "Homepage on a phone",
+    "mobile_p": "The phone frame is a screenshot of the same page, captured at phone width. It is not enlarged.",
+    "results_gap": "No load time or before-and-after figure is in a project guide or scope file. Numbers printed on the source page are not repeated here as results.",
+    "details": [
+      {
+        "label": "Review prototype",
+        "title": "Industry Leaders",
+        "text": "Braking News \u2014 Automotive Service News Automotive Service News Real people."
+      },
+      {
+        "label": "Review prototype",
+        "title": "On the page",
+        "text": "Watch Latest Episode Learn More \u2192 On Air Eddie in Service Host People Ideas Technology Progress Industry Leaders In-depth conversations Real-World Solutions Tools, tech & training Current Trends What\u2019s changing and why A Stronger Tomorrow For the automotive service industry Featured Episode On Air 3:11 The Best Lunch Ever?"
+      },
+      {
+        "label": "Review prototype",
+        "title": "On the page",
+        "text": "Eddie in Service \u00b7 3:11 We sit down to talk about how convenience, delivery culture, and changing consumer behavior are impacting the automotive service industry \u2014 and what dealerships and service departments can learn from it."
+      }
+    ],
+    "shots": {
+      "desktop": [
+        1440,
+        900
+      ],
+      "phone": [
+        390,
+        844
+      ],
+      "desktop_alt": "Homepage of Braking News",
+      "phone_alt": "Braking News homepage on a phone"
+    },
+    "sources": [
+      {
+        "href": "https://brakingnews.clientreview.co/",
+        "text": "Review prototype, fetched 3 Nov 2026"
+      },
+      {
+        "text": "Yavin-Digital/brakingnews-prototype was not readable from this account (HTTP 404), so PROJECT_GUIDE.md and SCOPE.md were not read."
+      }
+    ],
+    "log": [
+      "Yavin-Digital/brakingnews-prototype was not readable from this account (HTTP 404), so PROJECT_GUIDE.md and SCOPE.md were not read.",
+      "No project year, measured result, named quote, second phone screen, section crop, full-page scroll, or role credit was in the sources used here.",
+      "No logo file was saved from the page."
+    ],
+    "shortName": "Braking News",
+    "headline": "Braking News is a video-first automotive industry show covering the people, technology, products, and ideas shaping dealership fixed operations and automotive service."
+  },
+  {
+    "slug": "igy6armory",
+    "number": "20",
+    "client": "I GOT YOUR 6",
+    "title": "I GOT YOUR 6 \u2014 Case Study | The Tribe Maker",
+    "description": "Case study for I GOT YOUR 6. Copy is from the review prototype read on 3 Nov 2026.",
+    "category": "review prototype",
+    "kicker": "I GOT YOUR 6 \u00b7 igy6armory.clientreview.co",
+    "h1": "I GOT YOUR 6",
+    "lede": "Sample rez operator site: live webinars, seats booked with Marks, free entry available.",
+    "industry": "Review prototype",
+    "scope": "Review prototype",
+    "year_gap": "No project year is written in a project guide or scope file this account could read.",
+    "url": "https://igy6armory.clientreview.co/",
+    "host": "igy6armory.clientreview.co",
+    "brief": "#16120A",
+    "brief_ink": "#faf6ee",
+    "brief_kicker": "#ffaf00",
+    "band": "#1A1010",
+    "band_ink": "#faf6ee",
+    "brief_h": "Five steps, then one booked seat wins",
+    "brief_p": "Free entry Official Rules Live webinars I GOT YOUR 6 A live product-review webinar.",
+    "identity": "Swatches are named tokens from the stylesheet.",
+    "colors": [
+      {
+        "role": "ink-on-ivory",
+        "token": "--ink-on-ivory",
+        "hex": "#16120A",
+        "fg": "#faf6ee",
+        "line": false
+      },
+      {
+        "role": "ink-on-ivory",
+        "token": "--ink-on-ivory",
+        "hex": "#1A1010",
+        "fg": "#faf6ee",
+        "line": false
+      }
+    ],
+    "fonts_href": "https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,500;0,9..144,560&family=Sora:wght@400;500;600&family=Inter:wght@400;600&family=Barlow+Condensed:wght@500;700&display=swap",
+    "fonts": [
+      {
+        "css": "\"Inter\", sans-serif",
+        "note": "Inter \u00b7 named in the stylesheet"
+      },
+      {
+        "css": "\"Barlow Condensed\", serif",
+        "note": "Barlow Condensed \u00b7 named in the stylesheet"
+      }
+    ],
+    "mobile_h": "Homepage on a phone",
+    "mobile_p": "The phone frame is a screenshot of the same page, captured at phone width. It is not enlarged.",
+    "results_gap": "No load time or before-and-after figure is in a project guide or scope file. Numbers printed on the source page are not repeated here as results.",
+    "details": [
+      {
+        "label": "Review prototype",
+        "title": "Five steps, then one booked seat wins",
+        "text": "Free entry Official Rules Live webinars I GOT YOUR 6 A live product-review webinar."
+      },
+      {
+        "label": "Review prototype",
+        "title": "On the page",
+        "text": "Claim a Seat How It Works Seats booked with Marks Official Rules Get Text Alerts 18+ site Handguns 21+ Marks book seats 50 seats No purchase necessary."
+      },
+      {
+        "label": "Review prototype",
+        "title": "On the page",
+        "text": "How a webinar works Five steps, then one booked seat wins Seats are booked with Marks, never with money."
+      }
+    ],
+    "shots": {
+      "desktop": [
+        1440,
+        900
+      ],
+      "phone": [
+        390,
+        844
+      ],
+      "desktop_alt": "Homepage of I GOT YOUR 6",
+      "phone_alt": "I GOT YOUR 6 homepage on a phone"
+    },
+    "sources": [
+      {
+        "href": "https://igy6armory.clientreview.co/",
+        "text": "Review prototype, fetched 3 Nov 2026"
+      },
+      {
+        "text": "Yavin-Digital/igy6armory-prototype was not readable from this account (HTTP 404), so PROJECT_GUIDE.md and SCOPE.md were not read."
+      }
+    ],
+    "log": [
+      "Yavin-Digital/igy6armory-prototype was not readable from this account (HTTP 404), so PROJECT_GUIDE.md and SCOPE.md were not read.",
+      "No project year, measured result, named quote, second phone screen, section crop, full-page scroll, or role credit was in the sources used here.",
+      "No logo file was saved from the page.",
+      "The review page calls itself a demo site and a sample rez operator."
+    ],
+    "shortName": "I GOT YOUR 6",
+    "headline": "Sample rez operator site: live webinars, seats booked with Marks, free entry available.",
+    "note": "The review page calls itself a demo site and a sample rez operator."
+  },
+  {
+    "slug": "kdcollegeprep",
+    "number": "21",
+    "client": "SAT, ACT and College Counseling in DFW",
+    "title": "SAT, ACT and College Counseling in DFW \u2014 Case Study | The Tribe Maker",
+    "description": "Case study for SAT, ACT and College Counseling in DFW. Copy is from the review prototype read on 3 Nov 2026.",
+    "category": "kd college prep",
+    "kicker": "SAT, ACT and College Counseling in DFW \u00b7 kdcollegeprep.clientreview.co",
+    "h1": "Big dreams. A clearer path to college.",
+    "lede": "KD College Prep helps 7th to 12th graders in Coppell, Frisco, Plano and online prepare for the PSAT, SAT and ACT tests and apply to college. Schedule a free consultation.",
+    "industry": "KD College Prep",
+    "scope": "Review prototype",
+    "year_gap": "No project year is written in a project guide or scope file this account could read.",
+    "url": "https://kdcollegeprep.clientreview.co/",
+    "host": "kdcollegeprep.clientreview.co",
+    "brief": "#282C28",
+    "brief_ink": "#faf6ee",
+    "brief_kicker": "#ffaf00",
+    "band": "#F3CA57",
+    "band_ink": "#131419",
+    "brief_h": "Their future is personal. Their prep should be, too.",
+    "brief_p": "SAT, ACT and College Counseling in DFW | KD College Prep Prototype for review.",
+    "identity": "Swatches are named tokens from the stylesheet.",
+    "colors": [
+      {
+        "role": "paper",
+        "token": "--paper",
+        "hex": "#F7F5EE",
+        "fg": "#131419",
+        "line": true
+      },
+      {
+        "role": "paper-2",
+        "token": "--paper-2",
+        "hex": "#FFFEFA",
+        "fg": "#131419",
+        "line": true
+      },
+      {
+        "role": "ink",
+        "token": "--ink",
+        "hex": "#282C28",
+        "fg": "#faf6ee",
+        "line": false
+      },
+      {
+        "role": "gold",
+        "token": "--gold",
+        "hex": "#F3CA57",
+        "fg": "#131419",
+        "line": false
+      }
+    ],
+    "fonts_href": "https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,500;0,9..144,560&family=Sora:wght@400;500;600&display=swap",
+    "fonts": [],
+    "mobile_h": "Homepage on a phone",
+    "mobile_p": "The phone frame is a screenshot of the same page, captured at phone width. It is not enlarged.",
+    "results_gap": "No load time or before-and-after figure is in a project guide or scope file. Numbers printed on the source page are not repeated here as results.",
+    "details": [
+      {
+        "label": "Review prototype",
+        "title": "Their future is personal. Their prep should be, too.",
+        "text": "SAT, ACT and College Counseling in DFW | KD College Prep Prototype for review."
+      },
+      {
+        "label": "Review prototype",
+        "title": "On the page",
+        "text": "Brand Presentation Performance SEO/AEO Compare Skip to content Menu Test Prep College Counseling Packages Locations About Blog Schedule a free consultation Coppell \u00b7 Frisco \u00b7 Plano \u00b7 Online Big dreams."
+      },
+      {
+        "label": "Review prototype",
+        "title": "On the page",
+        "text": "KD College Prep helps 7th to 12th graders in Coppell, Frisco, Plano and online prepare for the PSAT, SAT and ACT tests and apply to college, with real human advisors, not AI."
+      }
+    ],
+    "shots": {
+      "desktop": [
+        1440,
+        900
+      ],
+      "phone": [
+        390,
+        844
+      ],
+      "desktop_alt": "Homepage of SAT, ACT and College Counseling in DFW",
+      "phone_alt": "SAT, ACT and College Counseling in DFW homepage on a phone"
+    },
+    "sources": [
+      {
+        "href": "https://kdcollegeprep.clientreview.co/",
+        "text": "Review prototype, fetched 3 Nov 2026"
+      },
+      {
+        "text": "Yavin-Digital/kdcollegeprep-prototype was not readable from this account (HTTP 404), so PROJECT_GUIDE.md and SCOPE.md were not read."
+      }
+    ],
+    "log": [
+      "Yavin-Digital/kdcollegeprep-prototype was not readable from this account (HTTP 404), so PROJECT_GUIDE.md and SCOPE.md were not read.",
+      "No project year, measured result, named quote, second phone screen, section crop, full-page scroll, or role credit was in the sources used here."
+    ],
+    "shortName": "SAT, ACT",
+    "headline": "KD College Prep helps 7th to 12th graders in Coppell, Frisco, Plano and online prepare for the PSAT, SAT and ACT tests and apply to college. Schedule a free consultation.",
+    "logo": {
+      "src": "../../assets/cases/kdcollegeprep/logo.png",
+      "alt": "SAT, ACT and College Counseling in DFW",
+      "width": 302,
+      "height": 200,
+      "note": "Logo file from the source page. Shown smaller than the file."
+    },
+    "logo_plate": "#fffcf7",
+    "logo_ink": "#131419"
+  },
+  {
+    "slug": "onehop",
+    "number": "22",
+    "client": "One Hop Golf",
+    "title": "One Hop Golf \u2014 Case Study | The Tribe Maker",
+    "description": "Case study for One Hop Golf. Copy is from the review prototype read on 3 Nov 2026.",
+    "category": "know your gear. own your game.",
+    "kicker": "One Hop Golf \u00b7 onehop.clientreview.co",
+    "h1": "Know Your Gear. Own Your Game.",
+    "lede": "Expert-led live and on-demand golf webinars with in-depth product breakdowns. PLAY \u00b7 LEARN \u00b7 BELONG.",
+    "industry": "Know Your Gear. Own Your Game.",
+    "scope": "Review prototype",
+    "year_gap": "No project year is written in a project guide or scope file this account could read.",
+    "url": "https://onehop.clientreview.co/",
+    "host": "onehop.clientreview.co",
+    "brief": "#779F3F",
+    "brief_ink": "#faf6ee",
+    "brief_kicker": "#ffaf00",
+    "band": "#8AB351",
+    "band_ink": "#faf6ee",
+    "brief_h": "From Webinar to a Better Game",
+    "brief_p": "Join our live and on-demand webinars to get in-depth product breakdowns, expert insights, and real-world performance\u2014so you can play better with confidence.",
+    "identity": "Swatches are named tokens from the stylesheet.",
+    "colors": [
+      {
+        "role": "brand-primary",
+        "token": "--brand-primary",
+        "hex": "#779F3F",
+        "fg": "#faf6ee",
+        "line": false
+      },
+      {
+        "role": "brand-primary-fill",
+        "token": "--brand-primary-fill",
+        "hex": "#55712D",
+        "fg": "#faf6ee",
+        "line": false
+      },
+      {
+        "role": "brand-primary-hover",
+        "token": "--brand-primary-hover",
+        "hex": "#4C6528",
+        "fg": "#faf6ee",
+        "line": false
+      },
+      {
+        "role": "brand-primary-soft",
+        "token": "--brand-primary-soft",
+        "hex": "#8AB351",
+        "fg": "#faf6ee",
+        "line": false
+      },
+      {
+        "role": "brand-primary-muted",
+        "token": "--brand-primary-muted",
+        "hex": "#A8D26D",
+        "fg": "#131419",
+        "line": false
+      },
+      {
+        "role": "brand-accent",
+        "token": "--brand-accent",
+        "hex": "#98CA51",
+        "fg": "#131419",
+        "line": false
+      }
+    ],
+    "fonts_href": "https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,500;0,9..144,560&family=Sora:wght@400;500;600&display=swap",
+    "fonts": [],
+    "mobile_h": "Homepage on a phone",
+    "mobile_p": "The phone frame is a screenshot of the same page, captured at phone width. It is not enlarged.",
+    "results_gap": "No load time or before-and-after figure is in a project guide or scope file. Numbers printed on the source page are not repeated here as results.",
+    "details": [
+      {
+        "label": "Review prototype",
+        "title": "From Webinar to a Better Game",
+        "text": "Join our live and on-demand webinars to get in-depth product breakdowns, expert insights, and real-world performance\u2014so you can play better with confidence."
+      },
+      {
+        "label": "Review prototype",
+        "title": "On the page",
+        "text": "Claim a Seat How It Works Play Better Golf Learn From Experts Belong To a Community The Process From Webinar to a Better Game Register as a member, claim a seat, and learn from experts \u2014 five steps into the One Hop journey."
+      },
+      {
+        "label": "Review prototype",
+        "title": "On the page",
+        "text": "Join the Community Member Registration Create your One Hop account to claim webinar seats, unlock replays, and track shop orders."
+      }
+    ],
+    "shots": {
+      "desktop": [
+        1440,
+        900
+      ],
+      "phone": [
+        390,
+        844
+      ],
+      "desktop_alt": "Homepage of One Hop Golf",
+      "phone_alt": "One Hop Golf homepage on a phone"
+    },
+    "sources": [
+      {
+        "href": "https://onehop.clientreview.co/",
+        "text": "Review prototype, fetched 3 Nov 2026"
+      },
+      {
+        "text": "Yavin-Digital/onehop-prototype was not readable from this account (HTTP 404), so PROJECT_GUIDE.md and SCOPE.md were not read."
+      }
+    ],
+    "log": [
+      "Yavin-Digital/onehop-prototype was not readable from this account (HTTP 404), so PROJECT_GUIDE.md and SCOPE.md were not read.",
+      "No project year, measured result, named quote, second phone screen, section crop, full-page scroll, or role credit was in the sources used here.",
+      "No logo file was saved from the page."
+    ],
+    "shortName": "One Hop Golf",
+    "headline": "Expert-led live and on-demand golf webinars with in-depth product breakdowns. PLAY \u00b7 LEARN \u00b7 BELONG."
+  },
+  {
+    "slug": "monteslaw",
+    "number": "23",
+    "client": "Personal Injury Trial Lawyer, Colleyville TX",
+    "title": "Personal Injury Trial Lawyer, Colleyville TX \u2014 Case Study | The Tribe Maker",
+    "description": "Case study for Personal Injury Trial Lawyer, Colleyville TX. Copy is from the review prototype read on 3 Nov 2026.",
+    "category": "montes law",
+    "kicker": "Personal Injury Trial Lawyer, Colleyville TX \u00b7 monteslaw.clientreview.co",
+    "h1": "Seriously hurt? Tell us what happened. We'll explain your options.",
+    "lede": "Seriously hurt in Texas? Montes Law PLLC works with injured people and families in English and Spanish. Call (817) 801-9400.",
+    "industry": "Montes Law",
+    "scope": "Review prototype",
+    "year_gap": "No project year is written in a project guide or scope file this account could read.",
+    "url": "https://monteslaw.clientreview.co/",
+    "host": "monteslaw.clientreview.co",
+    "brief": "#0417A2",
+    "brief_ink": "#faf6ee",
+    "brief_kicker": "#ffaf00",
+    "band": "#EDE3D1",
+    "band_ink": "#131419",
+    "brief_h": "What kind of injury?",
+    "brief_p": "Seriously hurt in Texas? Montes Law PLLC works with injured people and families in English and Spanish. Call (817) 801-9400.",
+    "identity": "Swatches are named tokens from the stylesheet.",
+    "colors": [
+      {
+        "role": "brand",
+        "token": "--brand",
+        "hex": "#0417A2",
+        "fg": "#faf6ee",
+        "line": false
+      },
+      {
+        "role": "ink",
+        "token": "--ink",
+        "hex": "#00088D",
+        "fg": "#faf6ee",
+        "line": false
+      },
+      {
+        "role": "paper",
+        "token": "--paper",
+        "hex": "#F6EFE3",
+        "fg": "#131419",
+        "line": true
+      },
+      {
+        "role": "paper-2",
+        "token": "--paper-2",
+        "hex": "#EDE3D1",
+        "fg": "#131419",
+        "line": true
+      }
+    ],
+    "fonts_href": "https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,500;0,9..144,560&family=Sora:wght@400;500;600&family=Source+Serif+4:wght@500;600&family=Barlow+Condensed:wght@500;700&display=swap",
+    "fonts": [
+      {
+        "css": "\"Source Serif 4\", serif",
+        "note": "Source Serif 4 \u00b7 named in the stylesheet"
+      },
+      {
+        "css": "\"Barlow Condensed\", serif",
+        "note": "Barlow Condensed \u00b7 named in the stylesheet"
+      }
+    ],
+    "mobile_h": "Homepage on a phone",
+    "mobile_p": "The phone frame is a screenshot of the same page, captured at phone width. It is not enlarged.",
+    "results_gap": "No load time or before-and-after figure is in a project guide or scope file. Numbers printed on the source page are not repeated here as results.",
+    "details": [
+      {
+        "label": "Review prototype",
+        "title": "What kind of injury?",
+        "text": "Seriously hurt in Texas? Montes Law PLLC works with injured people and families in English and Spanish. Call (817) 801-9400."
+      }
+    ],
+    "shots": {
+      "desktop": [
+        1440,
+        900
+      ],
+      "phone": [
+        390,
+        844
+      ],
+      "desktop_alt": "Homepage of Personal Injury Trial Lawyer, Colleyville TX",
+      "phone_alt": "Personal Injury Trial Lawyer, Colleyville TX homepage on a phone"
+    },
+    "sources": [
+      {
+        "href": "https://monteslaw.clientreview.co/",
+        "text": "Review prototype, fetched 3 Nov 2026"
+      },
+      {
+        "text": "Yavin-Digital/monteslaw-prototype was not readable from this account (HTTP 404), so PROJECT_GUIDE.md and SCOPE.md were not read."
+      }
+    ],
+    "log": [
+      "Yavin-Digital/monteslaw-prototype was not readable from this account (HTTP 404), so PROJECT_GUIDE.md and SCOPE.md were not read.",
+      "No project year, measured result, named quote, second phone screen, section crop, full-page scroll, or role credit was in the sources used here.",
+      "The prototype banner says content and images are not final."
+    ],
+    "shortName": "Personal Injury",
+    "headline": "Seriously hurt in Texas? Montes Law PLLC works with injured people and families in English and Spanish. Call (817) 801-9400.",
+    "logo": {
+      "src": "../../assets/cases/monteslaw/logo.png",
+      "alt": "Personal Injury Trial Lawyer, Colleyville TX",
+      "width": 700,
+      "height": 141,
+      "note": "Logo file from the source page. Shown smaller than the file."
+    },
+    "logo_plate": "#fffcf7",
+    "logo_ink": "#131419",
+    "note": "The prototype banner says content and images are not final."
+  },
+  {
+    "slug": "thegundrop",
+    "number": "24",
+    "client": "US Drop Zone",
+    "title": "US Drop Zone \u2014 Case Study | The Tribe Maker",
+    "description": "Case study for US Drop Zone. Copy is from the review prototype read on 3 Nov 2026.",
+    "category": "webinar seat storefront",
+    "kicker": "US Drop Zone \u00b7 thegundrop.clientreview.co",
+    "h1": "U.S. Drop Zone",
+    "lede": "Welcome to US Drop Zone. Browse active webinars, register free as a member, secure your seat, and join the review.",
+    "industry": "Webinar Seat Storefront",
+    "scope": "Review prototype",
+    "year_gap": "No project year is written in a project guide or scope file this account could read.",
+    "url": "https://thegundrop.clientreview.co/",
+    "host": "thegundrop.clientreview.co",
+    "brief": "#889158",
+    "brief_ink": "#faf6ee",
+    "brief_kicker": "#ffaf00",
+    "band": "#A8B078",
+    "band_ink": "#faf6ee",
+    "brief_h": "What's on the table",
+    "brief_p": "Welcome to US Drop Zone. Browse active webinars, register free as a member, secure your seat, and join the review.",
+    "identity": "Swatches are named tokens from the stylesheet.",
+    "colors": [
+      {
+        "role": "brand-primary",
+        "token": "--brand-primary",
+        "hex": "#889158",
+        "fg": "#faf6ee",
+        "line": false
+      },
+      {
+        "role": "brand-primary-hover",
+        "token": "--brand-primary-hover",
+        "hex": "#6E7846",
+        "fg": "#faf6ee",
+        "line": false
+      },
+      {
+        "role": "brand-primary-soft",
+        "token": "--brand-primary-soft",
+        "hex": "#A8B078",
+        "fg": "#faf6ee",
+        "line": false
+      },
+      {
+        "role": "brand-primary-muted",
+        "token": "--brand-primary-muted",
+        "hex": "#535B37",
+        "fg": "#faf6ee",
+        "line": false
+      },
+      {
+        "role": "brand-primary-deep",
+        "token": "--brand-primary-deep",
+        "hex": "#171F12",
+        "fg": "#faf6ee",
+        "line": false
+      },
+      {
+        "role": "brand-accent",
+        "token": "--brand-accent",
+        "hex": "#C61C21",
+        "fg": "#faf6ee",
+        "line": false
+      }
+    ],
+    "fonts_href": "https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,500;0,9..144,560&family=Sora:wght@400;500;600&display=swap",
+    "fonts": [],
+    "mobile_h": "Homepage on a phone",
+    "mobile_p": "The phone frame is a screenshot of the same page, captured at phone width. It is not enlarged.",
+    "results_gap": "No load time or before-and-after figure is in a project guide or scope file. Numbers printed on the source page are not repeated here as results.",
+    "details": [
+      {
+        "label": "Review prototype",
+        "title": "What's on the table",
+        "text": "Welcome to US Drop Zone. Browse active webinars, register free as a member, secure your seat, and join the review."
+      }
+    ],
+    "shots": {
+      "desktop": [
+        1440,
+        900
+      ],
+      "phone": [
+        390,
+        844
+      ],
+      "desktop_alt": "Homepage of US Drop Zone",
+      "phone_alt": "US Drop Zone homepage on a phone"
+    },
+    "sources": [
+      {
+        "href": "https://thegundrop.clientreview.co/",
+        "text": "Review prototype, fetched 3 Nov 2026"
+      },
+      {
+        "text": "Yavin-Digital/thegundrop-prototype was not readable from this account (HTTP 404), so PROJECT_GUIDE.md and SCOPE.md were not read."
+      }
+    ],
+    "log": [
+      "Yavin-Digital/thegundrop-prototype was not readable from this account (HTTP 404), so PROJECT_GUIDE.md and SCOPE.md were not read.",
+      "No project year, measured result, named quote, second phone screen, section crop, full-page scroll, or role credit was in the sources used here.",
+      "No logo file was saved from the page."
+    ],
+    "shortName": "US Drop Zone",
+    "headline": "Welcome to US Drop Zone. Browse active webinars, register free as a member, secure your seat, and join the review."
+  },
+  {
+    "slug": "thedreamersland",
+    "number": "25",
+    "client": "The Dreamers' Land",
+    "title": "The Dreamers' Land \u2014 Case Study | The Tribe Maker",
+    "description": "Case study for The Dreamers' Land. Copy is from the review prototype read on 3 Nov 2026.",
+    "category": "review prototype",
+    "kicker": "The Dreamers' Land \u00b7 thedreamersland.clientreview.co",
+    "h1": "Turning Pages. Changing Lives.",
+    "lede": "A growing library of interactive, bilingual digital books designed to engage minds, spark imagination, and empower the next generation.",
+    "industry": "Review prototype",
+    "scope": "Review prototype",
+    "year_gap": "No project year is written in a project guide or scope file this account could read.",
+    "url": "https://thedreamersland.clientreview.co/",
+    "host": "thedreamersland.clientreview.co",
+    "brief": "#07395B",
+    "brief_ink": "#faf6ee",
+    "brief_kicker": "#ffaf00",
+    "band": "#FAAF40",
+    "band_ink": "#131419",
+    "brief_h": "Three collections. One library.",
+    "brief_p": "A growing library of interactive, bilingual digital books designed to engage minds, spark imagination, and empower the next generation.",
+    "identity": "Swatches are named tokens from the stylesheet.",
+    "colors": [
+      {
+        "role": "navy",
+        "token": "--navy",
+        "hex": "#07395B",
+        "fg": "#faf6ee",
+        "line": false
+      },
+      {
+        "role": "navy-deep",
+        "token": "--navy-deep",
+        "hex": "#0E3862",
+        "fg": "#faf6ee",
+        "line": false
+      },
+      {
+        "role": "ink",
+        "token": "--ink",
+        "hex": "#0B2233",
+        "fg": "#faf6ee",
+        "line": false
+      },
+      {
+        "role": "gold",
+        "token": "--gold",
+        "hex": "#FAAF40",
+        "fg": "#131419",
+        "line": false
+      },
+      {
+        "role": "gold-hover",
+        "token": "--gold-hover",
+        "hex": "#E6AC3D",
+        "fg": "#131419",
+        "line": false
+      },
+      {
+        "role": "gold-alt",
+        "token": "--gold-alt",
+        "hex": "#F8B045",
+        "fg": "#131419",
+        "line": false
+      }
+    ],
+    "fonts_href": "https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,500;0,9..144,560&family=Sora:wght@400;500;600&display=swap",
+    "fonts": [],
+    "mobile_h": "Homepage on a phone",
+    "mobile_p": "The phone frame is a screenshot of the same page, captured at phone width. It is not enlarged.",
+    "results_gap": "No load time or before-and-after figure is in a project guide or scope file. Numbers printed on the source page are not repeated here as results.",
+    "details": [
+      {
+        "label": "Review prototype",
+        "title": "Three collections. One library.",
+        "text": "A growing library of interactive, bilingual digital books designed to engage minds, spark imagination, and empower the next generation."
+      }
+    ],
+    "shots": {
+      "desktop": [
+        1440,
+        900
+      ],
+      "phone": [
+        390,
+        844
+      ],
+      "desktop_alt": "Homepage of The Dreamers' Land",
+      "phone_alt": "The Dreamers' Land homepage on a phone"
+    },
+    "sources": [
+      {
+        "href": "https://thedreamersland.clientreview.co/",
+        "text": "Review prototype, fetched 3 Nov 2026"
+      },
+      {
+        "text": "Yavin-Digital/thedreamersland-prototype was not readable from this account (HTTP 404), so PROJECT_GUIDE.md and SCOPE.md were not read."
+      }
+    ],
+    "log": [
+      "Yavin-Digital/thedreamersland-prototype was not readable from this account (HTTP 404), so PROJECT_GUIDE.md and SCOPE.md were not read.",
+      "No project year, measured result, named quote, second phone screen, section crop, full-page scroll, or role credit was in the sources used here.",
+      "The prototype banner says all content and images are not final and are only there to show what is possible."
+    ],
+    "shortName": "Dreamers' Land",
+    "headline": "A growing library of interactive, bilingual digital books designed to engage minds, spark imagination, and empower the next generation.",
+    "note": "The prototype banner says all content and images are not final and are only there to show what is possible.",
+    "logo": {
+      "src": "../../assets/cases/thedreamersland/logo.webp",
+      "alt": "The Dreamers' Land",
+      "width": 500,
+      "height": 237,
+      "note": "Logo file from the source page. Shown smaller than the file."
+    },
+    "logo_plate": "#fffcf7",
+    "logo_ink": "#131419"
+  },
+  {
+    "slug": "ncutility",
+    "number": "26",
+    "client": "Trailer Sales, Service & Parts",
+    "title": "Trailer Sales, Service & Parts \u2014 Case Study | The Tribe Maker",
+    "description": "Case study for Trailer Sales, Service & Parts. Copy is from the review prototype read on 3 Nov 2026.",
+    "category": "north central utility",
+    "kicker": "Trailer Sales, Service & Parts \u00b7 ncutility.clientreview.co",
+    "h1": "Built for the Road Ahead",
+    "lede": "Semi-trailer sales, parts, service and rentals across Wisconsin, Minnesota and North Dakota. 10 locations and 40+ years keeping fleets moving.",
+    "industry": "North Central Utility",
+    "scope": "Review prototype",
+    "year_gap": "No project year is written in a project guide or scope file this account could read.",
+    "url": "https://ncutility.clientreview.co/",
+    "host": "ncutility.clientreview.co",
+    "brief": "#E31B23",
+    "brief_ink": "#faf6ee",
+    "brief_kicker": "#ffaf00",
+    "band": "#D3232C",
+    "band_ink": "#faf6ee",
+    "brief_h": "Trailers for Every Job",
+    "brief_p": "Semi-trailer sales, parts, service and rentals across Wisconsin, Minnesota and North Dakota. 10 locations and 40+ years keeping fleets moving.",
+    "identity": "Swatches are named tokens from the stylesheet.",
+    "colors": [
+      {
+        "role": "brand",
+        "token": "--brand",
+        "hex": "#E31B23",
+        "fg": "#faf6ee",
+        "line": false
+      },
+      {
+        "role": "brand-btn",
+        "token": "--brand-btn",
+        "hex": "#D3232C",
+        "fg": "#faf6ee",
+        "line": false
+      },
+      {
+        "role": "brand-deep",
+        "token": "--brand-deep",
+        "hex": "#B81C24",
+        "fg": "#faf6ee",
+        "line": false
+      },
+      {
+        "role": "ink",
+        "token": "--ink",
+        "hex": "#111111",
+        "fg": "#faf6ee",
+        "line": false
+      },
+      {
+        "role": "paper",
+        "token": "--paper",
+        "hex": "#FFFFFF",
+        "fg": "#131419",
+        "line": true
+      },
+      {
+        "role": "paper-soft",
+        "token": "--paper-soft",
+        "hex": "#F5F5F5",
+        "fg": "#131419",
+        "line": true
+      }
+    ],
+    "fonts_href": "https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,500;0,9..144,560&family=Sora:wght@400;500;600&display=swap",
+    "fonts": [],
+    "mobile_h": "Homepage on a phone",
+    "mobile_p": "The phone frame is a screenshot of the same page, captured at phone width. It is not enlarged.",
+    "results_gap": "No load time or before-and-after figure is in a project guide or scope file. Numbers printed on the source page are not repeated here as results.",
+    "details": [
+      {
+        "label": "Review prototype",
+        "title": "Trailers for Every Job",
+        "text": "Semi-trailer sales, parts, service and rentals across Wisconsin, Minnesota and North Dakota. 10 locations and 40+ years keeping fleets moving."
+      }
+    ],
+    "shots": {
+      "desktop": [
+        1440,
+        900
+      ],
+      "phone": [
+        390,
+        844
+      ],
+      "desktop_alt": "Homepage of Trailer Sales, Service & Parts",
+      "phone_alt": "Trailer Sales, Service & Parts homepage on a phone"
+    },
+    "sources": [
+      {
+        "href": "https://ncutility.clientreview.co/",
+        "text": "Review prototype, fetched 3 Nov 2026"
+      },
+      {
+        "text": "Yavin-Digital/ncutility-prototype was not readable from this account (HTTP 404), so PROJECT_GUIDE.md and SCOPE.md were not read."
+      }
+    ],
+    "log": [
+      "Yavin-Digital/ncutility-prototype was not readable from this account (HTTP 404), so PROJECT_GUIDE.md and SCOPE.md were not read.",
+      "No project year, measured result, named quote, second phone screen, section crop, full-page scroll, or role credit was in the sources used here.",
+      "The prototype banner says content and images are not final."
+    ],
+    "shortName": "Trailer Sales,",
+    "headline": "Semi-trailer sales, parts, service and rentals across Wisconsin, Minnesota and North Dakota. 10 locations and 40+ years keeping fleets moving.",
+    "logo": {
+      "src": "../../assets/cases/ncutility/logo.png",
+      "alt": "Trailer Sales, Service & Parts",
+      "width": 377,
+      "height": 200,
+      "note": "Logo file from the source page. Shown smaller than the file."
+    },
+    "logo_plate": "#fffcf7",
+    "logo_ink": "#131419",
+    "note": "The prototype banner says content and images are not final."
+  },
+  {
+    "slug": "ufixit",
+    "number": "27",
+    "client": "Appliance Parts Store Texas \u2014 Shop Online",
+    "title": "Appliance Parts Store Texas \u2014 Shop Online \u2014 Case Study | The Tribe Maker",
+    "description": "Case study for Appliance Parts Store Texas \u2014 Shop Online. Copy is from the review prototype read on 3 Nov 2026.",
+    "category": "u-fix-it appliance parts",
+    "kicker": "Appliance Parts Store Texas \u2014 Shop Online \u00b7 ufixit.clientreview.co",
+    "h1": "We have it, or we\u2019ll get it!",
+    "lede": "Shop appliance parts online from U-FIX-IT: refrigerator, washer, dryer, range and dishwasher parts. Free diagnosis help, same-day shipping on in-stock parts, 4 Texas stores.",
+    "industry": "U-FIX-IT Appliance Parts",
+    "scope": "Review prototype",
+    "year_gap": "No project year is written in a project guide or scope file this account could read.",
+    "url": "https://ufixit.clientreview.co/",
+    "host": "ufixit.clientreview.co",
+    "brief": "#1C1D76",
+    "brief_ink": "#faf6ee",
+    "brief_kicker": "#ffaf00",
+    "band": "#000000",
+    "band_ink": "#faf6ee",
+    "brief_h": "Best sellers",
+    "brief_p": "Shop appliance parts online from U-FIX-IT: refrigerator, washer, dryer, range and dishwasher parts. Free diagnosis help, same-day shipping on in-stock parts, 4 Texas stores.",
+    "identity": "Swatches are named tokens from the stylesheet.",
+    "colors": [
+      {
+        "role": "navy",
+        "token": "--navy",
+        "hex": "#1C1D76",
+        "fg": "#faf6ee",
+        "line": false
+      },
+      {
+        "role": "ink",
+        "token": "--ink",
+        "hex": "#000000",
+        "fg": "#faf6ee",
+        "line": false
+      },
+      {
+        "role": "paper",
+        "token": "--paper",
+        "hex": "#FFFFFF",
+        "fg": "#131419",
+        "line": true
+      }
+    ],
+    "fonts_href": "https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,500;0,9..144,560&family=Sora:wght@400;500;600&family=Oswald:wght@500;600&family=Source+Serif+4:wght@500;600&display=swap",
+    "fonts": [
+      {
+        "css": "\"Oswald\", sans-serif",
+        "note": "Oswald \u00b7 named in the stylesheet"
+      },
+      {
+        "css": "\"Source Serif 4\", serif",
+        "note": "Source Serif 4 \u00b7 named in the stylesheet"
+      }
+    ],
+    "mobile_h": "Homepage on a phone",
+    "mobile_p": "The phone frame is a screenshot of the same page, captured at phone width. It is not enlarged.",
+    "results_gap": "No load time or before-and-after figure is in a project guide or scope file. Numbers printed on the source page are not repeated here as results.",
+    "details": [
+      {
+        "label": "Review prototype",
+        "title": "Best sellers",
+        "text": "Shop appliance parts online from U-FIX-IT: refrigerator, washer, dryer, range and dishwasher parts. Free diagnosis help, same-day shipping on in-stock parts, 4 Texas stores."
+      }
+    ],
+    "shots": {
+      "desktop": [
+        1440,
+        900
+      ],
+      "phone": [
+        390,
+        844
+      ],
+      "desktop_alt": "Homepage of Appliance Parts Store Texas \u2014 Shop Online",
+      "phone_alt": "Appliance Parts Store Texas \u2014 Shop Online homepage on a phone"
+    },
+    "sources": [
+      {
+        "href": "https://ufixit.clientreview.co/",
+        "text": "Review prototype, fetched 3 Nov 2026"
+      },
+      {
+        "text": "Repo Yavin-Digital/ufixit-prototype was readable. SCOPE.md and PROJECT_GUIDE.md were read."
+      }
+    ],
+    "log": [
+      "Repo Yavin-Digital/ufixit-prototype was readable. SCOPE.md and PROJECT_GUIDE.md were read.",
+      "No project year, measured result, named quote, second phone screen, section crop, full-page scroll, or role credit was in the sources used here.",
+      "The prototype banner says content and images are not final."
+    ],
+    "shortName": "Appliance Parts",
+    "headline": "Shop appliance parts online from U-FIX-IT: refrigerator, washer, dryer, range and dishwasher parts. Free diagnosis help, same-day shipping on in-stock parts, 4 Texas stores.",
+    "logo": {
+      "src": "../../assets/cases/ufixit/logo.png",
+      "alt": "Appliance Parts Store Texas \u2014 Shop Online",
+      "width": 228,
+      "height": 114,
+      "note": "Logo file from the source page."
+    },
+    "logo_plate": "#fffcf7",
+    "logo_ink": "#131419",
+    "note": "The prototype banner says content and images are not final."
+  },
+  {
+    "slug": "valorem",
+    "number": "28",
+    "client": "Social casino and webinars",
+    "title": "Social casino and webinars \u2014 Case Study | The Tribe Maker",
+    "description": "Case study for Social casino and webinars. Copy is from the review prototype read on 3 Nov 2026.",
+    "category": "review prototype",
+    "kicker": "Social casino and webinars \u00b7 valorem.clientreview.co",
+    "h1": "Fine metal. A numbered seat.",
+    "lede": "Social casino games and live webinars. Play with Valorem. Reserve a numbered seat with Ips.",
+    "industry": "Review prototype",
+    "scope": "Review prototype",
+    "year_gap": "No project year is written in a project guide or scope file this account could read.",
+    "url": "https://valorem.clientreview.co/",
+    "host": "valorem.clientreview.co",
+    "brief": "#1A1203",
+    "brief_ink": "#faf6ee",
+    "brief_kicker": "#ffaf00",
+    "band": "#D9B75F",
+    "band_ink": "#131419",
+    "brief_h": "Two coins, then the seat you came for.",
+    "brief_p": "Social casino and webinars \u00b7 Valorem Social casino games \u00b7 Live webinars Fine metal.",
+    "identity": "Swatches are named tokens from the stylesheet.",
+    "colors": [
+      {
+        "role": "accent",
+        "token": "--accent",
+        "hex": "#D9B75F",
+        "fg": "#131419",
+        "line": false
+      },
+      {
+        "role": "gold-hi",
+        "token": "--gold-hi",
+        "hex": "#F3DC94",
+        "fg": "#131419",
+        "line": true
+      },
+      {
+        "role": "gold-lo",
+        "token": "--gold-lo",
+        "hex": "#C9A145",
+        "fg": "#faf6ee",
+        "line": false
+      },
+      {
+        "role": "gold-ink",
+        "token": "--gold-ink",
+        "hex": "#1A1203",
+        "fg": "#faf6ee",
+        "line": false
+      }
+    ],
+    "fonts_href": "https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,500;0,9..144,560&family=Sora:wght@400;500;600&family=Cormorant+Garamond:wght@500;600&family=Jost:wght@400;500;600&display=swap",
+    "fonts": [
+      {
+        "css": "\"Cormorant Garamond\", serif",
+        "note": "Cormorant Garamond \u00b7 named in the stylesheet"
+      },
+      {
+        "css": "\"Jost\", sans-serif",
+        "note": "Jost \u00b7 named in the stylesheet"
+      }
+    ],
+    "mobile_h": "Homepage on a phone",
+    "mobile_p": "The phone frame is a screenshot of the same page, captured at phone width. It is not enlarged.",
+    "results_gap": "No load time or before-and-after figure is in a project guide or scope file. Numbers printed on the source page are not repeated here as results.",
+    "details": [
+      {
+        "label": "Review prototype",
+        "title": "Two coins, then the seat you came for.",
+        "text": "Social casino and webinars \u00b7 Valorem Social casino games \u00b7 Live webinars Fine metal."
+      },
+      {
+        "label": "Review prototype",
+        "title": "On the page",
+        "text": "Play games See webinars Recent winners Sample data How a visit works Two coins, then the seat you came for."
+      },
+      {
+        "label": "Review prototype",
+        "title": "On the page",
+        "text": "2 Reserve with Ips Ips are for numbered webinar seats and for marking a shop total down."
+      }
+    ],
+    "shots": {
+      "desktop": [
+        1440,
+        900
+      ],
+      "phone": [
+        390,
+        844
+      ],
+      "desktop_alt": "Homepage of Social casino and webinars",
+      "phone_alt": "Social casino and webinars homepage on a phone"
+    },
+    "sources": [
+      {
+        "href": "https://valorem.clientreview.co/",
+        "text": "Review prototype, fetched 3 Nov 2026"
+      },
+      {
+        "text": "Repo Yavin-Digital/valorem-prototype was readable. SCOPE.md and PROJECT_GUIDE.md were read."
+      }
+    ],
+    "log": [
+      "Repo Yavin-Digital/valorem-prototype was readable. SCOPE.md and PROJECT_GUIDE.md were read.",
+      "No project year, measured result, named quote, second phone screen, section crop, full-page scroll, or role credit was in the sources used here.",
+      "No logo file was saved from the page.",
+      "The prototype README calls Valorem a sample operator on The Rez. Coin names in the repo are Valorem and Ips."
+    ],
+    "shortName": "Social casino",
+    "headline": "Social casino games and live webinars. Play with Valorem. Reserve a numbered seat with Ips.",
+    "note": "The prototype README calls Valorem a sample operator on The Rez. Coin names in the repo are Valorem and Ips."
+  },
+  {
+    "slug": "autobuilders",
+    "number": "29",
+    "client": "AutoBuilders General Contracting Services",
+    "title": "AutoBuilders General Contracting Services \u2014 Case Study | The Tribe Maker",
+    "description": "Case study for AutoBuilders General Contracting Services. Copy is from the live site read on 3 Nov 2026.",
+    "category": "live site",
+    "kicker": "AutoBuilders General Contracting Services \u00b7 autobuilders.com",
+    "h1": "AutoBuilders General Contracting Services",
+    "lede": "AutoBuilders is the nation\u2019s specialist in constructing and renovating automotive dealerships and facilities. Through regional offices in Florida, California, New York and Texas, AutoBuilders serves dealers nationwide.",
+    "industry": "Live site",
+    "scope": "Live site",
+    "year_gap": "No project year is written in a project guide or scope file this account could read.",
+    "url": "https://autobuilders.com/",
+    "host": "autobuilders.com",
+    "brief": "#0729aa",
+    "brief_ink": "#faf6ee",
+    "brief_kicker": "#ffaf00",
+    "band": "#ffaf00",
+    "band_ink": "#131419",
+    "brief_h": "AutoBuilders General Contracting Services",
+    "brief_p": "AutoBuilders General Contracting Services Home Projects Gallery West Broward Porsche United BMW Clients Your Team Testimonials Subcontractors Careers Contact 800.378.5946 Menu 800.378.5946 Gallery     Contact For nearly 30 years, AutoBuilders is the nation\u2019s specialist in constructing and renovating automotive dealerships and facilities.",
+    "identity": "A written identity story and named color tokens were not in the sources read for this page.",
+    "colors": [],
+    "fonts_href": "https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,500;0,9..144,560&family=Sora:wght@400;500;600&display=swap",
+    "fonts": [],
+    "mobile_h": "Homepage on a phone",
+    "mobile_p": "The phone frame is a screenshot of the same page, captured at phone width. It is not enlarged.",
+    "results_gap": "No load time or before-and-after figure is in a project guide or scope file. Numbers printed on the source page are not repeated here as results.",
+    "details": [
+      {
+        "label": "Live site",
+        "title": "AutoBuilders General Contracting Services",
+        "text": "AutoBuilders General Contracting Services Home Projects Gallery West Broward Porsche United BMW Clients Your Team Testimonials Subcontractors Careers Contact 800.378.5946 Menu 800.378.5946 Gallery     Contact For nearly 30 years, AutoBuilders is the nation\u2019s specialist in constructing and renovating automotive dealerships and facilities."
+      },
+      {
+        "label": "Live site",
+        "title": "On the page",
+        "text": "Through regional offices in Florida, California, New York and Texas, AutoBuilders serves dealers nationwide."
+      },
+      {
+        "label": "Live site",
+        "title": "On the page",
+        "text": "&#8220;We expected nothing but the best from your company and, once again, that is what you have delivered.&#8221; Roger S."
+      }
+    ],
+    "shots": {
+      "desktop": [
+        1440,
+        900
+      ],
+      "phone": [
+        390,
+        844
+      ],
+      "desktop_alt": "Homepage of AutoBuilders General Contracting Services",
+      "phone_alt": "AutoBuilders General Contracting Services homepage on a phone"
+    },
+    "sources": [
+      {
+        "href": "https://autobuilders.com/",
+        "text": "Live site, fetched 3 Nov 2026"
+      },
+      {
+        "text": "Yavin-Digital/autobuilders-prototype was not readable from this account (HTTP 404), so PROJECT_GUIDE.md and SCOPE.md were not read."
+      }
+    ],
+    "log": [
+      "Yavin-Digital/autobuilders-prototype was not readable from this account (HTTP 404), so PROJECT_GUIDE.md and SCOPE.md were not read.",
+      "No project year, measured result, named quote, second phone screen, section crop, full-page scroll, or role credit was in the sources used here.",
+      "No named color tokens were found in the stylesheet.",
+      "No logo file was saved from the page.",
+      "The review host and the prototype repo were not reachable. This page uses the live site on the matching domain."
+    ],
+    "shortName": "AutoBuilders General",
+    "headline": "AutoBuilders is the nation\u2019s specialist in constructing and renovating automotive dealerships and facilities. Through regional offices in Florida, California, New York and Texas, AutoBuilders serves dealers nationwide.",
+    "note": "The review host and the prototype repo were not reachable. This page uses the live site on the matching domain."
+  },
+  {
+    "slug": "harvestdirectory",
+    "number": "30",
+    "client": "Harvest Business Directory - Argyle & Northlake Texas",
+    "title": "Harvest Business Directory - Argyle & Northlake Texas \u2014 Case Study | The Tribe Maker",
+    "description": "Case study for Harvest Business Directory - Argyle & Northlake Texas. Copy is from the live site read on 3 Nov 2026.",
+    "category": "doorstep local",
+    "kicker": "Harvest Business Directory - Argyle & Northlake Texas \u00b7 harvestdirectory.com",
+    "h1": "Need something in Harvest ? Start here.",
+    "lede": "Harvest Directory is your local hub for trusted businesses, important contacts, neighborhood updates, events, offers, and resources serving our community.",
+    "industry": "Doorstep Local",
+    "scope": "Live site",
+    "year_gap": "No project year is written in a project guide or scope file this account could read.",
+    "url": "https://harvestdirectory.com/",
+    "host": "harvestdirectory.com",
+    "brief": "#0729aa",
+    "brief_ink": "#faf6ee",
+    "brief_kicker": "#ffaf00",
+    "band": "#ffaf00",
+    "band_ink": "#131419",
+    "brief_h": "What do you need right now?",
+    "brief_p": "Harvest Directory is your local hub for trusted businesses, important contacts, neighborhood updates, events, offers, and resources serving our community.",
+    "identity": "A written identity story and named color tokens were not in the sources read for this page.",
+    "colors": [],
+    "fonts_href": "https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,500;0,9..144,560&family=Sora:wght@400;500;600&display=swap",
+    "fonts": [],
+    "mobile_h": "Homepage on a phone",
+    "mobile_p": "The phone frame is a screenshot of the same page, captured at phone width. It is not enlarged.",
+    "results_gap": "No load time or before-and-after figure is in a project guide or scope file. Numbers printed on the source page are not repeated here as results.",
+    "details": [
+      {
+        "label": "Live site",
+        "title": "What do you need right now?",
+        "text": "Harvest Directory is your local hub for trusted businesses, important contacts, neighborhood updates, events, offers, and resources serving our community."
+      }
+    ],
+    "shots": {
+      "desktop": [
+        1440,
+        900
+      ],
+      "phone": [
+        390,
+        844
+      ],
+      "desktop_alt": "Homepage of Harvest Business Directory - Argyle & Northlake Texas",
+      "phone_alt": "Harvest Business Directory - Argyle & Northlake Texas homepage on a phone"
+    },
+    "sources": [
+      {
+        "href": "https://harvestdirectory.com/",
+        "text": "Live site, fetched 3 Nov 2026"
+      },
+      {
+        "text": "Repo Yavin-Digital/harvestdirectory-prototype was readable. The repo has a README only."
+      }
+    ],
+    "log": [
+      "Repo Yavin-Digital/harvestdirectory-prototype was readable. The repo has a README only.",
+      "No project year, measured result, named quote, second phone screen, section crop, full-page scroll, or role credit was in the sources used here.",
+      "No named color tokens were found in the stylesheet.",
+      "No logo file was saved from the page.",
+      "The review host and the prototype repo were not reachable. This page uses the live site on the matching domain.",
+      "Yavin-Digital/harvestdirectory-prototype contains only a one-line README. The review host did not answer. Copy is from harvestdirectory.com."
+    ],
+    "shortName": "Harvest Business",
+    "headline": "Harvest Directory is your local hub for trusted businesses, important contacts, neighborhood updates, events, offers, and resources serving our community.",
+    "note": "The review host and the prototype repo were not reachable. This page uses the live site on the matching domain. Yavin-Digital/harvestdirectory-prototype contains only a one-line README. The review host did not answer. Copy is from harvestdirectory.com."
+  },
+  {
+    "slug": "texasreconditioning",
+    "number": "31",
+    "client": "Texas Reconditioning",
+    "title": "Texas Reconditioning \u2014 Case Study | The Tribe Maker",
+    "description": "Case study for Texas Reconditioning. Copy is from the review prototype read on 3 Nov 2026.",
+    "category": "paint restoration & interior reconditioning dfw",
+    "kicker": "Texas Reconditioning \u00b7 texasreconditioning.clientreview.co",
+    "h1": "Flush again.",
+    "lede": "White glove paint restoration and interior reconditioning for dealership pre-owned inventory across DFW. On your lot, on your schedule. (817) 947-5747",
+    "industry": "Paint Restoration & Interior Reconditioning DFW",
+    "scope": "Review prototype",
+    "year_gap": "No project year is written in a project guide or scope file this account could read.",
+    "url": "https://texasreconditioning.clientreview.co/",
+    "host": "texasreconditioning.clientreview.co",
+    "brief": "#201E1D",
+    "brief_ink": "#faf6ee",
+    "brief_kicker": "#ffaf00",
+    "band": "#F3F2F2",
+    "band_ink": "#131419",
+    "brief_h": "Paint. Interior. Lot-Ready.",
+    "brief_p": "White glove paint restoration and interior reconditioning for dealership pre-owned inventory across DFW. On your lot, on your schedule. (817) 947-5747",
+    "identity": "Swatches are named tokens from the stylesheet.",
+    "colors": [
+      {
+        "role": "ink",
+        "token": "--ink",
+        "hex": "#201E1D",
+        "fg": "#faf6ee",
+        "line": false
+      },
+      {
+        "role": "paper",
+        "token": "--paper",
+        "hex": "#F3F2F2",
+        "fg": "#131419",
+        "line": true
+      }
+    ],
+    "fonts_href": "https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,500;0,9..144,560&family=Sora:wght@400;500;600&display=swap",
+    "fonts": [],
+    "mobile_h": "Homepage on a phone",
+    "mobile_p": "The phone frame is a screenshot of the same page, captured at phone width. It is not enlarged.",
+    "results_gap": "No load time or before-and-after figure is in a project guide or scope file. Numbers printed on the source page are not repeated here as results.",
+    "details": [
+      {
+        "label": "Review prototype",
+        "title": "Paint. Interior. Lot-Ready.",
+        "text": "White glove paint restoration and interior reconditioning for dealership pre-owned inventory across DFW. On your lot, on your schedule. (817) 947-5747"
+      }
+    ],
+    "shots": {
+      "desktop": [
+        1440,
+        900
+      ],
+      "phone": [
+        390,
+        844
+      ],
+      "desktop_alt": "Homepage of Texas Reconditioning",
+      "phone_alt": "Texas Reconditioning homepage on a phone"
+    },
+    "sources": [
+      {
+        "href": "https://texasreconditioning.clientreview.co/",
+        "text": "Review prototype, fetched 3 Nov 2026"
+      },
+      {
+        "text": "Yavin-Digital/texasreconditioning-prototype was not readable from this account (HTTP 404), so PROJECT_GUIDE.md and SCOPE.md were not read."
+      }
+    ],
+    "log": [
+      "Yavin-Digital/texasreconditioning-prototype was not readable from this account (HTTP 404), so PROJECT_GUIDE.md and SCOPE.md were not read.",
+      "No project year, measured result, named quote, second phone screen, section crop, full-page scroll, or role credit was in the sources used here."
+    ],
+    "shortName": "Texas Reconditioning",
+    "headline": "White glove paint restoration and interior reconditioning for dealership pre-owned inventory across DFW. On your lot, on your schedule. (817) 947-5747",
+    "logo": {
+      "src": "../../assets/cases/texasreconditioning/logo.svg",
+      "alt": "Texas Reconditioning",
+      "width": 952,
+      "height": 139,
+      "note": "Logo file from the source page. Shown smaller than the file."
+    },
+    "logo_plate": "#fffcf7",
+    "logo_ink": "#131419"
+  },
+  {
+    "slug": "meetthebishop",
+    "number": "32",
+    "client": "Bishop Dr. Jeffrey W. Larson, Founder of Start Again Ministries",
+    "title": "Bishop Dr. Jeffrey W. Larson, Founder of Start Again Ministries \u2014 Case Study | The Tribe Maker",
+    "description": "Case study for Bishop Dr. Jeffrey W. Larson, Founder of Start Again Ministries. Copy is from the review prototype read on 3 Nov 2026.",
+    "category": "review prototype",
+    "kicker": "Bishop Dr. Jeffrey W. Larson, Founder of Start Again Ministries \u00b7 meetthebishop.clientreview.co",
+    "h1": "Bishop Dr. Jeffrey W. Larson",
+    "lede": "Bishop Dr. Jeffrey W. Larson is the founder and chairman of Start Again Ministries in the Fort Worth area. Invite him to speak, preach, or appear.",
+    "industry": "Review prototype",
+    "scope": "Review prototype",
+    "year_gap": "No project year is written in a project guide or scope file this account could read.",
+    "url": "https://meetthebishop.clientreview.co/",
+    "host": "meetthebishop.clientreview.co",
+    "brief": "#A6864E",
+    "brief_ink": "#faf6ee",
+    "brief_kicker": "#ffaf00",
+    "band": "#C4A574",
+    "band_ink": "#faf6ee",
+    "brief_h": "Founder, chairman, and a bishop who still preaches",
+    "brief_p": "Bishop Dr. Jeffrey W. Larson is the founder and chairman of Start Again Ministries in the Fort Worth area. Invite him to speak, preach, or appear.",
+    "identity": "Swatches are named tokens from the stylesheet.",
+    "colors": [
+      {
+        "role": "gold",
+        "token": "--gold",
+        "hex": "#C4A574",
+        "fg": "#faf6ee",
+        "line": false
+      },
+      {
+        "role": "gold-deep",
+        "token": "--gold-deep",
+        "hex": "#A6864E",
+        "fg": "#faf6ee",
+        "line": false
+      },
+      {
+        "role": "gold-text",
+        "token": "--gold-text",
+        "hex": "#7A5F2E",
+        "fg": "#faf6ee",
+        "line": false
+      },
+      {
+        "role": "ink",
+        "token": "--ink",
+        "hex": "#1C2128",
+        "fg": "#faf6ee",
+        "line": false
+      },
+      {
+        "role": "paper",
+        "token": "--paper",
+        "hex": "#F6F3F8",
+        "fg": "#131419",
+        "line": true
+      }
+    ],
+    "fonts_href": "https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,500;0,9..144,560&family=Sora:wght@400;500;600&display=swap",
+    "fonts": [],
+    "mobile_h": "Homepage on a phone",
+    "mobile_p": "The phone frame is a screenshot of the same page, captured at phone width. It is not enlarged.",
+    "results_gap": "No load time or before-and-after figure is in a project guide or scope file. Numbers printed on the source page are not repeated here as results.",
+    "details": [
+      {
+        "label": "Review prototype",
+        "title": "Founder, chairman, and a bishop who still preaches",
+        "text": "Bishop Dr. Jeffrey W. Larson is the founder and chairman of Start Again Ministries in the Fort Worth area. Invite him to speak, preach, or appear."
+      }
+    ],
+    "shots": {
+      "desktop": [
+        1440,
+        900
+      ],
+      "phone": [
+        390,
+        844
+      ],
+      "desktop_alt": "Homepage of Bishop Dr. Jeffrey W. Larson, Founder of Start Again Ministries",
+      "phone_alt": "Bishop Dr. Jeffrey W. Larson, Founder of Start Again Ministries homepage on a phone"
+    },
+    "sources": [
+      {
+        "href": "https://meetthebishop.clientreview.co/",
+        "text": "Review prototype, fetched 3 Nov 2026"
+      },
+      {
+        "text": "Yavin-Digital/meetthebishop-prototype was not readable from this account (HTTP 404), so PROJECT_GUIDE.md and SCOPE.md were not read."
+      }
+    ],
+    "log": [
+      "Yavin-Digital/meetthebishop-prototype was not readable from this account (HTTP 404), so PROJECT_GUIDE.md and SCOPE.md were not read.",
+      "No project year, measured result, named quote, second phone screen, section crop, full-page scroll, or role credit was in the sources used here.",
+      "No logo file was saved from the page.",
+      "The prototype banner says content and images are not final."
+    ],
+    "shortName": "Bishop Dr.",
+    "headline": "Bishop Dr. Jeffrey W. Larson is the founder and chairman of Start Again Ministries in the Fort Worth area. Invite him to speak, preach, or appear.",
+    "note": "The prototype banner says content and images are not final."
+  },
+  {
+    "slug": "startagainministries",
+    "number": "33",
+    "client": "Start Again Ministries",
+    "title": "Start Again Ministries \u2014 Case Study | The Tribe Maker",
+    "description": "Case study for Start Again Ministries. Copy is from the review prototype read on 3 Nov 2026.",
+    "category": "helping people start again from fort worth",
+    "kicker": "Start Again Ministries \u00b7 startagainministries.clientreview.co",
+    "h1": "Helping people start again",
+    "lede": "Start Again Ministries helps people start again \u2014 with the gospel and with food \u2014 from Fort Worth. Founded 1994.",
+    "industry": "Helping people start again from Fort Worth",
+    "scope": "Review prototype",
+    "year_gap": "No project year is written in a project guide or scope file this account could read.",
+    "url": "https://startagainministries.clientreview.co/",
+    "host": "startagainministries.clientreview.co",
+    "brief": "#A6864E",
+    "brief_ink": "#faf6ee",
+    "brief_kicker": "#ffaf00",
+    "band": "#C4A574",
+    "band_ink": "#faf6ee",
+    "brief_h": "Where the ministry works",
+    "brief_p": "Start Again Ministries | Helping people start again from Fort Worth Start Again Ministries \u00b7 Fort Worth Helping people start again Start Again is a return to God.",
+    "identity": "Swatches are named tokens from the stylesheet.",
+    "colors": [
+      {
+        "role": "gold-deep",
+        "token": "--gold-deep",
+        "hex": "#A6864E",
+        "fg": "#faf6ee",
+        "line": false
+      },
+      {
+        "role": "ink",
+        "token": "--ink",
+        "hex": "#1C2128",
+        "fg": "#faf6ee",
+        "line": false
+      },
+      {
+        "role": "paper",
+        "token": "--paper",
+        "hex": "#F6F3F8",
+        "fg": "#131419",
+        "line": true
+      },
+      {
+        "role": "gold",
+        "token": "--gold",
+        "hex": "#C4A574",
+        "fg": "#faf6ee",
+        "line": false
+      },
+      {
+        "role": "gold-lite",
+        "token": "--gold-lite",
+        "hex": "#D4C4A8",
+        "fg": "#131419",
+        "line": false
+      }
+    ],
+    "fonts_href": "https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,500;0,9..144,560&family=Sora:wght@400;500;600&family=Montserrat:wght@400;600;700&display=swap",
+    "fonts": [
+      {
+        "css": "\"Montserrat\", sans-serif",
+        "note": "Montserrat \u00b7 named in the stylesheet"
+      }
+    ],
+    "mobile_h": "Homepage on a phone",
+    "mobile_p": "The phone frame is a screenshot of the same page, captured at phone width. It is not enlarged.",
+    "results_gap": "No load time or before-and-after figure is in a project guide or scope file. Numbers printed on the source page are not repeated here as results.",
+    "details": [
+      {
+        "label": "Review prototype",
+        "title": "Where the ministry works",
+        "text": "Start Again Ministries | Helping people start again from Fort Worth Start Again Ministries \u00b7 Fort Worth Helping people start again Start Again is a return to God."
+      },
+      {
+        "label": "Review prototype",
+        "title": "On the page",
+        "text": "We are believing for a Billion souls saved and in loving relationship with Jesus."
+      },
+      {
+        "label": "Review prototype",
+        "title": "On the page",
+        "text": "Get help Give Partner Six countries Where the ministry works Venezuela, Nicaragua, Uganda, Myanmar, The Hope Center America, and India."
+      }
+    ],
+    "shots": {
+      "desktop": [
+        1440,
+        900
+      ],
+      "phone": [
+        390,
+        844
+      ],
+      "desktop_alt": "Homepage of Start Again Ministries",
+      "phone_alt": "Start Again Ministries homepage on a phone"
+    },
+    "sources": [
+      {
+        "href": "https://startagainministries.clientreview.co/",
+        "text": "Review prototype, fetched 3 Nov 2026"
+      },
+      {
+        "text": "Yavin-Digital/startagainministries-prototype was not readable from this account (HTTP 404), so PROJECT_GUIDE.md and SCOPE.md were not read."
+      }
+    ],
+    "log": [
+      "Yavin-Digital/startagainministries-prototype was not readable from this account (HTTP 404), so PROJECT_GUIDE.md and SCOPE.md were not read.",
+      "No project year, measured result, named quote, second phone screen, section crop, full-page scroll, or role credit was in the sources used here.",
+      "No logo file was saved from the page."
+    ],
+    "shortName": "Start Again",
+    "headline": "Start Again Ministries helps people start again \u2014 with the gospel and with food \u2014 from Fort Worth. Founded 1994."
+  },
+  {
+    "slug": "dentongopgrassroots",
+    "number": "34",
+    "client": "Denton GOP Grassroots",
+    "title": "Denton GOP Grassroots \u2014 Case Study | The Tribe Maker",
+    "description": "Case study for Denton GOP Grassroots. Copy is from the review prototype read on 3 Nov 2026.",
+    "category": "republican principles. clear convictions.",
+    "kicker": "Denton GOP Grassroots \u00b7 dentongopgrassroots.clientreview.co",
+    "h1": "Freedom. Conservative Values. The American Dream.",
+    "lede": "An independent grassroots platform supporting Republican principles and Ken Paxton, with Denton County voting resources for November 3, 2026.",
+    "industry": "Republican Principles. Clear Convictions.",
+    "scope": "Review prototype",
+    "year_gap": "No project year is written in a project guide or scope file this account could read.",
+    "url": "https://dentongopgrassroots.clientreview.co/",
+    "host": "dentongopgrassroots.clientreview.co",
+    "brief": "#0B2545",
+    "brief_ink": "#faf6ee",
+    "brief_kicker": "#ffaf00",
+    "band": "#13315C",
+    "band_ink": "#faf6ee",
+    "brief_h": "Key dates",
+    "brief_p": "An independent grassroots platform supporting Republican principles and Ken Paxton, with Denton County voting resources for November 3, 2026.",
+    "identity": "Swatches are named tokens from the stylesheet.",
+    "colors": [
+      {
+        "role": "navy",
+        "token": "--navy",
+        "hex": "#0B2545",
+        "fg": "#faf6ee",
+        "line": false
+      },
+      {
+        "role": "navy-2",
+        "token": "--navy-2",
+        "hex": "#13315C",
+        "fg": "#faf6ee",
+        "line": false
+      },
+      {
+        "role": "paper",
+        "token": "--paper",
+        "hex": "#FFFFFF",
+        "fg": "#131419",
+        "line": true
+      },
+      {
+        "role": "ink",
+        "token": "--ink",
+        "hex": "#1B1F24",
+        "fg": "#faf6ee",
+        "line": false
+      },
+      {
+        "role": "ink",
+        "token": "--ink",
+        "hex": "#081A33",
+        "fg": "#faf6ee",
+        "line": false
+      },
+      {
+        "role": "navy-2",
+        "token": "--navy-2",
+        "hex": "#16345F",
+        "fg": "#faf6ee",
+        "line": false
+      }
+    ],
+    "fonts_href": "https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,500;0,9..144,560&family=Sora:wght@400;500;600&family=Public+Sans:wght@400;600&display=swap",
+    "fonts": [
+      {
+        "css": "\"Public Sans\", sans-serif",
+        "note": "Public Sans \u00b7 named in the stylesheet"
+      }
+    ],
+    "mobile_h": "Homepage on a phone",
+    "mobile_p": "The phone frame is a screenshot of the same page, captured at phone width. It is not enlarged.",
+    "results_gap": "No load time or before-and-after figure is in a project guide or scope file. Numbers printed on the source page are not repeated here as results.",
+    "details": [
+      {
+        "label": "Review prototype",
+        "title": "Key dates",
+        "text": "An independent grassroots platform supporting Republican principles and Ken Paxton, with Denton County voting resources for November 3, 2026."
+      }
+    ],
+    "shots": {
+      "desktop": [
+        1440,
+        900
+      ],
+      "phone": [
+        390,
+        844
+      ],
+      "desktop_alt": "Homepage of Denton GOP Grassroots",
+      "phone_alt": "Denton GOP Grassroots homepage on a phone"
+    },
+    "sources": [
+      {
+        "href": "https://dentongopgrassroots.clientreview.co/",
+        "text": "Review prototype, fetched 3 Nov 2026"
+      },
+      {
+        "text": "Yavin-Digital/dentongopgrassroots-prototype was not readable from this account (HTTP 404), so PROJECT_GUIDE.md and SCOPE.md were not read."
+      }
+    ],
+    "log": [
+      "Yavin-Digital/dentongopgrassroots-prototype was not readable from this account (HTTP 404), so PROJECT_GUIDE.md and SCOPE.md were not read.",
+      "No project year, measured result, named quote, second phone screen, section crop, full-page scroll, or role credit was in the sources used here.",
+      "No logo file was saved from the page."
+    ],
+    "shortName": "Denton GOP",
+    "headline": "An independent grassroots platform supporting Republican principles and Ken Paxton, with Denton County voting resources for November 3, 2026."
+  },
+  {
+    "slug": "freeformchiropractic",
+    "number": "35",
+    "client": "FreeForm Chiropractic",
+    "title": "FreeForm Chiropractic \u2014 Case Study | The Tribe Maker",
+    "description": "Case study for FreeForm Chiropractic. Copy is from the review prototype read on 3 Nov 2026.",
+    "category": "corrective chiropractic & lifestyle care in texas",
+    "kicker": "FreeForm Chiropractic \u00b7 freeformchiropractic.clientreview.co",
+    "h1": "Be vital. Live free.",
+    "lede": "At FreeForm Chiropractic, we believe in the innate healing powers your body possesses. Through expert analysis and a series of highly advanced yet...",
+    "industry": "Corrective Chiropractic & Lifestyle Care in Texas",
+    "scope": "Review prototype",
+    "year_gap": "No project year is written in a project guide or scope file this account could read.",
+    "url": "https://freeformchiropractic.clientreview.co/",
+    "host": "freeformchiropractic.clientreview.co",
+    "brief": "#004175",
+    "brief_ink": "#faf6ee",
+    "brief_kicker": "#ffaf00",
+    "band": "#1CBCE8",
+    "band_ink": "#131419",
+    "brief_h": "Find your office",
+    "brief_p": "At FreeForm Chiropractic, we believe in the innate healing powers your body possesses. Through expert analysis and a series of highly advanced yet...",
+    "identity": "Swatches are named tokens from the stylesheet.",
+    "colors": [
+      {
+        "role": "brand",
+        "token": "--brand",
+        "hex": "#004175",
+        "fg": "#faf6ee",
+        "line": false
+      },
+      {
+        "role": "accent",
+        "token": "--accent",
+        "hex": "#1CBCE8",
+        "fg": "#131419",
+        "line": false
+      },
+      {
+        "role": "ink",
+        "token": "--ink",
+        "hex": "#1C1C1C",
+        "fg": "#faf6ee",
+        "line": false
+      },
+      {
+        "role": "paper",
+        "token": "--paper",
+        "hex": "#F9FAFF",
+        "fg": "#131419",
+        "line": true
+      }
+    ],
+    "fonts_href": "https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,500;0,9..144,560&family=Sora:wght@400;500;600&display=swap",
+    "fonts": [],
+    "mobile_h": "Homepage on a phone",
+    "mobile_p": "The phone frame is a screenshot of the same page, captured at phone width. It is not enlarged.",
+    "results_gap": "No load time or before-and-after figure is in a project guide or scope file. Numbers printed on the source page are not repeated here as results.",
+    "details": [
+      {
+        "label": "Review prototype",
+        "title": "Find your office",
+        "text": "At FreeForm Chiropractic, we believe in the innate healing powers your body possesses. Through expert analysis and a series of highly advanced yet..."
+      }
+    ],
+    "shots": {
+      "desktop": [
+        1440,
+        900
+      ],
+      "phone": [
+        390,
+        844
+      ],
+      "desktop_alt": "Homepage of FreeForm Chiropractic",
+      "phone_alt": "FreeForm Chiropractic homepage on a phone"
+    },
+    "sources": [
+      {
+        "href": "https://freeformchiropractic.clientreview.co/",
+        "text": "Review prototype, fetched 3 Nov 2026"
+      },
+      {
+        "text": "Yavin-Digital/freeformchiropractic-prototype was not readable from this account (HTTP 404), so PROJECT_GUIDE.md and SCOPE.md were not read."
+      }
+    ],
+    "log": [
+      "Yavin-Digital/freeformchiropractic-prototype was not readable from this account (HTTP 404), so PROJECT_GUIDE.md and SCOPE.md were not read.",
+      "No project year, measured result, named quote, second phone screen, section crop, full-page scroll, or role credit was in the sources used here.",
+      "The prototype banner says content and images are not final."
+    ],
+    "shortName": "FreeForm Chiropractic",
+    "headline": "At FreeForm Chiropractic, we believe in the innate healing powers your body possesses. Through expert analysis and a series of highly advanced yet...",
+    "logo": {
+      "src": "../../assets/cases/freeformchiropractic/logo.svg",
+      "alt": "FreeForm Chiropractic",
+      "width": 226,
+      "height": 36,
+      "note": "Logo file from the source page."
+    },
+    "logo_plate": "#131419",
+    "logo_ink": "#faf6ee",
+    "note": "The prototype banner says content and images are not final."
+  },
+  {
+    "slug": "alltex",
+    "number": "36",
+    "client": "Plumbing Services in Houston TX",
+    "title": "Plumbing Services in Houston TX \u2014 Case Study | The Tribe Maker",
+    "description": "Case study for Plumbing Services in Houston TX. Copy is from the review prototype read on 3 Nov 2026.",
+    "category": "all-tex plumbing",
+    "kicker": "Plumbing Services in Houston TX \u00b7 alltex.clientreview.co",
+    "h1": "Plumbing Services in Houston , Tx",
+    "lede": "Looking for reliable plumbing services in Houston TX? All-Tex Plumbing offers residential and commercial repairs, installations and 24/7 emergency support.",
+    "industry": "All-Tex Plumbing",
+    "scope": "Review prototype",
+    "year_gap": "No project year is written in a project guide or scope file this account could read.",
+    "url": "https://alltex.clientreview.co/",
+    "host": "alltex.clientreview.co",
+    "brief": "#0729aa",
+    "brief_ink": "#faf6ee",
+    "brief_kicker": "#ffaf00",
+    "band": "#ffaf00",
+    "band_ink": "#131419",
+    "brief_h": "Contact Us",
+    "brief_p": "Plumbing Services in Houston TX | All-Tex Plumbing A Master Plumber Is On Call Right Now!",
+    "identity": "A written identity story and named color tokens were not in the sources read for this page.",
+    "colors": [],
+    "fonts_href": "https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,500;0,9..144,560&family=Sora:wght@400;500;600&family=Bitter:wght@500;700&display=swap",
+    "fonts": [
+      {
+        "css": "\"Bitter\", serif",
+        "note": "Bitter \u00b7 named in the stylesheet"
+      }
+    ],
+    "mobile_h": "Homepage on a phone",
+    "mobile_p": "The phone frame is a screenshot of the same page, captured at phone width. It is not enlarged.",
+    "results_gap": "No load time or before-and-after figure is in a project guide or scope file. Numbers printed on the source page are not repeated here as results.",
+    "details": [
+      {
+        "label": "Review prototype",
+        "title": "Contact Us",
+        "text": "Plumbing Services in Houston TX | All-Tex Plumbing A Master Plumber Is On Call Right Now!"
+      },
+      {
+        "label": "Review prototype",
+        "title": "On the page",
+        "text": "It goes without saying that anything having to do with the sewer is both messy and smelly work."
+      },
+      {
+        "label": "Review prototype",
+        "title": "On the page",
+        "text": "All-Tex Plumbing is on call to help you with any and all of your sewer repair issues."
+      }
+    ],
+    "shots": {
+      "desktop": [
+        1440,
+        900
+      ],
+      "phone": [
+        390,
+        844
+      ],
+      "desktop_alt": "Homepage of Plumbing Services in Houston TX",
+      "phone_alt": "Plumbing Services in Houston TX homepage on a phone"
+    },
+    "sources": [
+      {
+        "href": "https://alltex.clientreview.co/",
+        "text": "Review prototype, fetched 3 Nov 2026"
+      },
+      {
+        "text": "Yavin-Digital/alltex-prototype was not readable from this account (HTTP 404), so PROJECT_GUIDE.md and SCOPE.md were not read."
+      }
+    ],
+    "log": [
+      "Yavin-Digital/alltex-prototype was not readable from this account (HTTP 404), so PROJECT_GUIDE.md and SCOPE.md were not read.",
+      "No project year, measured result, named quote, second phone screen, section crop, full-page scroll, or role credit was in the sources used here.",
+      "No named color tokens were found in the stylesheet.",
+      "No logo file was saved from the page."
+    ],
+    "shortName": "Plumbing Services",
+    "headline": "Looking for reliable plumbing services in Houston TX? All-Tex Plumbing offers residential and commercial repairs, installations and 24/7 emergency support."
+  },
+  {
+    "slug": "thejuicebardallas",
+    "number": "37",
+    "client": "The Juice Bar Dallas",
+    "title": "The Juice Bar Dallas \u2014 Case Study | The Tribe Maker",
+    "description": "Case study for The Juice Bar Dallas. Copy is from the review prototype read on 3 Nov 2026.",
+    "category": "cold-pressed juice, smoothies & bowls",
+    "kicker": "The Juice Bar Dallas \u00b7 thejuicebardallas.clientreview.co",
+    "h1": "Cold-pressed juice, smoothies and bowls. Made fresh daily in Dallas.",
+    "lede": "Cold-pressed juices, smoothies, acai bowls, shots and juice cleanses made fresh daily at 3 Dallas locations: NorthPark, Highland Park Village and Inwood.",
+    "industry": "Cold-Pressed Juice, Smoothies & Bowls",
+    "scope": "Review prototype",
+    "year_gap": "No project year is written in a project guide or scope file this account could read.",
+    "url": "https://thejuicebardallas.clientreview.co/",
+    "host": "thejuicebardallas.clientreview.co",
+    "brief": "#222222",
+    "brief_ink": "#faf6ee",
+    "brief_kicker": "#ffaf00",
+    "band": "#2DB989",
+    "band_ink": "#faf6ee",
+    "brief_h": "Made fresh daily.",
+    "brief_p": "Cold-pressed juices, smoothies, acai bowls, shots and juice cleanses made fresh daily at 3 Dallas locations: NorthPark, Highland Park Village and Inwood.",
+    "identity": "Swatches are named tokens from the stylesheet.",
+    "colors": [
+      {
+        "role": "brand",
+        "token": "--brand",
+        "hex": "#2DB989",
+        "fg": "#faf6ee",
+        "line": false
+      },
+      {
+        "role": "ink",
+        "token": "--ink",
+        "hex": "#222222",
+        "fg": "#faf6ee",
+        "line": false
+      },
+      {
+        "role": "paper",
+        "token": "--paper",
+        "hex": "#FAFAFA",
+        "fg": "#131419",
+        "line": true
+      }
+    ],
+    "fonts_href": "https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,500;0,9..144,560&family=Sora:wght@400;500;600&display=swap",
+    "fonts": [],
+    "mobile_h": "Homepage on a phone",
+    "mobile_p": "The phone frame is a screenshot of the same page, captured at phone width. It is not enlarged.",
+    "results_gap": "No load time or before-and-after figure is in a project guide or scope file. Numbers printed on the source page are not repeated here as results.",
+    "details": [
+      {
+        "label": "Review prototype",
+        "title": "Made fresh daily.",
+        "text": "Cold-pressed juices, smoothies, acai bowls, shots and juice cleanses made fresh daily at 3 Dallas locations: NorthPark, Highland Park Village and Inwood."
+      }
+    ],
+    "shots": {
+      "desktop": [
+        1440,
+        900
+      ],
+      "phone": [
+        390,
+        844
+      ],
+      "desktop_alt": "Homepage of The Juice Bar Dallas",
+      "phone_alt": "The Juice Bar Dallas homepage on a phone"
+    },
+    "sources": [
+      {
+        "href": "https://thejuicebardallas.clientreview.co/",
+        "text": "Review prototype, fetched 3 Nov 2026"
+      },
+      {
+        "text": "Yavin-Digital/thejuicebardallas-prototype was not readable from this account (HTTP 404), so PROJECT_GUIDE.md and SCOPE.md were not read."
+      }
+    ],
+    "log": [
+      "Yavin-Digital/thejuicebardallas-prototype was not readable from this account (HTTP 404), so PROJECT_GUIDE.md and SCOPE.md were not read.",
+      "No project year, measured result, named quote, second phone screen, section crop, full-page scroll, or role credit was in the sources used here.",
+      "The prototype banner says content and images are not final."
+    ],
+    "shortName": "Juice Bar Dallas",
+    "headline": "Cold-pressed juices, smoothies, acai bowls, shots and juice cleanses made fresh daily at 3 Dallas locations: NorthPark, Highland Park Village and Inwood.",
+    "logo": {
+      "src": "../../assets/cases/thejuicebardallas/logo.png",
+      "alt": "The Juice Bar Dallas",
+      "width": 553,
+      "height": 219,
+      "note": "Logo file from the source page. Shown smaller than the file."
+    },
+    "logo_plate": "#fffcf7",
+    "logo_ink": "#131419",
+    "note": "The prototype banner says content and images are not final."
+  },
+  {
+    "slug": "theamericanquiz",
+    "number": "38",
+    "client": "The American Quiz",
+    "title": "The American Quiz \u2014 Case Study | The Tribe Maker",
+    "description": "Case study for The American Quiz. Copy is from the review prototype read on 3 Nov 2026.",
+    "category": "2025 u.s. citizenship test prep",
+    "kicker": "The American Quiz \u00b7 theamericanquiz.clientreview.co",
+    "h1": "Walk into your citizenship interview ready.",
+    "lede": "Study for the 2025 U.S. citizenship test with civics questions, English reading and writing practice, and interview-style questions. Prepare for your naturalization interview with TheAmericanQuiz.com.",
+    "industry": "2025 U.S. Citizenship Test Prep",
+    "scope": "Review prototype",
+    "year_gap": "No project year is written in a project guide or scope file this account could read.",
+    "url": "https://theamericanquiz.clientreview.co/",
+    "host": "theamericanquiz.clientreview.co",
+    "brief": "#0F2027",
+    "brief_ink": "#faf6ee",
+    "brief_kicker": "#ffaf00",
+    "band": "#203A43",
+    "band_ink": "#faf6ee",
+    "brief_h": "Meet Carlos",
+    "brief_p": "Study for the 2025 U.S. citizenship test with civics questions, English reading and writing practice, and interview-style questions. Prepare for your naturalization interview with TheAmericanQuiz.com.",
+    "identity": "Swatches are named tokens from the stylesheet.",
+    "colors": [
+      {
+        "role": "ink",
+        "token": "--ink",
+        "hex": "#0F2027",
+        "fg": "#faf6ee",
+        "line": false
+      },
+      {
+        "role": "ink-mid",
+        "token": "--ink-mid",
+        "hex": "#203A43",
+        "fg": "#faf6ee",
+        "line": false
+      },
+      {
+        "role": "navy",
+        "token": "--navy",
+        "hex": "#193366",
+        "fg": "#faf6ee",
+        "line": false
+      },
+      {
+        "role": "paper",
+        "token": "--paper",
+        "hex": "#FFFFFF",
+        "fg": "#131419",
+        "line": true
+      },
+      {
+        "role": "paper-soft",
+        "token": "--paper-soft",
+        "hex": "#F4F6F7",
+        "fg": "#131419",
+        "line": true
+      }
+    ],
+    "fonts_href": "https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,500;0,9..144,560&family=Sora:wght@400;500;600&display=swap",
+    "fonts": [],
+    "mobile_h": "Homepage on a phone",
+    "mobile_p": "The phone frame is a screenshot of the same page, captured at phone width. It is not enlarged.",
+    "results_gap": "No load time or before-and-after figure is in a project guide or scope file. Numbers printed on the source page are not repeated here as results.",
+    "details": [
+      {
+        "label": "Review prototype",
+        "title": "Meet Carlos",
+        "text": "Study for the 2025 U.S. citizenship test with civics questions, English reading and writing practice, and interview-style questions. Prepare for your naturalization interview with TheAmericanQuiz.com."
+      }
+    ],
+    "shots": {
+      "desktop": [
+        1440,
+        900
+      ],
+      "phone": [
+        390,
+        844
+      ],
+      "desktop_alt": "Homepage of The American Quiz",
+      "phone_alt": "The American Quiz homepage on a phone"
+    },
+    "sources": [
+      {
+        "href": "https://theamericanquiz.clientreview.co/",
+        "text": "Review prototype, fetched 3 Nov 2026"
+      },
+      {
+        "text": "Yavin-Digital/theamericanquiz-prototype was not readable from this account (HTTP 404), so PROJECT_GUIDE.md and SCOPE.md were not read."
+      }
+    ],
+    "log": [
+      "Yavin-Digital/theamericanquiz-prototype was not readable from this account (HTTP 404), so PROJECT_GUIDE.md and SCOPE.md were not read.",
+      "No project year, measured result, named quote, second phone screen, section crop, full-page scroll, or role credit was in the sources used here."
+    ],
+    "shortName": "American Quiz",
+    "headline": "Study for the 2025 U.S. citizenship test with civics questions, English reading and writing practice, and interview-style questions. Prepare for your naturalization interview with TheAmericanQuiz.com.",
+    "logo": {
+      "src": "../../assets/cases/theamericanquiz/logo.png",
+      "alt": "The American Quiz",
+      "width": 1333,
+      "height": 183,
+      "note": "Logo file from the source page. Shown smaller than the file."
+    },
+    "logo_plate": "#fffcf7",
+    "logo_ink": "#131419"
+  },
+  {
+    "slug": "catalystmktgagency",
+    "number": "39",
+    "client": "Catalyst Agency",
+    "title": "Catalyst Agency \u2014 Case Study | The Tribe Maker",
+    "description": "Case study for Catalyst Agency. Copy is from the review prototype read on 3 Nov 2026.",
+    "category": "merch, made meaningful",
+    "kicker": "Catalyst Agency \u00b7 catalystmktgagency.clientreview.co",
+    "h1": "Make something people keep.",
+    "lede": "Catalyst Agency builds branded merchandise, campaign programs, and stores from idea to delivery.",
+    "industry": "Merch, made meaningful",
+    "scope": "Review prototype",
+    "year_gap": "No project year is written in a project guide or scope file this account could read.",
+    "url": "https://catalystmktgagency.clientreview.co/",
+    "host": "catalystmktgagency.clientreview.co",
+    "brief": "#171714",
+    "brief_ink": "#faf6ee",
+    "brief_kicker": "#ffaf00",
+    "band": "#F2F0E9",
+    "band_ink": "#131419",
+    "brief_h": "From first sketch to front door.",
+    "brief_p": "Catalyst Agency \u2014 Merch, made meaningful Prototype for client review \u00b7 SEO/AEO Compare catalyst .",
+    "identity": "Swatches are named tokens from the stylesheet.",
+    "colors": [
+      {
+        "role": "ink",
+        "token": "--ink",
+        "hex": "#171714",
+        "fg": "#faf6ee",
+        "line": false
+      },
+      {
+        "role": "paper",
+        "token": "--paper",
+        "hex": "#F2F0E9",
+        "fg": "#131419",
+        "line": true
+      }
+    ],
+    "fonts_href": "https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,500;0,9..144,560&family=Sora:wght@400;500;600&display=swap",
+    "fonts": [],
+    "mobile_h": "Homepage on a phone",
+    "mobile_p": "The phone frame is a screenshot of the same page, captured at phone width. It is not enlarged.",
+    "results_gap": "No load time or before-and-after figure is in a project guide or scope file. Numbers printed on the source page are not repeated here as results.",
+    "details": [
+      {
+        "label": "Review prototype",
+        "title": "From first sketch to front door.",
+        "text": "Catalyst Agency \u2014 Merch, made meaningful Prototype for client review \u00b7 SEO/AEO Compare catalyst ."
+      },
+      {
+        "label": "Review prototype",
+        "title": "On the page",
+        "text": "Work Capabilities Approach About Start a project \u2197 Independent brand + merchandise agency Make something people keep."
+      },
+      {
+        "label": "Review prototype",
+        "title": "On the page",
+        "text": "Strategy, design, sourcing, and fulfillment for branded products that earn a place in the real world."
+      }
+    ],
+    "shots": {
+      "desktop": [
+        1440,
+        900
+      ],
+      "phone": [
+        390,
+        844
+      ],
+      "desktop_alt": "Homepage of Catalyst Agency",
+      "phone_alt": "Catalyst Agency homepage on a phone"
+    },
+    "sources": [
+      {
+        "href": "https://catalystmktgagency.clientreview.co/",
+        "text": "Review prototype, fetched 3 Nov 2026"
+      },
+      {
+        "text": "Yavin-Digital/catalystmktgagency-prototype was not readable from this account (HTTP 404), so PROJECT_GUIDE.md and SCOPE.md were not read."
+      }
+    ],
+    "log": [
+      "Yavin-Digital/catalystmktgagency-prototype was not readable from this account (HTTP 404), so PROJECT_GUIDE.md and SCOPE.md were not read.",
+      "No project year, measured result, named quote, second phone screen, section crop, full-page scroll, or role credit was in the sources used here.",
+      "No logo file was saved from the page."
+    ],
+    "shortName": "Catalyst Agency",
+    "headline": "Catalyst Agency builds branded merchandise, campaign programs, and stores from idea to delivery."
+  },
+  {
+    "slug": "radiant-nutrition",
+    "number": "40",
+    "client": "Radiant Nutrition",
+    "title": "Radiant Nutrition \u2014 Case Study | The Tribe Maker",
+    "description": "Case study for Radiant Nutrition. Copy is from the review prototype read on 3 Nov 2026.",
+    "category": "personalized dietitian services in argyle, tx",
+    "kicker": "Radiant Nutrition \u00b7 radiantnutrition.clientreview.co",
+    "h1": "Nutrition That Fits Your Life.",
+    "lede": "Get personalized dietitian services in Argyle, TX from Radiant Nutrition. Insurance accepted, telehealth available\u2014schedule now!",
+    "industry": "Personalized Dietitian Services in Argyle, TX",
+    "scope": "Review prototype",
+    "year_gap": "No project year is written in a project guide or scope file this account could read.",
+    "url": "https://radiantnutrition.clientreview.co/",
+    "host": "radiantnutrition.clientreview.co",
+    "brief": "#AF8A3B",
+    "brief_ink": "#faf6ee",
+    "brief_kicker": "#ffaf00",
+    "band": "#C8A557",
+    "band_ink": "#faf6ee",
+    "brief_h": "Going Beyond the Basics of Healthy Eating",
+    "brief_p": "Get personalized dietitian services in Argyle, TX from Radiant Nutrition. Insurance accepted, telehealth available\u2014schedule now!",
+    "identity": "Swatches are named tokens from the stylesheet.",
+    "colors": [
+      {
+        "role": "gold",
+        "token": "--gold",
+        "hex": "#AF8A3B",
+        "fg": "#faf6ee",
+        "line": false
+      },
+      {
+        "role": "gold-light",
+        "token": "--gold-light",
+        "hex": "#C8A557",
+        "fg": "#faf6ee",
+        "line": false
+      }
+    ],
+    "fonts_href": "https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,500;0,9..144,560&family=Sora:wght@400;500;600&display=swap",
+    "fonts": [],
+    "mobile_h": "Homepage on a phone",
+    "mobile_p": "The phone frame is a screenshot of the same page, captured at phone width. It is not enlarged.",
+    "results_gap": "No load time or before-and-after figure is in a project guide or scope file. Numbers printed on the source page are not repeated here as results.",
+    "details": [
+      {
+        "label": "Review prototype",
+        "title": "Going Beyond the Basics of Healthy Eating",
+        "text": "Get personalized dietitian services in Argyle, TX from Radiant Nutrition. Insurance accepted, telehealth available\u2014schedule now!"
+      }
+    ],
+    "shots": {
+      "desktop": [
+        1440,
+        900
+      ],
+      "phone": [
+        390,
+        844
+      ],
+      "desktop_alt": "Homepage of Radiant Nutrition",
+      "phone_alt": "Radiant Nutrition homepage on a phone"
+    },
+    "sources": [
+      {
+        "href": "https://radiantnutrition.clientreview.co/",
+        "text": "Review prototype, fetched 3 Nov 2026"
+      },
+      {
+        "text": "Repo Yavin-Digital/radiant-nutrition-prototype was readable. SCOPE.md and PROJECT_GUIDE.md were read."
+      }
+    ],
+    "log": [
+      "Repo Yavin-Digital/radiant-nutrition-prototype was readable. SCOPE.md and PROJECT_GUIDE.md were read.",
+      "No project year, measured result, named quote, second phone screen, section crop, full-page scroll, or role credit was in the sources used here.",
+      "SCOPE.md names the production domain radiantnutrition.com. The review host that answered is radiantnutrition.clientreview.co."
+    ],
+    "shortName": "Radiant Nutrition",
+    "headline": "Get personalized dietitian services in Argyle, TX from Radiant Nutrition. Insurance accepted, telehealth available\u2014schedule now!",
+    "note": "SCOPE.md names the production domain radiantnutrition.com. The review host that answered is radiantnutrition.clientreview.co.",
+    "logo": {
+      "src": "../../assets/cases/radiant-nutrition/logo.webp",
+      "alt": "Radiant Nutrition",
+      "width": 1200,
+      "height": 478,
+      "note": "Logo file from the source page. Shown smaller than the file."
+    },
+    "logo_plate": "#fffcf7",
+    "logo_ink": "#131419"
+  },
+  {
+    "slug": "ascendconsulting",
+    "number": "41",
+    "client": "Ascend Consulting",
+    "title": "Ascend Consulting \u2014 Case Study | The Tribe Maker",
+    "description": "Case study for Ascend Consulting. Copy is from the review prototype read on 3 Nov 2026.",
+    "category": "move the mission forward",
+    "kicker": "Ascend Consulting \u00b7 ascendconsulting.clientreview.co",
+    "h1": "Important work shouldn't have to struggle to move forward.",
+    "lede": "Supporting non-profit leaders and government agencies to identify and implement strategies that increase visibility, capacity, revenue, and sustainability. Ascend Consulting MN \u2014 founded 2009 \u2014 grants, development, communications, and events.",
+    "industry": "Move the Mission Forward",
+    "scope": "Review prototype",
+    "year_gap": "No project year is written in a project guide or scope file this account could read.",
+    "url": "https://ascendconsulting.clientreview.co/",
+    "host": "ascendconsulting.clientreview.co",
+    "brief": "#4C0F46",
+    "brief_ink": "#faf6ee",
+    "brief_kicker": "#ffaf00",
+    "band": "#F6E9B0",
+    "band_ink": "#131419",
+    "brief_h": "Supporting non-profit leaders and government agencies to identify and implement strategies that increase visibility, capacity, revenue, and sustainability.",
+    "brief_p": "Ascend Consulting \u2014 Move the Mission Forward Ascend Consulting Important work shouldn't have to struggle to move forward.",
+    "identity": "Swatches are named tokens from the stylesheet.",
+    "colors": [
+      {
+        "role": "brand",
+        "token": "--brand",
+        "hex": "#4C0F46",
+        "fg": "#faf6ee",
+        "line": false
+      },
+      {
+        "role": "accent",
+        "token": "--accent",
+        "hex": "#F6E9B0",
+        "fg": "#131419",
+        "line": true
+      },
+      {
+        "role": "ink",
+        "token": "--ink",
+        "hex": "#222222",
+        "fg": "#faf6ee",
+        "line": false
+      },
+      {
+        "role": "ink-deep",
+        "token": "--ink-deep",
+        "hex": "#272727",
+        "fg": "#faf6ee",
+        "line": false
+      },
+      {
+        "role": "ink-hover",
+        "token": "--ink-hover",
+        "hex": "#2F2F2F",
+        "fg": "#faf6ee",
+        "line": false
+      },
+      {
+        "role": "ink-header",
+        "token": "--ink-header",
+        "hex": "#0F0F0F",
+        "fg": "#faf6ee",
+        "line": false
+      }
+    ],
+    "fonts_href": "https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,500;0,9..144,560&family=Sora:wght@400;500;600&display=swap",
+    "fonts": [],
+    "mobile_h": "Homepage on a phone",
+    "mobile_p": "The phone frame is a screenshot of the same page, captured at phone width. It is not enlarged.",
+    "results_gap": "No load time or before-and-after figure is in a project guide or scope file. Numbers printed on the source page are not repeated here as results.",
+    "details": [
+      {
+        "label": "Review prototype",
+        "title": "Supporting non-profit leaders and government agencies to identify and implement ",
+        "text": "Ascend Consulting \u2014 Move the Mission Forward Ascend Consulting Important work shouldn't have to struggle to move forward."
+      },
+      {
+        "label": "Review prototype",
+        "title": "On the page",
+        "text": "We help mission-driven organizations secure funding, strengthen their organizations, and turn ambitious ideas into measurable impact."
+      },
+      {
+        "label": "Review prototype",
+        "title": "On the page",
+        "text": "People Strategy Funding Lasting Impact OUR WORK FUELS REAL CHANGE Supporting non-profit leaders and government agencies to identify and implement strategies that increase visibility, capacity, revenue, and sustainability."
+      }
+    ],
+    "shots": {
+      "desktop": [
+        1440,
+        900
+      ],
+      "phone": [
+        390,
+        844
+      ],
+      "desktop_alt": "Homepage of Ascend Consulting",
+      "phone_alt": "Ascend Consulting homepage on a phone"
+    },
+    "sources": [
+      {
+        "href": "https://ascendconsulting.clientreview.co/",
+        "text": "Review prototype, fetched 3 Nov 2026"
+      },
+      {
+        "text": "Yavin-Digital/ascendconsulting-prototype was not readable from this account (HTTP 404), so PROJECT_GUIDE.md and SCOPE.md were not read."
+      }
+    ],
+    "log": [
+      "Yavin-Digital/ascendconsulting-prototype was not readable from this account (HTTP 404), so PROJECT_GUIDE.md and SCOPE.md were not read.",
+      "No project year, measured result, named quote, second phone screen, section crop, full-page scroll, or role credit was in the sources used here.",
+      "No logo file was saved from the page."
+    ],
+    "shortName": "Ascend Consulting",
+    "headline": "Supporting non-profit leaders and government agencies to identify and implement strategies that increase visibility, capacity, revenue, and sustainability. Ascend Consulting MN \u2014 founded 2009 \u2014 grants, development, commu"
+  },
+  {
+    "slug": "chiltonautobody",
+    "number": "42",
+    "client": "Trusted Auto Body Experts for 50+ Years.",
+    "title": "Trusted Auto Body Experts for 50+ Years. \u2014 Case Study | The Tribe Maker",
+    "description": "Case study for Trusted Auto Body Experts for 50+ Years.. Copy is from the review prototype read on 3 Nov 2026.",
+    "category": "chilton auto body",
+    "kicker": "Trusted Auto Body Experts for 50+ Years. \u00b7 chiltonautobody.clientreview.co",
+    "h1": "Trusted Auto Body Experts for 50+ Years.",
+    "lede": "Proudly serving communities across Northern and Southern California with expert repairs, friendly service, and a commitment to quality.",
+    "industry": "Chilton Auto Body",
+    "scope": "Review prototype",
+    "year_gap": "No project year is written in a project guide or scope file this account could read.",
+    "url": "https://chiltonautobody.clientreview.co/",
+    "host": "chiltonautobody.clientreview.co",
+    "brief": "#003C6E",
+    "brief_ink": "#faf6ee",
+    "brief_kicker": "#ffaf00",
+    "band": "#FFBE0B",
+    "band_ink": "#131419",
+    "brief_h": "Electric Ready. Confidence Restored.",
+    "brief_p": "Proudly serving communities across Northern and Southern California with expert repairs, friendly service, and a commitment to quality.",
+    "identity": "Swatches are named tokens from the stylesheet.",
+    "colors": [
+      {
+        "role": "brand",
+        "token": "--brand",
+        "hex": "#003C6E",
+        "fg": "#faf6ee",
+        "line": false
+      },
+      {
+        "role": "brand-deep",
+        "token": "--brand-deep",
+        "hex": "#00284A",
+        "fg": "#faf6ee",
+        "line": false
+      },
+      {
+        "role": "accent",
+        "token": "--accent",
+        "hex": "#FFBE0B",
+        "fg": "#131419",
+        "line": false
+      },
+      {
+        "role": "ink",
+        "token": "--ink",
+        "hex": "#4A4E57",
+        "fg": "#faf6ee",
+        "line": false
+      },
+      {
+        "role": "paper",
+        "token": "--paper",
+        "hex": "#FFFFFF",
+        "fg": "#131419",
+        "line": true
+      }
+    ],
+    "fonts_href": "https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,500;0,9..144,560&family=Sora:wght@400;500;600&family=Oswald:wght@500;600&display=swap",
+    "fonts": [
+      {
+        "css": "\"Oswald\", sans-serif",
+        "note": "Oswald \u00b7 named in the stylesheet"
+      }
+    ],
+    "mobile_h": "Homepage on a phone",
+    "mobile_p": "The phone frame is a screenshot of the same page, captured at phone width. It is not enlarged.",
+    "results_gap": "No load time or before-and-after figure is in a project guide or scope file. Numbers printed on the source page are not repeated here as results.",
+    "details": [
+      {
+        "label": "Review prototype",
+        "title": "Electric Ready. Confidence Restored.",
+        "text": "Proudly serving communities across Northern and Southern California with expert repairs, friendly service, and a commitment to quality."
+      }
+    ],
+    "shots": {
+      "desktop": [
+        1440,
+        900
+      ],
+      "phone": [
+        390,
+        844
+      ],
+      "desktop_alt": "Homepage of Trusted Auto Body Experts for 50+ Years.",
+      "phone_alt": "Trusted Auto Body Experts for 50+ Years. homepage on a phone"
+    },
+    "sources": [
+      {
+        "href": "https://chiltonautobody.clientreview.co/",
+        "text": "Review prototype, fetched 3 Nov 2026"
+      },
+      {
+        "text": "Yavin-Digital/chiltonautobody-prototype was not readable from this account (HTTP 404), so PROJECT_GUIDE.md and SCOPE.md were not read."
+      }
+    ],
+    "log": [
+      "Yavin-Digital/chiltonautobody-prototype was not readable from this account (HTTP 404), so PROJECT_GUIDE.md and SCOPE.md were not read.",
+      "No project year, measured result, named quote, second phone screen, section crop, full-page scroll, or role credit was in the sources used here."
+    ],
+    "shortName": "Trusted Auto",
+    "headline": "Proudly serving communities across Northern and Southern California with expert repairs, friendly service, and a commitment to quality.",
+    "logo": {
+      "src": "../../assets/cases/chiltonautobody/logo.png",
+      "alt": "Trusted Auto Body Experts for 50+ Years.",
+      "width": 300,
+      "height": 144,
+      "note": "Logo file from the source page. Shown smaller than the file."
+    },
+    "logo_plate": "#fffcf7",
+    "logo_ink": "#131419"
+  },
+  {
+    "slug": "bobthompsonhomes",
+    "number": "43",
+    "client": "Bob Thompson Homes",
+    "title": "Bob Thompson Homes \u2014 Case Study | The Tribe Maker",
+    "description": "Case study for Bob Thompson Homes. Copy is from the review prototype read on 3 Nov 2026.",
+    "category": "our masterpiece your home",
+    "kicker": "Bob Thompson Homes \u00b7 bobthompsonhomes.clientreview.co",
+    "h1": "You feel it when you walk in.",
+    "lede": "Forty years of custom houses in North Texas. One name on the door. Call Bob at 214.535.9977.",
+    "industry": "Our Masterpiece Your Home",
+    "scope": "Review prototype",
+    "year_gap": "No project year is written in a project guide or scope file this account could read.",
+    "url": "https://bobthompsonhomes.clientreview.co/",
+    "host": "bobthompsonhomes.clientreview.co",
+    "brief": "#1A1612",
+    "brief_ink": "#faf6ee",
+    "brief_kicker": "#ffaf00",
+    "band": "#ffaf00",
+    "band_ink": "#131419",
+    "brief_h": "There is a difference.",
+    "brief_p": "Bob Thompson Homes \u2014 Our Masterpiece Your Home Our Masterpiece Your Home You feel it when you walk in.",
+    "identity": "Swatches are named tokens from the stylesheet.",
+    "colors": [
+      {
+        "role": "ink",
+        "token": "--ink",
+        "hex": "#1A1612",
+        "fg": "#faf6ee",
+        "line": false
+      }
+    ],
+    "fonts_href": "https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,500;0,9..144,560&family=Sora:wght@400;500;600&display=swap",
+    "fonts": [],
+    "mobile_h": "Homepage on a phone",
+    "mobile_p": "The phone frame is a screenshot of the same page, captured at phone width. It is not enlarged.",
+    "results_gap": "No load time or before-and-after figure is in a project guide or scope file. Numbers printed on the source page are not repeated here as results.",
+    "details": [
+      {
+        "label": "Review prototype",
+        "title": "There is a difference.",
+        "text": "Bob Thompson Homes \u2014 Our Masterpiece Your Home Our Masterpiece Your Home You feel it when you walk in."
+      },
+      {
+        "label": "Review prototype",
+        "title": "On the page",
+        "text": "Park Cities Preston Hollow Glen Abbey Willow Bend Polo Estates Your lot On your lot or ours."
+      },
+      {
+        "label": "Review prototype",
+        "title": "On the page",
+        "text": "\u201cBob is more than a good builder, he is a good man.\u201d Pool Environments, Inc."
+      }
+    ],
+    "shots": {
+      "desktop": [
+        1440,
+        900
+      ],
+      "phone": [
+        390,
+        844
+      ],
+      "desktop_alt": "Homepage of Bob Thompson Homes",
+      "phone_alt": "Bob Thompson Homes homepage on a phone"
+    },
+    "sources": [
+      {
+        "href": "https://bobthompsonhomes.clientreview.co/",
+        "text": "Review prototype, fetched 3 Nov 2026"
+      },
+      {
+        "text": "Yavin-Digital/bobthompsonhomes-prototype was not readable from this account (HTTP 404), so PROJECT_GUIDE.md and SCOPE.md were not read."
+      }
+    ],
+    "log": [
+      "Yavin-Digital/bobthompsonhomes-prototype was not readable from this account (HTTP 404), so PROJECT_GUIDE.md and SCOPE.md were not read.",
+      "No project year, measured result, named quote, second phone screen, section crop, full-page scroll, or role credit was in the sources used here.",
+      "No logo file was saved from the page."
+    ],
+    "shortName": "Bob Thompson Homes",
+    "headline": "Forty years of custom houses in North Texas. One name on the door. Call Bob at 214.535.9977."
+  },
+  {
+    "slug": "yourpoolrepairguy",
+    "number": "44",
+    "client": "Pool Repair & Maintenance in Lakeway, TX",
+    "title": "Pool Repair & Maintenance in Lakeway, TX \u2014 Case Study | The Tribe Maker",
+    "description": "Case study for Pool Repair & Maintenance in Lakeway, TX. Copy is from the review prototype read on 3 Nov 2026.",
+    "category": "your pool repair guy",
+    "kicker": "Pool Repair & Maintenance in Lakeway, TX \u00b7 yourpoolrepairguy.clientreview.co",
+    "h1": "Pool Repair & Maintenance in Lakeway, TX",
+    "lede": "Stress-free pool, hot tub, and outdoor living services for homeowners across Lakeway and the Lake Travis area. Call Now.",
+    "industry": "Your Pool Repair Guy",
+    "scope": "Review prototype",
+    "year_gap": "No project year is written in a project guide or scope file this account could read.",
+    "url": "https://yourpoolrepairguy.clientreview.co/",
+    "host": "yourpoolrepairguy.clientreview.co",
+    "brief": "#0729aa",
+    "brief_ink": "#faf6ee",
+    "brief_kicker": "#ffaf00",
+    "band": "#ffaf00",
+    "band_ink": "#131419",
+    "brief_h": "Reliable pool care for Lake Travis homeowners",
+    "brief_p": "Stress-free pool, hot tub, and outdoor living services for homeowners across Lakeway and the Lake Travis area. Call Now.",
+    "identity": "A written identity story and named color tokens were not in the sources read for this page.",
+    "colors": [],
+    "fonts_href": "https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,500;0,9..144,560&family=Sora:wght@400;500;600&display=swap",
+    "fonts": [],
+    "mobile_h": "Homepage on a phone",
+    "mobile_p": "The phone frame is a screenshot of the same page, captured at phone width. It is not enlarged.",
+    "results_gap": "No load time or before-and-after figure is in a project guide or scope file. Numbers printed on the source page are not repeated here as results.",
+    "details": [
+      {
+        "label": "Review prototype",
+        "title": "Reliable pool care for Lake Travis homeowners",
+        "text": "Stress-free pool, hot tub, and outdoor living services for homeowners across Lakeway and the Lake Travis area. Call Now."
+      }
+    ],
+    "shots": {
+      "desktop": [
+        1440,
+        900
+      ],
+      "phone": [
+        390,
+        844
+      ],
+      "desktop_alt": "Homepage of Pool Repair & Maintenance in Lakeway, TX",
+      "phone_alt": "Pool Repair & Maintenance in Lakeway, TX homepage on a phone"
+    },
+    "sources": [
+      {
+        "href": "https://yourpoolrepairguy.clientreview.co/",
+        "text": "Review prototype, fetched 3 Nov 2026"
+      },
+      {
+        "text": "Yavin-Digital/yourpoolrepairguy-prototype was not readable from this account (HTTP 404), so PROJECT_GUIDE.md and SCOPE.md were not read."
+      }
+    ],
+    "log": [
+      "Yavin-Digital/yourpoolrepairguy-prototype was not readable from this account (HTTP 404), so PROJECT_GUIDE.md and SCOPE.md were not read.",
+      "No project year, measured result, named quote, second phone screen, section crop, full-page scroll, or role credit was in the sources used here.",
+      "No named color tokens were found in the stylesheet.",
+      "No logo file was saved from the page.",
+      "The prototype banner says content and images are not final."
+    ],
+    "shortName": "Pool Repair",
+    "headline": "Stress-free pool, hot tub, and outdoor living services for homeowners across Lakeway and the Lake Travis area. Call Now.",
+    "note": "The prototype banner says content and images are not final."
+  },
+  {
+    "slug": "michaelrowanministries",
+    "number": "45",
+    "client": "Michael Rowan Ministries",
+    "title": "Michael Rowan Ministries \u2014 Case Study | The Tribe Maker",
+    "description": "Case study for Michael Rowan Ministries. Copy is from the review prototype read on 3 Nov 2026.",
+    "category": "real. raw. powerful.",
+    "kicker": "Michael Rowan Ministries \u00b7 michaelrowanministries.clientreview.co",
+    "h1": "Real. Raw. Powerful.",
+    "lede": "Spirit-filled ministry carried by fire across the nation. Revivals, healing, and the unapologetic Gospel with Michael Rowan.",
+    "industry": "Real. Raw. Powerful.",
+    "scope": "Review prototype",
+    "year_gap": "No project year is written in a project guide or scope file this account could read.",
+    "url": "https://michaelrowanministries.clientreview.co/",
+    "host": "michaelrowanministries.clientreview.co",
+    "brief": "#000E4C",
+    "brief_ink": "#faf6ee",
+    "brief_kicker": "#ffaf00",
+    "band": "#FCDC07",
+    "band_ink": "#131419",
+    "brief_h": "Meet Michael Rowan",
+    "brief_p": "Spirit-filled ministry carried by fire across the nation. Revivals, healing, and the unapologetic Gospel with Michael Rowan.",
+    "identity": "Swatches are named tokens from the stylesheet.",
+    "colors": [
+      {
+        "role": "navy",
+        "token": "--navy",
+        "hex": "#000E4C",
+        "fg": "#faf6ee",
+        "line": false
+      },
+      {
+        "role": "gold",
+        "token": "--gold",
+        "hex": "#FCDC07",
+        "fg": "#131419",
+        "line": true
+      }
+    ],
+    "fonts_href": "https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,500;0,9..144,560&family=Sora:wght@400;500;600&display=swap",
+    "fonts": [],
+    "mobile_h": "Homepage on a phone",
+    "mobile_p": "The phone frame is a screenshot of the same page, captured at phone width. It is not enlarged.",
+    "results_gap": "No load time or before-and-after figure is in a project guide or scope file. Numbers printed on the source page are not repeated here as results.",
+    "details": [
+      {
+        "label": "Review prototype",
+        "title": "Meet Michael Rowan",
+        "text": "Spirit-filled ministry carried by fire across the nation. Revivals, healing, and the unapologetic Gospel with Michael Rowan."
+      }
+    ],
+    "shots": {
+      "desktop": [
+        1440,
+        900
+      ],
+      "phone": [
+        390,
+        844
+      ],
+      "desktop_alt": "Homepage of Michael Rowan Ministries",
+      "phone_alt": "Michael Rowan Ministries homepage on a phone"
+    },
+    "sources": [
+      {
+        "href": "https://michaelrowanministries.clientreview.co/",
+        "text": "Review prototype, fetched 3 Nov 2026"
+      },
+      {
+        "text": "Repo Yavin-Digital/michaelrowanministries-prototype was readable. SCOPE.md and PROJECT_GUIDE.md were read."
+      }
+    ],
+    "log": [
+      "Repo Yavin-Digital/michaelrowanministries-prototype was readable. SCOPE.md and PROJECT_GUIDE.md were read.",
+      "No project year, measured result, named quote, second phone screen, section crop, full-page scroll, or role credit was in the sources used here.",
+      "No logo file was saved from the page."
+    ],
+    "shortName": "Michael Rowan",
+    "headline": "Spirit-filled ministry carried by fire across the nation. Revivals, healing, and the unapologetic Gospel with Michael Rowan."
+  },
+  {
+    "slug": "kpxofficial",
+    "number": "46",
+    "client": "KPX Official",
+    "title": "KPX Official \u2014 Case Study | The Tribe Maker",
+    "description": "Case study for KPX Official. Copy is from the review prototype read on 3 Nov 2026.",
+    "category": "build the body you came here for",
+    "kicker": "KPX Official \u00b7 kpxofficial.clientreview.co",
+    "h1": "Build the body you came here for \u2014 without guessing your way there.",
+    "lede": "Stop guessing and start building. KPX gives driven men one clear plan, real accountability, and a way to track that it",
+    "industry": "Build the Body You Came Here For",
+    "scope": "Review prototype",
+    "year_gap": "No project year is written in a project guide or scope file this account could read.",
+    "url": "https://kpxofficial.clientreview.co/",
+    "host": "kpxofficial.clientreview.co",
+    "brief": "#0B0B0F",
+    "brief_ink": "#faf6ee",
+    "brief_kicker": "#ffaf00",
+    "band": "#ffaf00",
+    "band_ink": "#131419",
+    "brief_h": "You're probably losing progress in places you aren't looking.",
+    "brief_p": "Money framing uses KPX's real public tiers ($99/$149/$199) only \u2014 no invented \"$X value\" figures (DPA protocol).",
+    "identity": "Swatches are named tokens from the stylesheet.",
+    "colors": [
+      {
+        "role": "ink",
+        "token": "--ink",
+        "hex": "#0B0B0F",
+        "fg": "#faf6ee",
+        "line": false
+      }
+    ],
+    "fonts_href": "https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,500;0,9..144,560&family=Sora:wght@400;500;600&display=swap",
+    "fonts": [],
+    "mobile_h": "Homepage on a phone",
+    "mobile_p": "The phone frame is a screenshot of the same page, captured at phone width. It is not enlarged.",
+    "results_gap": "No load time or before-and-after figure is in a project guide or scope file. Numbers printed on the source page are not repeated here as results.",
+    "details": [
+      {
+        "label": "Review prototype",
+        "title": "You're probably losing progress in places you aren't looking.",
+        "text": "Money framing uses KPX's real public tiers ($99/$149/$199) only \u2014 no invented \"$X value\" figures (DPA protocol)."
+      },
+      {
+        "label": "Review prototype",
+        "title": "On the page",
+        "text": "All animations are one-shot, reveal-into-rest, and the page reads completely with animation disabled."
+      },
+      {
+        "label": "Review prototype",
+        "title": "On the page",
+        "text": "--> KPX Official \u2014 Build the Body You Came Here For Skip to content For driven men who want a stronger, leaner body Build the body you came here for \u2014 without guessing your way there."
+      }
+    ],
+    "shots": {
+      "desktop": [
+        1440,
+        900
+      ],
+      "phone": [
+        390,
+        844
+      ],
+      "desktop_alt": "Homepage of KPX Official",
+      "phone_alt": "KPX Official homepage on a phone"
+    },
+    "sources": [
+      {
+        "href": "https://kpxofficial.clientreview.co/",
+        "text": "Review prototype, fetched 3 Nov 2026"
+      },
+      {
+        "text": "Yavin-Digital/kpxofficial-prototype was not readable from this account (HTTP 404), so PROJECT_GUIDE.md and SCOPE.md were not read."
+      }
+    ],
+    "log": [
+      "Yavin-Digital/kpxofficial-prototype was not readable from this account (HTTP 404), so PROJECT_GUIDE.md and SCOPE.md were not read.",
+      "No project year, measured result, named quote, second phone screen, section crop, full-page scroll, or role credit was in the sources used here."
+    ],
+    "shortName": "KPX Official",
+    "headline": "Stop guessing and start building. KPX gives driven men one clear plan, real accountability, and a way to track that it",
+    "logo": {
+      "src": "../../assets/cases/kpxofficial/logo.png",
+      "alt": "KPX Official",
+      "width": 205,
+      "height": 116,
+      "note": "Logo file from the source page."
+    },
+    "logo_plate": "#131419",
+    "logo_ink": "#faf6ee"
+  },
+  {
+    "slug": "eddieinservice",
+    "number": "47",
+    "client": "Eddie In Service",
+    "title": "Eddie In Service \u2014 Case Study | The Tribe Maker",
+    "description": "Case study for Eddie In Service. Copy is from the live site read on 3 Nov 2026.",
+    "category": "honest car advice",
+    "kicker": "Eddie In Service \u00b7 eddieinservice.com",
+    "h1": "Straight Talk for Drivers",
+    "lede": "50 years of automotive expertise. Eddie Campbell helps drivers navigate dealership service with confidence. Articles, videos, preferred dealers, and more.",
+    "industry": "Honest Car Advice",
+    "scope": "Live site",
+    "year_gap": "No project year is written in a project guide or scope file this account could read.",
+    "url": "https://eddieinservice.com/",
+    "host": "eddieinservice.com",
+    "brief": "#0729aa",
+    "brief_ink": "#faf6ee",
+    "brief_kicker": "#ffaf00",
+    "band": "#ffaf00",
+    "band_ink": "#131419",
+    "brief_h": "Check Your Vehicle&#x27;s Health Score",
+    "brief_p": "Meet Eddie Ask Eddie Eddie In Service Review We finally got the truck back on the 18th \u2014 a fraction of the cost it could have been.",
+    "identity": "A written identity story and named color tokens were not in the sources read for this page.",
+    "colors": [],
+    "fonts_href": "https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,500;0,9..144,560&family=Sora:wght@400;500;600&display=swap",
+    "fonts": [],
+    "mobile_h": "Homepage on a phone",
+    "mobile_p": "The phone frame is a screenshot of the same page, captured at phone width. It is not enlarged.",
+    "results_gap": "No load time or before-and-after figure is in a project guide or scope file. Numbers printed on the source page are not repeated here as results.",
+    "details": [
+      {
+        "label": "Live site",
+        "title": "Check Your Vehicle&#x27;s Health Score",
+        "text": "Meet Eddie Ask Eddie Eddie In Service Review We finally got the truck back on the 18th \u2014 a fraction of the cost it could have been."
+      },
+      {
+        "label": "Live site",
+        "title": "On the page",
+        "text": "\u2014 Logan | Eddie helped get everything fixed right, at a price that made sense."
+      },
+      {
+        "label": "Live site",
+        "title": "On the page",
+        "text": "Read Article Ask Eddie Calling Gen Z Rev Up Your Career in the Automotive Field for a High-Paying, Tech-Savvy Future!"
+      }
+    ],
+    "shots": {
+      "desktop": [
+        1440,
+        900
+      ],
+      "phone": [
+        390,
+        844
+      ],
+      "desktop_alt": "Homepage of Eddie In Service",
+      "phone_alt": "Eddie In Service homepage on a phone"
+    },
+    "sources": [
+      {
+        "href": "https://eddieinservice.com/",
+        "text": "Live site, fetched 3 Nov 2026"
+      },
+      {
+        "text": "Yavin-Digital/eddieinservice-prototype was not readable from this account (HTTP 404), so PROJECT_GUIDE.md and SCOPE.md were not read."
+      }
+    ],
+    "log": [
+      "Yavin-Digital/eddieinservice-prototype was not readable from this account (HTTP 404), so PROJECT_GUIDE.md and SCOPE.md were not read.",
+      "No project year, measured result, named quote, second phone screen, section crop, full-page scroll, or role credit was in the sources used here.",
+      "No named color tokens were found in the stylesheet.",
+      "No logo file was saved from the page.",
+      "The review host and the prototype repo were not reachable. This page uses the live site on the matching domain."
+    ],
+    "shortName": "Eddie In Service",
+    "headline": "50 years of automotive expertise. Eddie Campbell helps drivers navigate dealership service with confidence. Articles, videos, preferred dealers, and more.",
+    "note": "The review host and the prototype repo were not reachable. This page uses the live site on the matching domain."
+  },
+  {
+    "slug": "lonestararms",
+    "number": "48",
+    "client": "Saiga 12, Vepr 12 & KS-12 Rebuilds",
+    "title": "Saiga 12, Vepr 12 & KS-12 Rebuilds \u2014 Case Study | The Tribe Maker",
+    "description": "Case study for Saiga 12, Vepr 12 & KS-12 Rebuilds. Copy is from the live site read on 3 Nov 2026.",
+    "category": "lone star arms",
+    "kicker": "Saiga 12, Vepr 12 & KS-12 Rebuilds \u00b7 lonestararms.com",
+    "h1": "Saiga 12, Vepr 12, and KS-12 High-Performance Rebuilds",
+    "lede": "High-performance rebuilds for Saiga 12, Vepr 12, and Kalashnikov USA KS-12 shotguns, and Komrad and KHAOS firearms. Rebuilds are $1,500. Call (505) 263-8822.",
+    "industry": "Lone Star Arms",
+    "scope": "Live site",
+    "year_gap": "No project year is written in a project guide or scope file this account could read.",
+    "url": "https://lonestararms.com/",
+    "host": "lonestararms.com",
+    "brief": "#0729aa",
+    "brief_ink": "#faf6ee",
+    "brief_kicker": "#ffaf00",
+    "band": "#ffaf00",
+    "band_ink": "#131419",
+    "brief_h": "How the work starts",
+    "brief_p": "Kalashnikov-platform 12-gauge shotguns should cycle the ammunition you actually buy and use \u2014 reliably, smoothly, and efficiently.",
+    "identity": "A written identity story and named color tokens were not in the sources read for this page.",
+    "colors": [],
+    "fonts_href": "https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,500;0,9..144,560&family=Sora:wght@400;500;600&display=swap",
+    "fonts": [],
+    "mobile_h": "Homepage on a phone",
+    "mobile_p": "The phone frame is a screenshot of the same page, captured at phone width. It is not enlarged.",
+    "results_gap": "No load time or before-and-after figure is in a project guide or scope file. Numbers printed on the source page are not repeated here as results.",
+    "details": [
+      {
+        "label": "Live site",
+        "title": "How the work starts",
+        "text": "Kalashnikov-platform 12-gauge shotguns should cycle the ammunition you actually buy and use \u2014 reliably, smoothly, and efficiently."
+      },
+      {
+        "label": "Live site",
+        "title": "On the page",
+        "text": "That is the essence of what we do, it is all we do, and our dedicated mission with every gun we accept for work."
+      },
+      {
+        "label": "Live site",
+        "title": "On the page",
+        "text": "Saigas, Veprs, and KS12 shotguns are all assembled in their respective facilities individually by hand."
+      }
+    ],
+    "shots": {
+      "desktop": [
+        1440,
+        900
+      ],
+      "phone": [
+        390,
+        844
+      ],
+      "desktop_alt": "Homepage of Saiga 12, Vepr 12 & KS-12 Rebuilds",
+      "phone_alt": "Saiga 12, Vepr 12 & KS-12 Rebuilds homepage on a phone"
+    },
+    "sources": [
+      {
+        "href": "https://lonestararms.com/",
+        "text": "Live site, fetched 3 Nov 2026"
+      },
+      {
+        "text": "Yavin-Digital/lonestararms-prototype was not readable from this account (HTTP 404), so PROJECT_GUIDE.md and SCOPE.md were not read."
+      }
+    ],
+    "log": [
+      "Yavin-Digital/lonestararms-prototype was not readable from this account (HTTP 404), so PROJECT_GUIDE.md and SCOPE.md were not read.",
+      "No project year, measured result, named quote, second phone screen, section crop, full-page scroll, or role credit was in the sources used here.",
+      "No named color tokens were found in the stylesheet.",
+      "No logo file was saved from the page.",
+      "The review host and the prototype repo were not reachable. This page uses the live site on the matching domain."
+    ],
+    "shortName": "Saiga 12,",
+    "headline": "High-performance rebuilds for Saiga 12, Vepr 12, and Kalashnikov USA KS-12 shotguns, and Komrad and KHAOS firearms. Rebuilds are $1,500. Call (505) 263-8822.",
+    "note": "The review host and the prototype repo were not reachable. This page uses the live site on the matching domain."
+  },
+  {
+    "slug": "playatthehive",
+    "number": "49",
+    "client": "The Hive",
+    "title": "The Hive \u2014 Case Study | The Tribe Maker",
+    "description": "Case study for The Hive. Copy is from the review prototype read on 3 Nov 2026.",
+    "category": "drop-in childcare where kids want to bee",
+    "kicker": "The Hive \u00b7 playatthehive.clientreview.co",
+    "h1": "We Take Childcare Seriously, by Bringing It Back to the Basics of Play",
+    "lede": "Flexible, as-needed drop-in childcare for ages 6 weeks to 10 years. Screen-free, safe, and fun \u2014 billed by the minute. Northlake, TX.",
+    "industry": "Drop-In Childcare Where Kids Want to BEE",
+    "scope": "Review prototype",
+    "year_gap": "No project year is written in a project guide or scope file this account could read.",
+    "url": "https://playatthehive.clientreview.co/",
+    "host": "playatthehive.clientreview.co",
+    "brief": "#0729aa",
+    "brief_ink": "#faf6ee",
+    "brief_kicker": "#ffaf00",
+    "band": "#ffaf00",
+    "band_ink": "#131419",
+    "brief_h": "How It Works",
+    "brief_p": "We care for children aged 6 weeks up to 10 years old, providing flexible and reliable childcare options for busy parents.",
+    "identity": "A written identity story and named color tokens were not in the sources read for this page.",
+    "colors": [],
+    "fonts_href": "https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,500;0,9..144,560&family=Sora:wght@400;500;600&family=Work+Sans:wght@400;600&family=Archivo+Black&display=swap",
+    "fonts": [
+      {
+        "css": "\"Work Sans\", sans-serif",
+        "note": "Work Sans \u00b7 named in the stylesheet"
+      },
+      {
+        "css": "\"Archivo Black\", serif",
+        "note": "Archivo Black \u00b7 named in the stylesheet"
+      }
+    ],
+    "mobile_h": "Homepage on a phone",
+    "mobile_p": "The phone frame is a screenshot of the same page, captured at phone width. It is not enlarged.",
+    "results_gap": "No load time or before-and-after figure is in a project guide or scope file. Numbers printed on the source page are not repeated here as results.",
+    "details": [
+      {
+        "label": "Review prototype",
+        "title": "How It Works",
+        "text": "We care for children aged 6 weeks up to 10 years old, providing flexible and reliable childcare options for busy parents."
+      },
+      {
+        "label": "Review prototype",
+        "title": "On the page",
+        "text": "Register Now How It Works How It Works 1 Register on ChildPilot Create your free family account."
+      },
+      {
+        "label": "Review prototype",
+        "title": "On the page",
+        "text": "Member Registration $125 /year per family Reservations up to 3 months ahead."
+      }
+    ],
+    "shots": {
+      "desktop": [
+        1440,
+        900
+      ],
+      "phone": [
+        390,
+        844
+      ],
+      "desktop_alt": "Homepage of The Hive",
+      "phone_alt": "The Hive homepage on a phone"
+    },
+    "sources": [
+      {
+        "href": "https://playatthehive.clientreview.co/",
+        "text": "Review prototype, fetched 3 Nov 2026"
+      },
+      {
+        "text": "Yavin-Digital/playatthehive and playatthehive-prototype were not readable from this account (HTTP 404)."
+      }
+    ],
+    "log": [
+      "Yavin-Digital/playatthehive and playatthehive-prototype were not readable from this account (HTTP 404).",
+      "No project year, measured result, named quote, second phone screen, section crop, full-page scroll, or role credit was in the sources used here.",
+      "No named color tokens were found in the stylesheet.",
+      "playatthehive.com returned HTTP 403. Figures and the founder quote on thetribemaker.com/work/the-hive were not copied."
+    ],
+    "shortName": "The Hive",
+    "headline": "Flexible, as-needed drop-in childcare for ages 6 weeks to 10 years. Screen-free, safe, and fun \u2014 billed by the minute. Northlake, TX.",
+    "note": "playatthehive.com returned HTTP 403. Figures and the founder quote on thetribemaker.com/work/the-hive were not copied.",
+    "logo": {
+      "src": "../../assets/cases/playatthehive/logo.png",
+      "alt": "The Hive",
+      "width": 193,
+      "height": 128,
+      "note": "Logo file from the source page."
+    },
+    "logo_plate": "#fffcf7",
+    "logo_ink": "#131419"
+  }
+]

@@ -241,7 +241,7 @@ function render(projects) {
     const sentence = el(
       "span",
       null,
-      ` ${spell(projects.length)} live site${projects.length === 1 ? "" : "s"} ${projects.length === 1 ? "is" : "are"} below, shown as ${projects.length === 1 ? "it is" : "they are"}.`
+      ` ${spell(projects.length)} project${projects.length === 1 ? "" : "s"} ${projects.length === 1 ? "is" : "are"} below, taken from the live site or the review prototype.`
     );
     lede.append(sentence);
     lede.dataset.ready = "true";
