@@ -126,7 +126,7 @@ function renderIndex(projects) {
   projects.forEach((project) => {
     const item = document.createElement("li");
     const link = document.createElement("a");
-    link.href = `#${project.slug}`;
+    link.href = `work/${project.slug}/`;
     const num = el("span", "index-num", project.number);
     link.append(num, document.createTextNode(project.shortName));
     item.append(link);
@@ -153,14 +153,25 @@ function renderProject(project, index) {
   const copy = el("div", "copy");
   const kicker = el("p", "kicker");
   kicker.append(el("span", "num", project.number), document.createTextNode(" / " + project.shortName));
-  const heading = el("h2", "client", project.client);
+  const heading = el("h2", "client");
   heading.id = `${project.slug}-title`;
+  const page = `work/${project.slug}/`;
+  const titleLink = document.createElement("a");
+  titleLink.href = page;
+  titleLink.textContent = project.client;
+  heading.append(titleLink);
   band.setAttribute("aria-labelledby", heading.id);
   copy.append(kicker, heading, el("p", "category", project.category));
   if (project.venture) copy.append(el("p", "venture", project.venture));
   copy.append(el("p", "outcome", project.headline));
 
   const href = safeUrl(project.url);
+  const links = el("div", "card-links");
+  const view = document.createElement("a");
+  view.className = "visit";
+  view.href = page;
+  view.append(document.createTextNode("View project"));
+  links.append(view);
   if (href) {
     const link = document.createElement("a");
     link.className = "visit";
@@ -184,8 +195,9 @@ function renderProject(project, index) {
     path.setAttribute("stroke-linejoin", "round");
     arrow.append(path);
     link.append(arrow);
-    copy.append(link);
+    links.append(link);
   }
+  copy.append(links);
 
   const stage = el("div", "stage");
   const showImages = !project.pending && project.images && project.images.desktop;
@@ -193,7 +205,12 @@ function renderProject(project, index) {
     const figure = el("figure", "device");
     figure.append(deviceBar(hostname(href || "")));
     figure.append(responsiveShot(project, index === 0));
-    stage.append(figure);
+    const stageLink = document.createElement("a");
+    stageLink.className = "stage-link";
+    stageLink.href = page;
+    stageLink.setAttribute("aria-label", `View the ${project.client} project`);
+    stageLink.append(figure);
+    stage.append(stageLink);
     if (project.images.phone) {
       const handset = el("figure", "handset");
       handset.setAttribute("aria-hidden", "true");
