@@ -1,0 +1,729 @@
+/* [next]/internal/font/google/ibm_plex_serif_bd71f306.module.css [app-client] (css) */
+@font-face {
+  font-family: IBM Plex Serif;
+  font-style: italic;
+  font-weight: 300;
+  font-display: swap;
+  src: url("../media/7568d9fdf375fafc-s.ad60c0fd.woff2") format("woff2");
+  unicode-range: U+460-52F, U+1C80-1C8A, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;
+}
+
+@font-face {
+  font-family: IBM Plex Serif;
+  font-style: italic;
+  font-weight: 300;
+  font-display: swap;
+  src: url("../media/dedc35c9c0cde9c7-s.ed696d50.woff2") format("woff2");
+  unicode-range: U+301, U+400-45F, U+490-491, U+4B0-4B1, U+2116;
+}
+
+@font-face {
+  font-family: IBM Plex Serif;
+  font-style: italic;
+  font-weight: 300;
+  font-display: swap;
+  src: url("../media/d70ec756e41afea7-s.38a4a663.woff2") format("woff2");
+  unicode-range: U+102-103, U+110-111, U+128-129, U+168-169, U+1A0-1A1, U+1AF-1B0, U+300-301, U+303-304, U+308-309, U+323, U+329, U+1EA0-1EF9, U+20AB;
+}
+
+@font-face {
+  font-family: IBM Plex Serif;
+  font-style: italic;
+  font-weight: 300;
+  font-display: swap;
+  src: url("../media/1a65e46a4517d41b-s.7f1c72d2.woff2") format("woff2");
+  unicode-range: U+100-2BA, U+2BD-2C5, U+2C7-2CC, U+2CE-2D7, U+2DD-2FF, U+304, U+308, U+329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C4, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+
+@font-face {
+  font-family: IBM Plex Serif;
+  font-style: italic;
+  font-weight: 300;
+  font-display: swap;
+  src: url("../media/baf76fecf0282555-s.p.c29112b7.woff2") format("woff2");
+  unicode-range: U+??, U+131, U+152-153, U+2BB-2BC, U+2C6, U+2DA, U+2DC, U+304, U+308, U+329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+
+@font-face {
+  font-family: IBM Plex Serif;
+  font-style: italic;
+  font-weight: 400;
+  font-display: swap;
+  src: url("../media/b6a3ba25a63ffdc2-s.e629b2be.woff2") format("woff2");
+  unicode-range: U+460-52F, U+1C80-1C8A, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;
+}
+
+@font-face {
+  font-family: IBM Plex Serif;
+  font-style: italic;
+  font-weight: 400;
+  font-display: swap;
+  src: url("../media/c46d9efd5b21dbaa-s.2f9e3f9f.woff2") format("woff2");
+  unicode-range: U+301, U+400-45F, U+490-491, U+4B0-4B1, U+2116;
+}
+
+@font-face {
+  font-family: IBM Plex Serif;
+  font-style: italic;
+  font-weight: 400;
+  font-display: swap;
+  src: url("../media/6308822089fd3411-s.97f8028e.woff2") format("woff2");
+  unicode-range: U+102-103, U+110-111, U+128-129, U+168-169, U+1A0-1A1, U+1AF-1B0, U+300-301, U+303-304, U+308-309, U+323, U+329, U+1EA0-1EF9, U+20AB;
+}
+
+@font-face {
+  font-family: IBM Plex Serif;
+  font-style: italic;
+  font-weight: 400;
+  font-display: swap;
+  src: url("../media/ff4d9f8b7294524b-s.156d6bf8.woff2") format("woff2");
+  unicode-range: U+100-2BA, U+2BD-2C5, U+2C7-2CC, U+2CE-2D7, U+2DD-2FF, U+304, U+308, U+329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C4, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+
+@font-face {
+  font-family: IBM Plex Serif;
+  font-style: italic;
+  font-weight: 400;
+  font-display: swap;
+  src: url("../media/0e64cfb82a47c250-s.p.4178c239.woff2") format("woff2");
+  unicode-range: U+??, U+131, U+152-153, U+2BB-2BC, U+2C6, U+2DA, U+2DC, U+304, U+308, U+329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+
+@font-face {
+  font-family: IBM Plex Serif;
+  font-style: italic;
+  font-weight: 500;
+  font-display: swap;
+  src: url("../media/79d9db89a59a83fa-s.d7c076d7.woff2") format("woff2");
+  unicode-range: U+460-52F, U+1C80-1C8A, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;
+}
+
+@font-face {
+  font-family: IBM Plex Serif;
+  font-style: italic;
+  font-weight: 500;
+  font-display: swap;
+  src: url("../media/11705a6cc6a37f59-s.c96d8aed.woff2") format("woff2");
+  unicode-range: U+301, U+400-45F, U+490-491, U+4B0-4B1, U+2116;
+}
+
+@font-face {
+  font-family: IBM Plex Serif;
+  font-style: italic;
+  font-weight: 500;
+  font-display: swap;
+  src: url("../media/221a7ef2b9efbaad-s.ed32522d.woff2") format("woff2");
+  unicode-range: U+102-103, U+110-111, U+128-129, U+168-169, U+1A0-1A1, U+1AF-1B0, U+300-301, U+303-304, U+308-309, U+323, U+329, U+1EA0-1EF9, U+20AB;
+}
+
+@font-face {
+  font-family: IBM Plex Serif;
+  font-style: italic;
+  font-weight: 500;
+  font-display: swap;
+  src: url("../media/730055c84ed23e9d-s.4e302347.woff2") format("woff2");
+  unicode-range: U+100-2BA, U+2BD-2C5, U+2C7-2CC, U+2CE-2D7, U+2DD-2FF, U+304, U+308, U+329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C4, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+
+@font-face {
+  font-family: IBM Plex Serif;
+  font-style: italic;
+  font-weight: 500;
+  font-display: swap;
+  src: url("../media/b02a479d288d97d4-s.p.83cf7b42.woff2") format("woff2");
+  unicode-range: U+??, U+131, U+152-153, U+2BB-2BC, U+2C6, U+2DA, U+2DC, U+304, U+308, U+329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+
+@font-face {
+  font-family: IBM Plex Serif;
+  font-style: normal;
+  font-weight: 300;
+  font-display: swap;
+  src: url("../media/d162c89b3544a19d-s.2881fc12.woff2") format("woff2");
+  unicode-range: U+460-52F, U+1C80-1C8A, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;
+}
+
+@font-face {
+  font-family: IBM Plex Serif;
+  font-style: normal;
+  font-weight: 300;
+  font-display: swap;
+  src: url("../media/01ab0124acb934ce-s.8c36f17c.woff2") format("woff2");
+  unicode-range: U+301, U+400-45F, U+490-491, U+4B0-4B1, U+2116;
+}
+
+@font-face {
+  font-family: IBM Plex Serif;
+  font-style: normal;
+  font-weight: 300;
+  font-display: swap;
+  src: url("../media/07cd5ee061c575c4-s.02278a80.woff2") format("woff2");
+  unicode-range: U+102-103, U+110-111, U+128-129, U+168-169, U+1A0-1A1, U+1AF-1B0, U+300-301, U+303-304, U+308-309, U+323, U+329, U+1EA0-1EF9, U+20AB;
+}
+
+@font-face {
+  font-family: IBM Plex Serif;
+  font-style: normal;
+  font-weight: 300;
+  font-display: swap;
+  src: url("../media/293c8202cce5edd5-s.18d15e68.woff2") format("woff2");
+  unicode-range: U+100-2BA, U+2BD-2C5, U+2C7-2CC, U+2CE-2D7, U+2DD-2FF, U+304, U+308, U+329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C4, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+
+@font-face {
+  font-family: IBM Plex Serif;
+  font-style: normal;
+  font-weight: 300;
+  font-display: swap;
+  src: url("../media/370b336b43118e10-s.p.914cb4fc.woff2") format("woff2");
+  unicode-range: U+??, U+131, U+152-153, U+2BB-2BC, U+2C6, U+2DA, U+2DC, U+304, U+308, U+329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+
+@font-face {
+  font-family: IBM Plex Serif;
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url("../media/7f49c72243bdcede-s.d482622f.woff2") format("woff2");
+  unicode-range: U+460-52F, U+1C80-1C8A, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;
+}
+
+@font-face {
+  font-family: IBM Plex Serif;
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url("../media/a2797aaeec05c026-s.901efc6f.woff2") format("woff2");
+  unicode-range: U+301, U+400-45F, U+490-491, U+4B0-4B1, U+2116;
+}
+
+@font-face {
+  font-family: IBM Plex Serif;
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url("../media/b3baf9375001c1f5-s.7897a175.woff2") format("woff2");
+  unicode-range: U+102-103, U+110-111, U+128-129, U+168-169, U+1A0-1A1, U+1AF-1B0, U+300-301, U+303-304, U+308-309, U+323, U+329, U+1EA0-1EF9, U+20AB;
+}
+
+@font-face {
+  font-family: IBM Plex Serif;
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url("../media/9096fd5f49bfad97-s.20ec22c2.woff2") format("woff2");
+  unicode-range: U+100-2BA, U+2BD-2C5, U+2C7-2CC, U+2CE-2D7, U+2DD-2FF, U+304, U+308, U+329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C4, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+
+@font-face {
+  font-family: IBM Plex Serif;
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url("../media/ef7be03ed7e60a63-s.p.bb832c79.woff2") format("woff2");
+  unicode-range: U+??, U+131, U+152-153, U+2BB-2BC, U+2C6, U+2DA, U+2DC, U+304, U+308, U+329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+
+@font-face {
+  font-family: IBM Plex Serif;
+  font-style: normal;
+  font-weight: 500;
+  font-display: swap;
+  src: url("../media/4bd7aa058bc96e4f-s.940752b4.woff2") format("woff2");
+  unicode-range: U+460-52F, U+1C80-1C8A, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;
+}
+
+@font-face {
+  font-family: IBM Plex Serif;
+  font-style: normal;
+  font-weight: 500;
+  font-display: swap;
+  src: url("../media/0bd78c1bd4dfd4c7-s.cfc45236.woff2") format("woff2");
+  unicode-range: U+301, U+400-45F, U+490-491, U+4B0-4B1, U+2116;
+}
+
+@font-face {
+  font-family: IBM Plex Serif;
+  font-style: normal;
+  font-weight: 500;
+  font-display: swap;
+  src: url("../media/197b82234d448be7-s.ac81b455.woff2") format("woff2");
+  unicode-range: U+102-103, U+110-111, U+128-129, U+168-169, U+1A0-1A1, U+1AF-1B0, U+300-301, U+303-304, U+308-309, U+323, U+329, U+1EA0-1EF9, U+20AB;
+}
+
+@font-face {
+  font-family: IBM Plex Serif;
+  font-style: normal;
+  font-weight: 500;
+  font-display: swap;
+  src: url("../media/79050e547acec5d8-s.515542c4.woff2") format("woff2");
+  unicode-range: U+100-2BA, U+2BD-2C5, U+2C7-2CC, U+2CE-2D7, U+2DD-2FF, U+304, U+308, U+329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C4, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+
+@font-face {
+  font-family: IBM Plex Serif;
+  font-style: normal;
+  font-weight: 500;
+  font-display: swap;
+  src: url("../media/522cd826f2dc0be6-s.p.177abc12.woff2") format("woff2");
+  unicode-range: U+??, U+131, U+152-153, U+2BB-2BC, U+2C6, U+2DA, U+2DC, U+304, U+308, U+329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+
+@font-face {
+  font-family: IBM Plex Serif Fallback;
+  src: local(Times New Roman);
+  ascent-override: 88.04%;
+  descent-override: 23.62%;
+  line-gap-override: 0.0%;
+  size-adjust: 116.43%;
+}
+
+.ibm_plex_serif_bd71f306-module__0kxoWW__className {
+  font-family: IBM Plex Serif, IBM Plex Serif Fallback;
+}
+
+.ibm_plex_serif_bd71f306-module__0kxoWW__variable {
+  --font-plex-serif: "IBM Plex Serif", "IBM Plex Serif Fallback";
+}
+
+/* [next]/internal/font/google/ibm_plex_mono_dab76419.module.css [app-client] (css) */
+@font-face {
+  font-family: IBM Plex Mono;
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url("../media/e390973e931a41c5-s.a82ecf4e.woff2") format("woff2");
+  unicode-range: U+460-52F, U+1C80-1C8A, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;
+}
+
+@font-face {
+  font-family: IBM Plex Mono;
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url("../media/59b15b4bcd7b1eb5-s.7aa47ad2.woff2") format("woff2");
+  unicode-range: U+301, U+400-45F, U+490-491, U+4B0-4B1, U+2116;
+}
+
+@font-face {
+  font-family: IBM Plex Mono;
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url("../media/77ce6907447ba740-s.99d340d8.woff2") format("woff2");
+  unicode-range: U+2000-2001, U+2004-2008, U+200A, U+23B8-23BD, U+2500-259F;
+}
+
+@font-face {
+  font-family: IBM Plex Mono;
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url("../media/e532fa1b9921e1cd-s.115ef31b.woff2") format("woff2");
+  unicode-range: U+102-103, U+110-111, U+128-129, U+168-169, U+1A0-1A1, U+1AF-1B0, U+300-301, U+303-304, U+308-309, U+323, U+329, U+1EA0-1EF9, U+20AB;
+}
+
+@font-face {
+  font-family: IBM Plex Mono;
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url("../media/2fe89d53234c61d4-s.0e0fd175.woff2") format("woff2");
+  unicode-range: U+100-2BA, U+2BD-2C5, U+2C7-2CC, U+2CE-2D7, U+2DD-2FF, U+304, U+308, U+329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C4, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+
+@font-face {
+  font-family: IBM Plex Mono;
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url("../media/99e609270109b47d-s.p.35f00e06.woff2") format("woff2");
+  unicode-range: U+??, U+131, U+152-153, U+2BB-2BC, U+2C6, U+2DA, U+2DC, U+304, U+308, U+329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+
+@font-face {
+  font-family: IBM Plex Mono;
+  font-style: normal;
+  font-weight: 500;
+  font-display: swap;
+  src: url("../media/5e05ae5b48faa55e-s.6b5ea6af.woff2") format("woff2");
+  unicode-range: U+460-52F, U+1C80-1C8A, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;
+}
+
+@font-face {
+  font-family: IBM Plex Mono;
+  font-style: normal;
+  font-weight: 500;
+  font-display: swap;
+  src: url("../media/a7afbb44bec2bb18-s.d94dd3c8.woff2") format("woff2");
+  unicode-range: U+301, U+400-45F, U+490-491, U+4B0-4B1, U+2116;
+}
+
+@font-face {
+  font-family: IBM Plex Mono;
+  font-style: normal;
+  font-weight: 500;
+  font-display: swap;
+  src: url("../media/bfc9b7e66b1caeca-s.54c6df0b.woff2") format("woff2");
+  unicode-range: U+2000-2001, U+2004-2008, U+200A, U+23B8-23BD, U+2500-259F;
+}
+
+@font-face {
+  font-family: IBM Plex Mono;
+  font-style: normal;
+  font-weight: 500;
+  font-display: swap;
+  src: url("../media/02263ebadd758ea4-s.38b59398.woff2") format("woff2");
+  unicode-range: U+102-103, U+110-111, U+128-129, U+168-169, U+1A0-1A1, U+1AF-1B0, U+300-301, U+303-304, U+308-309, U+323, U+329, U+1EA0-1EF9, U+20AB;
+}
+
+@font-face {
+  font-family: IBM Plex Mono;
+  font-style: normal;
+  font-weight: 500;
+  font-display: swap;
+  src: url("../media/68757d6cddeff913-s.059e097f.woff2") format("woff2");
+  unicode-range: U+100-2BA, U+2BD-2C5, U+2C7-2CC, U+2CE-2D7, U+2DD-2FF, U+304, U+308, U+329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C4, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+
+@font-face {
+  font-family: IBM Plex Mono;
+  font-style: normal;
+  font-weight: 500;
+  font-display: swap;
+  src: url("../media/effe91970fc4db64-s.p.59d516ed.woff2") format("woff2");
+  unicode-range: U+??, U+131, U+152-153, U+2BB-2BC, U+2C6, U+2DA, U+2DC, U+304, U+308, U+329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+
+@font-face {
+  font-family: IBM Plex Mono;
+  font-style: normal;
+  font-weight: 600;
+  font-display: swap;
+  src: url("../media/6ff74e33ebd7bca3-s.140490a3.woff2") format("woff2");
+  unicode-range: U+460-52F, U+1C80-1C8A, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;
+}
+
+@font-face {
+  font-family: IBM Plex Mono;
+  font-style: normal;
+  font-weight: 600;
+  font-display: swap;
+  src: url("../media/1a69062cfe6f77f8-s.4d1418da.woff2") format("woff2");
+  unicode-range: U+301, U+400-45F, U+490-491, U+4B0-4B1, U+2116;
+}
+
+@font-face {
+  font-family: IBM Plex Mono;
+  font-style: normal;
+  font-weight: 600;
+  font-display: swap;
+  src: url("../media/f7cb89c1bcef4d27-s.f4c0f7e2.woff2") format("woff2");
+  unicode-range: U+2000-2001, U+2004-2008, U+200A, U+23B8-23BD, U+2500-259F;
+}
+
+@font-face {
+  font-family: IBM Plex Mono;
+  font-style: normal;
+  font-weight: 600;
+  font-display: swap;
+  src: url("../media/9a4838fcda0d1bca-s.a6889e46.woff2") format("woff2");
+  unicode-range: U+102-103, U+110-111, U+128-129, U+168-169, U+1A0-1A1, U+1AF-1B0, U+300-301, U+303-304, U+308-309, U+323, U+329, U+1EA0-1EF9, U+20AB;
+}
+
+@font-face {
+  font-family: IBM Plex Mono;
+  font-style: normal;
+  font-weight: 600;
+  font-display: swap;
+  src: url("../media/2e95a7d252b9825a-s.bb29f8b6.woff2") format("woff2");
+  unicode-range: U+100-2BA, U+2BD-2C5, U+2C7-2CC, U+2CE-2D7, U+2DD-2FF, U+304, U+308, U+329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C4, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+
+@font-face {
+  font-family: IBM Plex Mono;
+  font-style: normal;
+  font-weight: 600;
+  font-display: swap;
+  src: url("../media/23b7a97ae3b5c134-s.p.1b2ccc0a.woff2") format("woff2");
+  unicode-range: U+??, U+131, U+152-153, U+2BB-2BC, U+2C6, U+2DA, U+2DC, U+304, U+308, U+329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+
+@font-face {
+  font-family: IBM Plex Mono Fallback;
+  src: local(Arial);
+  ascent-override: 76.16%;
+  descent-override: 20.43%;
+  line-gap-override: 0.0%;
+  size-adjust: 134.59%;
+}
+
+.ibm_plex_mono_dab76419-module__L-vIua__className {
+  font-family: IBM Plex Mono, IBM Plex Mono Fallback;
+  font-style: normal;
+}
+
+.ibm_plex_mono_dab76419-module__L-vIua__variable {
+  --font-plex-mono: "IBM Plex Mono", "IBM Plex Mono Fallback";
+}
+
+/* [next]/internal/font/google/ibm_plex_sans_87992367.module.css [app-client] (css) */
+@font-face {
+  font-family: IBM Plex Sans;
+  font-style: normal;
+  font-weight: 300;
+  font-stretch: 100%;
+  font-display: swap;
+  src: url("../media/7fea77d1d19108bf-s.c949a514.woff2") format("woff2");
+  unicode-range: U+460-52F, U+1C80-1C8A, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;
+}
+
+@font-face {
+  font-family: IBM Plex Sans;
+  font-style: normal;
+  font-weight: 300;
+  font-stretch: 100%;
+  font-display: swap;
+  src: url("../media/1bcd0e671759a44c-s.a3ed597e.woff2") format("woff2");
+  unicode-range: U+301, U+400-45F, U+490-491, U+4B0-4B1, U+2116;
+}
+
+@font-face {
+  font-family: IBM Plex Sans;
+  font-style: normal;
+  font-weight: 300;
+  font-stretch: 100%;
+  font-display: swap;
+  src: url("../media/e15f58668ad64cb8-s.319fa961.woff2") format("woff2");
+  unicode-range: U+370-377, U+37A-37F, U+384-38A, U+38C, U+38E-3A1, U+3A3-3FF;
+}
+
+@font-face {
+  font-family: IBM Plex Sans;
+  font-style: normal;
+  font-weight: 300;
+  font-stretch: 100%;
+  font-display: swap;
+  src: url("../media/90c51ce8fb754fe8-s.323431dc.woff2") format("woff2");
+  unicode-range: U+102-103, U+110-111, U+128-129, U+168-169, U+1A0-1A1, U+1AF-1B0, U+300-301, U+303-304, U+308-309, U+323, U+329, U+1EA0-1EF9, U+20AB;
+}
+
+@font-face {
+  font-family: IBM Plex Sans;
+  font-style: normal;
+  font-weight: 300;
+  font-stretch: 100%;
+  font-display: swap;
+  src: url("../media/57215795b8570f5c-s.0f2c7ba8.woff2") format("woff2");
+  unicode-range: U+100-2BA, U+2BD-2C5, U+2C7-2CC, U+2CE-2D7, U+2DD-2FF, U+304, U+308, U+329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C4, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+
+@font-face {
+  font-family: IBM Plex Sans;
+  font-style: normal;
+  font-weight: 300;
+  font-stretch: 100%;
+  font-display: swap;
+  src: url("../media/03fc1b4a8d284b5e-s.p.af4fcd24.woff2") format("woff2");
+  unicode-range: U+??, U+131, U+152-153, U+2BB-2BC, U+2C6, U+2DA, U+2DC, U+304, U+308, U+329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+
+@font-face {
+  font-family: IBM Plex Sans;
+  font-style: normal;
+  font-weight: 400;
+  font-stretch: 100%;
+  font-display: swap;
+  src: url("../media/7fea77d1d19108bf-s.c949a514.woff2") format("woff2");
+  unicode-range: U+460-52F, U+1C80-1C8A, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;
+}
+
+@font-face {
+  font-family: IBM Plex Sans;
+  font-style: normal;
+  font-weight: 400;
+  font-stretch: 100%;
+  font-display: swap;
+  src: url("../media/1bcd0e671759a44c-s.a3ed597e.woff2") format("woff2");
+  unicode-range: U+301, U+400-45F, U+490-491, U+4B0-4B1, U+2116;
+}
+
+@font-face {
+  font-family: IBM Plex Sans;
+  font-style: normal;
+  font-weight: 400;
+  font-stretch: 100%;
+  font-display: swap;
+  src: url("../media/e15f58668ad64cb8-s.319fa961.woff2") format("woff2");
+  unicode-range: U+370-377, U+37A-37F, U+384-38A, U+38C, U+38E-3A1, U+3A3-3FF;
+}
+
+@font-face {
+  font-family: IBM Plex Sans;
+  font-style: normal;
+  font-weight: 400;
+  font-stretch: 100%;
+  font-display: swap;
+  src: url("../media/90c51ce8fb754fe8-s.323431dc.woff2") format("woff2");
+  unicode-range: U+102-103, U+110-111, U+128-129, U+168-169, U+1A0-1A1, U+1AF-1B0, U+300-301, U+303-304, U+308-309, U+323, U+329, U+1EA0-1EF9, U+20AB;
+}
+
+@font-face {
+  font-family: IBM Plex Sans;
+  font-style: normal;
+  font-weight: 400;
+  font-stretch: 100%;
+  font-display: swap;
+  src: url("../media/57215795b8570f5c-s.0f2c7ba8.woff2") format("woff2");
+  unicode-range: U+100-2BA, U+2BD-2C5, U+2C7-2CC, U+2CE-2D7, U+2DD-2FF, U+304, U+308, U+329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C4, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+
+@font-face {
+  font-family: IBM Plex Sans;
+  font-style: normal;
+  font-weight: 400;
+  font-stretch: 100%;
+  font-display: swap;
+  src: url("../media/03fc1b4a8d284b5e-s.p.af4fcd24.woff2") format("woff2");
+  unicode-range: U+??, U+131, U+152-153, U+2BB-2BC, U+2C6, U+2DA, U+2DC, U+304, U+308, U+329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+
+@font-face {
+  font-family: IBM Plex Sans;
+  font-style: normal;
+  font-weight: 500;
+  font-stretch: 100%;
+  font-display: swap;
+  src: url("../media/7fea77d1d19108bf-s.c949a514.woff2") format("woff2");
+  unicode-range: U+460-52F, U+1C80-1C8A, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;
+}
+
+@font-face {
+  font-family: IBM Plex Sans;
+  font-style: normal;
+  font-weight: 500;
+  font-stretch: 100%;
+  font-display: swap;
+  src: url("../media/1bcd0e671759a44c-s.a3ed597e.woff2") format("woff2");
+  unicode-range: U+301, U+400-45F, U+490-491, U+4B0-4B1, U+2116;
+}
+
+@font-face {
+  font-family: IBM Plex Sans;
+  font-style: normal;
+  font-weight: 500;
+  font-stretch: 100%;
+  font-display: swap;
+  src: url("../media/e15f58668ad64cb8-s.319fa961.woff2") format("woff2");
+  unicode-range: U+370-377, U+37A-37F, U+384-38A, U+38C, U+38E-3A1, U+3A3-3FF;
+}
+
+@font-face {
+  font-family: IBM Plex Sans;
+  font-style: normal;
+  font-weight: 500;
+  font-stretch: 100%;
+  font-display: swap;
+  src: url("../media/90c51ce8fb754fe8-s.323431dc.woff2") format("woff2");
+  unicode-range: U+102-103, U+110-111, U+128-129, U+168-169, U+1A0-1A1, U+1AF-1B0, U+300-301, U+303-304, U+308-309, U+323, U+329, U+1EA0-1EF9, U+20AB;
+}
+
+@font-face {
+  font-family: IBM Plex Sans;
+  font-style: normal;
+  font-weight: 500;
+  font-stretch: 100%;
+  font-display: swap;
+  src: url("../media/57215795b8570f5c-s.0f2c7ba8.woff2") format("woff2");
+  unicode-range: U+100-2BA, U+2BD-2C5, U+2C7-2CC, U+2CE-2D7, U+2DD-2FF, U+304, U+308, U+329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C4, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+
+@font-face {
+  font-family: IBM Plex Sans;
+  font-style: normal;
+  font-weight: 500;
+  font-stretch: 100%;
+  font-display: swap;
+  src: url("../media/03fc1b4a8d284b5e-s.p.af4fcd24.woff2") format("woff2");
+  unicode-range: U+??, U+131, U+152-153, U+2BB-2BC, U+2C6, U+2DA, U+2DC, U+304, U+308, U+329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+
+@font-face {
+  font-family: IBM Plex Sans;
+  font-style: normal;
+  font-weight: 600;
+  font-stretch: 100%;
+  font-display: swap;
+  src: url("../media/7fea77d1d19108bf-s.c949a514.woff2") format("woff2");
+  unicode-range: U+460-52F, U+1C80-1C8A, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;
+}
+
+@font-face {
+  font-family: IBM Plex Sans;
+  font-style: normal;
+  font-weight: 600;
+  font-stretch: 100%;
+  font-display: swap;
+  src: url("../media/1bcd0e671759a44c-s.a3ed597e.woff2") format("woff2");
+  unicode-range: U+301, U+400-45F, U+490-491, U+4B0-4B1, U+2116;
+}
+
+@font-face {
+  font-family: IBM Plex Sans;
+  font-style: normal;
+  font-weight: 600;
+  font-stretch: 100%;
+  font-display: swap;
+  src: url("../media/e15f58668ad64cb8-s.319fa961.woff2") format("woff2");
+  unicode-range: U+370-377, U+37A-37F, U+384-38A, U+38C, U+38E-3A1, U+3A3-3FF;
+}
+
+@font-face {
+  font-family: IBM Plex Sans;
+  font-style: normal;
+  font-weight: 600;
+  font-stretch: 100%;
+  font-display: swap;
+  src: url("../media/90c51ce8fb754fe8-s.323431dc.woff2") format("woff2");
+  unicode-range: U+102-103, U+110-111, U+128-129, U+168-169, U+1A0-1A1, U+1AF-1B0, U+300-301, U+303-304, U+308-309, U+323, U+329, U+1EA0-1EF9, U+20AB;
+}
+
+@font-face {
+  font-family: IBM Plex Sans;
+  font-style: normal;
+  font-weight: 600;
+  font-stretch: 100%;
+  font-display: swap;
+  src: url("../media/57215795b8570f5c-s.0f2c7ba8.woff2") format("woff2");
+  unicode-range: U+100-2BA, U+2BD-2C5, U+2C7-2CC, U+2CE-2D7, U+2DD-2FF, U+304, U+308, U+329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C4, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+
+@font-face {
+  font-family: IBM Plex Sans;
+  font-style: normal;
+  font-weight: 600;
+  font-stretch: 100%;
+  font-display: swap;
+  src: url("../media/03fc1b4a8d284b5e-s.p.af4fcd24.woff2") format("woff2");
+  unicode-range: U+??, U+131, U+152-153, U+2BB-2BC, U+2C6, U+2DA, U+2DC, U+304, U+308, U+329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+
+@font-face {
+  font-family: IBM Plex Sans Fallback;
+  src: local(Arial);
+  ascent-override: 101.32%;
+  descent-override: 27.18%;
+  line-gap-override: 0.0%;
+  size-adjust: 101.17%;
+}
+
+.ibm_plex_sans_87992367-module__SZLKVG__className {
+  font-family: IBM Plex Sans, IBM Plex Sans Fallback;
+  font-style: normal;
+}
+
+.ibm_plex_sans_87992367-module__SZLKVG__variable {
+  --font-plex-sans: "IBM Plex Sans", "IBM Plex Sans Fallback";
+}
+
+/*# sourceMappingURL=%5Bnext%5D_internal_font_google_22bb6396._.css.map*/
