@@ -30,7 +30,7 @@ ORDER = [
     "valorem", "trialteamprep", "autobuilders", "harvestdirectory", "gildedage",
     "texasreconditioning", "meetthebishop", "startagainministries", "dentongopgrassroots",
     "freeformchiropractic", "alltex", "thejuicebardallas", "theamericanquiz",
-    "catalystmktgagency", "radiant-nutrition", "ascendconsulting", "chiltonautobody",
+    "catalystmktgagency", "ascendconsulting", "chiltonautobody",
     "bobthompsonhomes", "yourpoolrepairguy", "michaelrowanministries", "kpxofficial",
     "eddieinservice", "lonestararms", "playatthehive",
 ]
@@ -43,7 +43,6 @@ LIVE = {
 }
 
 REVIEW = {
-    "radiant-nutrition": "https://radiantnutrition.clientreview.co/",
 }
 
 SKIP_TEXT = {
@@ -423,13 +422,11 @@ def build_case(slug, number, fact, dims, used_short):
         notes.append("The review host and the prototype repo were not reachable. This page uses the live site on the matching domain.")
     if slug == "harvestdirectory":
         notes.append("Yavin-Digital/harvestdirectory-prototype contains only a one-line README. The review host did not answer. Copy is from harvestdirectory.com.")
-    if slug == "radiant-nutrition":
-        notes.append("SCOPE.md names the production domain radiantnutrition.com. The review host that answered is radiantnutrition.clientreview.co.")
     desktop, phone = dims["desktop"], dims["phone"]
     repo_line = "Yavin-Digital/{0}-prototype was not readable from this account (HTTP 404), so PROJECT_GUIDE.md and SCOPE.md were not read.".format(slug)
     if slug == "playatthehive":
         repo_line = "Yavin-Digital/playatthehive and playatthehive-prototype were not readable from this account (HTTP 404)."
-    if slug in ("aumakuadefense", "ufixit", "valorem", "radiant-nutrition", "michaelrowanministries", "harvestdirectory"):
+    if slug in ("aumakuadefense", "ufixit", "valorem", "michaelrowanministries", "harvestdirectory"):
         repo_line = f"Repo Yavin-Digital/{slug}-prototype was readable. " + ("SCOPE.md and PROJECT_GUIDE.md were read." if slug != "harvestdirectory" else "The repo has a README only.")
     log = [
         repo_line,
