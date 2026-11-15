@@ -265,12 +265,6 @@ Custom Fit Coverage stays off this site. A DPA Branding-only credit conflicts wi
 - No project year, measured result, named quote, second phone screen, section crop, full-page scroll, or role credit was in the sources used here.
 - No logo file was saved from the page.
 
-### Radiant Nutrition — /work/radiant-nutrition/
-
-- Repo Yavin-Digital/radiant-nutrition-prototype was readable. SCOPE.md and PROJECT_GUIDE.md were read.
-- No project year, measured result, named quote, second phone screen, section crop, full-page scroll, or role credit was in the sources used here.
-- SCOPE.md names the production domain radiantnutrition.com. The review host that answered is radiantnutrition.clientreview.co.
-
 ### Ascend Consulting — /work/ascendconsulting/
 
 - Yavin-Digital/ascendconsulting-prototype was not readable from this account (HTTP 404), so PROJECT_GUIDE.md and SCOPE.md were not read.

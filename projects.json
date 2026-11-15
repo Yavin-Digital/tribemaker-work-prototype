@@ -1055,33 +1055,6 @@
       }
     },
     {
-      "number": "40",
-      "slug": "radiant-nutrition",
-      "shortName": "Radiant Nutrition",
-      "client": "Radiant Nutrition",
-      "category": "personalized dietitian services in argyle, tx",
-      "headline": "Get personalized dietitian services in Argyle, TX from Radiant Nutrition. Insurance accepted, telehealth available\u2014schedule now!",
-      "url": "https://radiantnutrition.clientreview.co/",
-      "pending": false,
-      "images": {
-        "desktop": {
-          "webp": "assets/shots/radiant-nutrition-desktop.webp",
-          "fallback": "assets/shots/radiant-nutrition-desktop.jpg",
-          "width": 1440,
-          "height": 900,
-          "alt": "Homepage of Radiant Nutrition"
-        },
-        "phone": {
-          "webp": "assets/shots/radiant-nutrition-phone.webp",
-          "fallback": "assets/shots/radiant-nutrition-phone.jpg",
-          "width": 390,
-          "height": 844,
-          "alt": "Radiant Nutrition homepage on a phone"
-        },
-        "blur": "assets/shots/radiant-nutrition-blur.webp"
-      }
-    },
-    {
       "number": "41",
       "slug": "ascendconsulting",
       "shortName": "Ascend Consulting",
